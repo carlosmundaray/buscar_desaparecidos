@@ -1,0 +1,38 @@
+*.log
+.DS_Store
+.env
+.env.backup
+.env.production
+.phpactor.json
+.phpunit.result.cache
+/.fleet
+/.idea
+/.nova
+/.phpunit.cache
+/.vscode
+/.zed
+/auth.json
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/vendor
+Homestead.json
+Homestead.yaml
+Thumbs.db
+
+# Base de datos SQLite (no subir datos reales)
+/database/*.sqlite
+/database/*.sqlite-wal
+/database/*.sqlite-shm
+
+# Fotos subidas por usuarios
+/public/uploads/photos/*
+!/public/uploads/photos/.gitkeep
+!/public/uploads/.htaccess
+
+
+# Archivos Zip locales
+Buscar_Desaparecidos.zip

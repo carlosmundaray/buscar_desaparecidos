@@ -1,0 +1,495 @@
+﻿Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio
+ 1 ABDLY ABDELYS 26254624) 28 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+2 ABELLO MATILDE 36 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+3 Abello Wilmari 36 F Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+4 ABREU ANA 22036301) 36 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+5 Abreu Emma 8 F Sabana Grande Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+6 ABREU JOSE 15810058) 52 M Hospital Universitario de Caracas 25/6/26 pm 
+7 ABREU PAULINA 8 Hospital Domingo Luciani (El Llanito) 25/6/26 pm[a] 
+8 ACOSTA ALEXANDER 47 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+9 Acosta Ali 47 M Baruta Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+10 Acosta Hasael 13 M Baruta Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+11 Acosta Isael 10 M Baruta Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+12 ACOSTA ISRAEL 10 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+13 Acosta Yaneli 31760907) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+14 ACOSTA YOLERFAN 28136168) 26 M Hospital Universitario de Caracas 25/6/26 pm 
+15 Aguilera Ana 20003134) Hospital Perez Carreño 24/6/26 11.54pm TRAUMASHOCK 
+16 ALAYON SUHYN 25 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+17 Albe Manuel 77 M NR Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+18 ALCANTARA AMALIS 17443332) 39 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+19 ALVAREZ WILIAN 16125101) Hospital Perez Carreño 24/6/26 11.54pm TRAUMASHOCK 
+20 ANTEQUIA MAYULI 12882457) 50 F Hospital Universitario de Caracas 25/6/26 pm 
+21 ARANA EDUAR Hospital Perez Carreño 25/6/26 
+22 ARRIETA DOLIS 65 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+23 Arrieta Doris 65 F Baruta Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+24 ARRIETA OYOLA DORIS Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+25 ARTEAGA AIDE Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+26 ARTEAGA GLADYS 72 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+27 Azocar Valeria 28544619) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+28 Balbuena Wilmer 37 M Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+29 BALBUENO WILMER 37 Hospital Domingo Luciani (El Llanito) 25/6/26 pm
+um Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servici
+ 30 BARAJA ANDRES 17491087) 41 M Hospital Universitario de Caracas 25/6/26 pm 
+31 BARRETO RICARDO 42 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+32 BASTARDO VERONICA 30170626) Hospital Perez Carreño 25/6/26 TRAUMASHOCK 
+33 BASTIDA ADRIANA 17856045) Hospital Perez Carreño 24/6/26 11.54pm TRAUMASHOCK 
+34 Becerra Leonardo 34800366) Hospital Perez Carreño 24/6/26 11.54pm 
+35 BENEDETTI YORLIANIS 25846221) 29 F Hospital Universitario de Caracas 25/6/26 pm 
+36 Bernal Marcela 6049995) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+37 Betancourt Maria 74 F Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+38 BISBAL CLARA 62 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+39 BLANCO CARMEN 55 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+40 Blanco Jose 6 M El Hatillo Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+41 BLANCO YESSIKA 53 Hospital Domingo Luciani (El Llanito) 25/6/26 pm PISO 2 
+42 BOMPARD RODNI Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+43 BOSPARTE RONNY 33 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+44 Boweyo Jose 26327360) M La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+45 BRACAMONTE GENESIS 31428533) Hospital Perez Carreño 25/6/26 
+46 Brizuela Gabriel 32781459) Hospital Perez Carreño 24/6/26 11.54pm 
+47 Bueno Merido 17158021) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+48 CABARCA YENDERLIN 13 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+49 CABRERA KARINA 30 Hospital Domingo Luciani (El Llanito) 25/6/26 pm TRAUMA 
+50 CABRERA KARINA Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+51 CACERES ELOISE 11061197) 55 M Hospital Universitario de Caracas 25/6/26 pm 
+52 CACERES NATHALIA 36192938) 13 F Hospital Universitario de Caracas 25/6/26 pm 
+53 CACERES PATRICIA 32790475) 18 F Hospital Universitario de Caracas 25/6/26 pm 
+54 CALDERA LEWIS 10 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+55 CARDENAS ALEXANDRA 28143770) Hospital Perez Carreño 24/6/26 11.54pm TRAUMASHOCK 
+56 CARDOZO CARLA 25 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+57 CARRILLO YASMIN 5424760) 67 F Hospital Universitario de Caracas 25/6/26 pm 
+58 Carrizo Viviana 33232603) Hospital Perez Carreño 24/6/26 11.54pm
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio
+ 59 CASTAÑEDA MARIA 73 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+60 CASTAÑO CARLOS Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+61 CASTAÑO DANNA 12 F La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 
+62 CASTAÑO DANNA 12 F La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 
+63 CASTELLANO JOSE 21364204) 35 M Hospital Universitario de Caracas 25/6/26 pm 
+64 CASTILLO AYARI 26327913) Hospital Perez Carreño 25/6/26 
+65 CASTILLO VICTORIA 10 F La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 
+66 CASTILLO VICTORIA 10 F La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 
+67 CASTRO JUAN 26 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+68 CHACON CARLOS 13 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+69 Chacon Elizabeth 27374286) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+70 Chavez Meri 81462470) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+71 CHIRINOS ALEXANDRA 31995517) 21 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+72 CISNERO ROJA 57 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+73 COA DEIVIS 18780841) 36 M Hospital Universitario de Caracas 25/6/26 pm 
+74 Colmenares Darwin 25867267) M La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+75 CORDERO YADIRA 12763837) Hospital Perez Carreño 25/6/26 
+76 CORDOBA EDUANYELIS 6 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+77 Cordova Arnaldo 19 M Guarenas Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+78 Coronel Yonel M La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+79 CORTEZ NOELI 22538576) 30 F Hospital Universitario de Caracas 25/6/26 pm 
+80 CORTEZ YORIMAR 6340991) 58 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+81 CUYAN FRAN 10235290) 60 M Hospital Universitario de Caracas 25/6/26 pm 
+82 De Abreu Geraldine 18709145) F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+83 De Anzola Manuela 296723) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+84 DEAGRELA JOSE 13373135) 48 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+85 Delgado Edimar 23 F San Martin Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+86 DIAZ ANA 10576803) Hospital Perez Carreño 25/6/26 
+87 Divito Rosa 64 F Chacao Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+88 Drana Eduar Hospital Perez Carreño 24/6/26 11.54pm 
+89 ESCALONA IVIS 55 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+90 ESCALONA JOAQUIN 6482918) 65 M Hospital Universitario de Caracas 25/6/26 pm 
+91 ESTEVEZ JOHNSON 29571733) 24 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+92 Fernandez Ana 25699054) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+93 FERNANDEZ ANGEL 16310014) Hospital Perez Carreño 25/6/26 
+94 Fernandez Efrain 31 M Catia Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+95 Fernandez Neisy 37 F Guarenas Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+96 FERNANDEZ RODRIGO Hospital Perez Carreño 25/6/26 
+97 FRONTADO MIEL 7 Hospital Domingo Luciani (El Llanito) 25/6/26 pm Qx  
+98 Fuentes Alberto 52 M Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+99 FUENTES GALVIS ALBERTO Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+100 GARAVITO ESPITIA YOHANY Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+101 Garcia Albani F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+102 Garcia Diaz Yenni Fernanda 34 F Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+103 Garcia Diego 33423811) Hospital Perez Carreño 24/6/26 11.54pm 
+104 GARCIA HEILIMAR 32543420) Hospital Perez Carreño 25/6/26 
+105 Garcia Jolisbe F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+106 GARCIA JUVER 27377514) Hospital Perez Carreño 25/6/26 
+107 Garcia Keilimar 32543420) Hospital Perez Carreño 24/6/26 11.54pm 
+108 GEORRIN VALELLA 30114918) 22 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+109 Gil Cristofer 32919700) M La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+110 GODOY ERIC 18749225) Hospital Perez Carreño 25/6/26 
+111 Gomez Manuel 18814839) Hospital Perez Carreño 25/6/26 
+112 GONCALVEZ GABRIEL 82230906) Hospital Perez Carreño 25/6/26 TRAUMASHOCK 
+113 Gonzalez Albimar 59 F Altamira Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+114 GONZALEZ ALEXANDER Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+115 GONZALEZ ALEXANDRA 42 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+116 Gonzalez Daiberly 30527436) F La Guaira Hospital Vargas de Caracas 25/6/26 pm
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+117 Gonzalez Elizabeth 17709218) Hospital Perez Carreño 24/6/26 11.54pm 
+118 GONZALEZ ISABEL 29701695) Hospital Perez Carreño 25/6/26 TRAUMASHOCK 
+119 Gonzalez Mileibis 26468240) Hospital Perez Carreño 24/6/26 11.54pm 
+120 GONZALEZ OLGA 63 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+121 GONZALEZ RAFAEL 39 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+122 GONZALEZ STEPHANY 22 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+123 GONZALEZ VALERI 10 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+124 Gonzalez Valeria 31383685) F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+125 GONZALEZ YANESKA Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+126 GONZALEZ YURMIS 13828545) 47 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+127 GOSLING RAYMOND 29900166) 49 M Hospital Universitario de Caracas 25/6/26 pm 
+128 GOYO RAFAEL 32 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+129 GRANADO CRIABEL 23926261) Hospital Perez Carreño 25/6/26 
+130 GUALINA PADRON EFREN Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+131 GUAPINI EFREN P2 30 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+132 Guerra Emira 26019884) Hospital Perez Carreño 24/6/26 11.54pm 
+133 Guerra Evelin 17710344) F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+134 GUERRERO DEIVERSON 20 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+135 Guessu Estefani 31428812) F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+136 GUILLEN MARIA 6059288) Hospital Perez Carreño 25/6/26 
+137 Gutierrez Jose 28747519) Hospital Perez Carreño 24/6/26 11.54pm 
+138 GUZMAN ANGELICA 13717596) F Hospital Universitario de Caracas 25/6/26 pm 
+139 HANMA ANTONIO 5072832) 66 M Hospital Universitario de Caracas 25/6/26 pm 
+140 Hernandez Cruz 4636722) Hospital Perez Carreño 24/6/26 11.54pm TRAUMASHOCK 
+141 HERRERO MERLANO GLADIUSKA Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+142 HIDALGO ELIANNI 32976229) Hospital Perez Carreño 25/6/26 TRAUMASHOCK 
+143 IBARRA ANA 74 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+144 IBARRA WUIKMER/WILMER 15332705) 45 M Hospital Universitario de Caracas 25/6/26 pm 
+145 IDALGO ELIANNI 32976229) Hospital Perez Carreño 25/6/26
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+146 IGLESIAS IBSEN 32359883) Hospital Perez Carreño 25/6/26 
+147 Iscala Yenny 42 F Baruta Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+148 Izquierdo Jean 83 M Los Palos Grandes Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+149 JAIMEZ RUBEN DARIO 6433372) 74 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+150 JIMENEZ AXIEL 4 Hospital Domingo Luciani (El Llanito) 25/6/26 pm Qx  
+151 LA VERDE VICTOR 30334452) 18 M Hospital Universitario de Caracas 25/6/26 pm 
+152 LANDER SEBASTIAN M La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 
+153 LANDER SEBASTIAN M La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 
+154 LEMUS DILCIA 13531664) 54 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+155 Leon Gonzalo 22916224) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+156 Liscano Pedro 40 M Chacaito Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+157 Lopez Dukar 12115323) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+158 LOPEZ EDIS 6045544) 70 F Hospital Universitario de Caracas 25/6/26 pm 
+159 LOPEZ FRANCISCA 33230043) 16 F Hospital Universitario de Caracas 25/6/26 pm 
+160 LOPEZ FRANLEYDI Hospital Perez Carreño 25/6/26 TRAUMASHOCK 
+161 LOPEZ HADDY 12 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+162 LOPEZ INGRID 10528878) 58 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+163 LOPEZ NAILIN 15541666) Hospital Perez Carreño 25/6/26 
+164 Lopez Nazare F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+165 LOPEZ THAIS 13641870) Hospital Perez Carreño 25/6/26 
+166 LOPEZ VALERIA 31341560) 20 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+167 LOYO VISBAL CLARA Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+168 LU DINGPI 8358411) 49 M Hospital Universitario de Caracas 25/6/26 pm 
+169 MACHADO ANABELA 9 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+170 Marabito Espitia Joseani 32 F Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+171 Marcano Katiuska 56 F La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+172 Marcano Rosa 4498435) Hospital Perez Carreño 24/6/26 11.54pm 
+173 Marcano Yenni 18384289) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+174 Marquez César 16312925) M La Guaira Hospital Vargas de Caracas 25/6/26 pm
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+175 Marrero Crismaly 15164293) F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+176 MARRERO YORGELIS 31331652) 20 F Hospital Universitario de Caracas 25/6/26 pm 
+177 MARTINEZ JESUS 7 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+178 MARTINEZ JOHAN 10 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+179 MARTINEZ WUILLIAMS 19367804) Hospital Perez Carreño 25/6/26 
+180 MARTINEZ ZORAIDA 6692167) Hospital Perez Carreño 25/6/26 TRAUMASHOCK 
+181 MAYORA GUSTAVO 11643841) 52 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+182 Mayore Elita 13069223) El Junquito Hospital Vargas de Caracas 25/6/26 pm 
+183 Medina Francis 285659) Hospital Perez Carreño 24/6/26 11.54pm TRAUMASHOCK 
+184 MEDINA NATHACHA 29565365) Hospital Perez Carreño 25/6/26 
+185 Mendez Yesiree 24 F Guarenas Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+186 MENDOZA ANA 5343446) 72 F Hospital Universitario de Caracas 25/6/26 pm 
+187 MENDOZA MARIO 6274191) M Hospital Universitario de Caracas 25/6/26 pm 
+188 MENDOZA REINA 6887465) 62 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+189 Mijares Celiana 19734177) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+190 MILANO GLADIUSKA 25 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+191 MILLAN SOILET 18142695) 39 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+192 Miranda Victoria 34054588) Hospital Perez Carreño 24/6/26 11.54pm 
+193 MOLINA NAYIBI 29768360) Hospital Perez Carreño 25/6/26 
+194 MONTILLA NANCY 10813576) 57 F Hospital Universitario de Caracas 25/6/26 pm 
+195 Montolla Maria 25025734) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+196 MORA KIMBERLY 24331288) 34 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+197 Morales Lesvia 5965096) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+198 MORALES MARIA 32807709) 18 F Hospital Universitario de Caracas 25/6/26 pm 
+199 Morillo Anabela 34588981) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+200 MOYANO JAIME 26346743) 28 M Hospital Universitario de Caracas 25/6/26 pm 
+201 MUÑON MARIANGEL 59 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+202 MUÑOZ GEMA 27797121) 24 M Hospital Universitario de Caracas 25/6/26 pm 
+203 MUÑOZ JOSEFINA 72 Hospital Domingo Luciani (El Llanito) 25/6/26 pm
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+204 NAVAS YODALIS 30072743) Hospital Perez Carreño 25/6/26 TRAUMASHOCK 
+205 NOGUERA FABIAN 30334636) 22 M Hospital Universitario de Caracas 25/6/26 pm 
+206 NOVIS CANDELARIO 9416493) Hospital Perez Carreño 25/6/26 
+207 OBREGON DIEGO 14 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+208 OJEDA CARLOS 12066889) 51 M Hospital Universitario de Caracas 25/6/26 pm 
+209 OJEDA YONTACO 13470155) 62 F Hospital Universitario de Caracas 25/6/26 pm 
+210 OMACIENTO SEBASTIAN 16 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+211 ORDAZ LUISANA 58 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+212 OROPEZA CATIA 11639511) 52 F Hospital Universitario de Caracas 25/6/26 pm 
+213 OROPEZA LOURDES 14312852) Hospital Perez Carreño 25/6/26 
+214 OROPEZA SOCORRO 11639518) 53 F Hospital Universitario de Caracas 25/6/26 pm 
+215 OROZCO YUSBELIS 24140952) 35 F Hospital Universitario de Caracas 25/6/26 pm 
+216 ORTIZ ALVARO 4163469) Hospital Perez Carreño 25/6/26 
+217 Ortuño Yonny 5199652) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+218 PACHECO CESAR 26327366) Hospital Perez Carreño 25/6/26 
+219 PADILLA RODOSKI 4 La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 
+220 PADILLA RODOSKI 4 La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 
+221 PADRON JESUS CIRILO Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+222 PALACIO JHON 25304211) 31 M Hospital Universitario de Caracas 25/6/26 pm 
+223 PALMA MILAGRO Hospital Perez Carreño 25/6/26 
+224 PANTOJA RAINER 36085467) 17 F Hospital Universitario de Caracas 25/6/26 pm 
+225 PANTOJA TONI 13409559) 47 M Hospital Universitario de Caracas 25/6/26 pm 
+226 PAREDES YUDI 38834721) Hospital Perez Carreño 24/6/26 11.54pm TRAUMASHOCK 
+227 PAREDEZ CRUZCENAIDA 6405488) Hospital Perez Carreño 24/6/26 11.54pm TRAUMASHOCK 
+228 Parra Estefania 15 F Baruta Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+229 PARRA GABRIELA 15 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+230 PARRA MISEL GABRIELA Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+231 PEDRO JESUS 68 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+232 Perdomo Valeria F La Guaira Hospital Vargas de Caracas 25/6/26 pm
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+233 PEREIRA VILLAMIZAR MARIA ISABEL 8 F Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+234 PEREZ ARIANI 24175821) 20 F Hospital Universitario de Caracas 25/6/26 pm 
+235 PEREZ DAVID 6842773) 61 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+236 Perez Enrique M La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+237 PEREZ FRANCISCA 63 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+238 Perez Francisco 63 M Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+239 Perez Katiuska 18817136) M La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+240 Perez Misarra 15550954) La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+241 Peroza Hilary 29536127) F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+242 PEROZA SAMUEL 33020891) Hospital Perez Carreño 25/6/26 
+243 PESTANO MARGARET 19915985) 45 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+244 PIÑERO SEBASTIAN 16 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+245 PLANAS JOSE 12163470) 52 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+246 PORTILLO OMAR 40 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+247 QUINTERO BARBARA 13422890) Hospital Perez Carreño 25/6/26 
+248 QUINTERO CRISDEILIS 32865296) Hospital Perez Carreño 25/6/26 
+249 RAMIREZ ESCALANTE MARIANGEL Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+250 RAMIREZ JOSE 37 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+251 Ramirez Oriana 27006264) Hospital Perez Carreño 24/6/26 11.54pm TRAUMASHOCK 
+252 RAMIREZ YILMAR 22316562) 32 F Hospital Universitario de Caracas 25/6/26 pm 
+253 /SILVA MARYELIS 32111741) F Hospital Universitario de Caracas 25/6/26 pm 
+254 Rengifo Deili 46 F Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+255 RENGIFO GUILLERMINA 46 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+256 Rey Jennal 29 M Chacao Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+257 REY JENNICEL 29 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+258 RIBAS FABIANA 23 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+259 RIVAS FRANKENIL 53 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+260 RIVAS LOPEZ FRANCIS Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+261 Rivero Daniel 60 M Macaracuay Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+262 Rivero Karleidi 36091784) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+263 RODOSKI PADILLA 52 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+264 Rodriguez Eduardo 65 M Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+265 RODRIGUEZ EDUARDO 65 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+266 Rodriguez Kiara Antonia F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+267 RODRIGUEZ MAIKEL 16208203) 42 M Hospital Universitario de Caracas 25/6/26 pm 
+268 ROJAS RAFAEL 50 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+269 ROMERO JOSE 60 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+270 Rondon Angel 12 M Baruta Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+271 RONDON DAYANA 18 Hospital Perez Carreño 25/6/26 
+272 Rondon Fran 19659867) Hospital Perez Carreño 24/6/26 11.54pm TRAUMASHOCK 
+273 ROSIER LIZ 26068002) 28 F Hospital Universitario de Caracas 25/6/26 pm
+274 RUEDA JOSE 15430608) 45 M Hospital Universitario de Caracas 25/6/26 pm 
+275 SALAZAR ARTURO 13 M La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 
+276 SALAZAR ARTURO 13 M La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 
+277 SALAZAR JUAN 27044236) Hospital Perez Carreño 25/6/26 TRAUMASHOCK 
+278 SANCHEZ JOSE 32320521) 19 M Hospital Universitario de Caracas 25/6/26 pm 
+279 Sandoval Adriana 34518879) Hospital Perez Carreño 24/6/26 11.54pm 
+280 SANDOVAL DORIS 4029093) 80 F Hospital Universitario de Caracas 25/6/26 pm 
+281 SEMERIA IRLLIS 49 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+282 SEQUERA BLANCO SOFIA Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+283 SEQUERA SOFIA 15 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+284 SERRANO GONZALEZ NANCY Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+285 SERRANO NANCY 67 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+286 SILVA IBRAHIM 20562844) 35 M Hospital Universitario de Caracas 25/6/26 pm 
+287 SILVA INDIANA 14929760) F Hospital Universitario de Caracas 25/6/26 pm 
+288 SIVIRA LEONEIDY 25175345) 30 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+289 SOLORZANO AMAR ÑO 31445070) 18 F Hospital Universitario de Caracas 25/6/26 pm 
+290 SOMOZA RIAND 15267293) 19 Hospital Universitario de Caracas 25/6/26 pm
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+291 SOSA EMILIA 3409148) 78 F Hospital Universitario de Caracas 25/6/26 pm 
+292 SOZA ALEJANDRA 6904629) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+293 SPINOLA KELLY 17482090) 38 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+294 STABILITO AMILCAR 23241059) Hospital Perez Carreño 25/6/26 TRAUMASHOCK 
+295 SUAREZ GRANADO RENE Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+296 SUAREZ RENE 62 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+297 Sucre Petra 2945823) Hospital Perez Carreño 24/6/26 11.54pm TRAUMASHOCK 
+298 TERAN AUDIA 11055173) 54 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+299 Teran Audia 11055173) F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+300 TERAN TENIA 11409997) 55 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+301 Torrealba Nuvia 68 F Chacao Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+302 TORREALBA RODRIGUEZ SEBASTIAN CIUDAD CARIBIA JM DE LOS RIOS (HOSP DE NIÑOS) 25/6/26 
+303 Torres Isabel 4718019) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+304 TORRES MILAGROS 46 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+305 TORTOSO OSCAR 20558047) 37 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+306 TOVAR LUISANA 17443980) 17 F Hospital Universitario de Caracas 25/6/26 pm 
+307 TOVAR YEISON 17 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+308 TRIGOSO CARLO 8418724) 59 M Hospital Universitario de Caracas 25/6/26 pm 
+309 Trujillo Elian 19 M La Guaira Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+310 URBINA MOISES 22513789) 30 M Hospital Universitario de Caracas 25/6/26 pm 
+311 Uribe Veronica 22026527) F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+312 VALERO FLEICI 13374764) Hospital Perez Carreño 25/6/26 
+313 Varya Carmen 22550086) F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+314 VASCOCETO ANDREINA 43 Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+315 VASCONCELO ANDREINA Hospital Domingo Luciani (El Llanito) 25/6/26 pm 
+316 Vasquez Luis 77 M sin familiar Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+317 Vega Samuel 11 M Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+318 Velazquez Carmen 16705956) F La Guaira Hospital Vargas de Caracas 25/6/26 pm 
+319 VIERA ROSALINDA 12717087) Hospital Perez Carreño 25/6/26
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+320 Vilchez Brayan 23 M Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+321 VOUIS CANDELARIO 9416493) Hospital Perez Carreño 25/6/26 
+322 Winchester Kellys 28 F Petare Hospital Domingo Luciani (El Llanito) 25/6/26 1.50am 
+323 WU HUA JUAN 8229616) 47 M Hospital Universitario de Caracas 25/6/26 pm 
+324 WU SUSUP 34553337) 14 F Hospital Universitario de Caracas 25/6/26 pm 
+325 YANES SILVIA 3557870) 77 Hopital Ricardo Baquero Gonzalez 25/6/26 Cirugía General 
+326 Yegue Eiban 24058780) Hospital Perez Carreño 24/6/26 11.54pm TRIAJE 
+327 ZAMBRANO DOMINI 18274233) 39 F Hospital Universitario de Caracas 25/6/26 pm 
+328 Cesar Pacheco 26327366) 
+329 Ana Dias 10576803) 
+330 Adriana vestidas 17856045) 
+331 Ana aguilera 20003134) 
+332 Petra Sucre 2945823) 
+333 wilian alvarez 16125101) 
+334 Alexandra Cardenas 28143770) 
+335 Francis Medina 285659) 
+336 Cruz Hernandez 4636722) 
+337 Fran Rondon 19659867) 
+338 leonardo Becerra 34800366) 
+339 Cenaida Paredez 6405488) 
+340 Oriana Ramirez 27006264) 
+341 Alexandra Cardenas 28143770) 
+342 Judid paredes 3883421) 
+343 yadira Cordero 12763837) 
+344 Dayana Rondon 18 
+345 Crisdellis Quintero 32865296) 
+346 Eric godoy 18749225) 
+347 Naylbi Molina 29768360) 
+348 Maria Zamora 27044236)
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+349 Manuel Gomez 18814839) 
+350 Ayari Castillo 26327913) 
+351 Nathacha Medina 29565365) 
+352 Ibsen Iglesias 32359883) 
+353 Fleici Valero 13574764) 
+354 Maria guillen 6059288) 
+355 Juver Garcia 27377514) 
+356 Crisbel Granado 23926261) 
+357 Wuilliams Martinez 19367804) 
+358 Mailin Lopez 15541666) 
+359 Thais Lopez 13641870) 
+360 Angel Fernandez 16310014) 
+361 Genesis Bracamorite 31428533) 
+362 Samuel peroza 33020891) 
+363 Rosalinda Viera 12717087) 
+364 Candelario Vovis 9416493) 
+365 Lourdes Dropeza 14312752) 
+366 Milagro palma 
+367 Rodrigo Fernandez 
+368 Alvaro Ortiz 4163469) 
+369 Barbara Quintero 13422890) 
+370 Rosa Marcano 4493435) 
+371 Adriana Sandoval 34518879) 
+372 Victoria Miranda 34054588) 
+373 Jose Gutierrez 28747519) 
+374 Eduar orana 
+375 Mileibis Gonzalez 26468240) 
+376 Emira Guerra 26019884) 
+377 Keilimar Garcia 32543420)
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio
+ 378 Gabriel brizuela 32781459) 
+379 Viviana Carrizo 33232603) 
+380 Diego Garcia 33423811) 
+381 Venni Marcano 10384289) 
+382 Manuela D Anzola 296723) 
+383 Gonzalo León 22916224) 
+384 Celiana Mijares 19734177) 
+385 yonny Ortoño 5199652) 
+386 yunior tirado 26372024) 
+387 Emili Mosquera 28285779) 
+388 Victor dias 11517536) 
+389 Maria araque 28100561) 
+390 Maryuri sedeño 14194021) 
+391 Barbara Ramirez 18461886) 
+392 David Brito 30678485) 
+393 Marlene davila 19102824) 
+394 Maria Moreno 5613119) 
+395 Fredy Rodriguez 14424783) 
+396 Fernanda Figueira 81659048) 
+397 yose palma 6448839) 
+398 Carmen angarita 12060080) 
+399 yoandri Colina 25872328) 
+400 yermin baptista 31948173) 
+401 Sandra Dias 11638321) 
+402 Juana de Santiago 11688834) 
+403 Yoni Ortuño 5199693) 
+404 Ana Olivero 4281217) 
+405 Marlin Martinez 10576899) 
+406 Juan Garcia 17755829)
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+407 AMilcar Stabilito 23241059) 
+408 Yodalis Navas 30072743) 
+409 Gabriel Joncaluez 82230906) 
+410 Zoraida de Mattines 6092167) 
+411 Elizabeth González 17709218) 
+412 Petra sitre 2945823) TraumaShock 
+413 Wilian Alvarez 16125101) TraumaShock 
+414 Alexandra Cardenas 28143770) TraumaShock 
+415 Francis Medina 285659) TraumaShock 
+416 Cruz Hernandez 4636722) TraumaShock 
+417 Fran Rondon 19659867) TraumaShock 
+418 leonardo Becerra 34800366) TraumaShock 
+419 Cruzcenaida Paredez 6405488) TraumaShock 
+420 Oriana Ramirez 27006264) TraumaShock 
+421 alexandra Cardena 28143770) TraumaShock 
+422 Yudi Paredes 388344) TraumaShock 
+423 Adriana Bastido 17856045) TraumaShock 
+424 Ana aguilera 20003134) TraumaShock 
+425 Juan Salazar 27044236) TraumaShock 
+426 Beronica Bastardo 30170626) TraumaShock 
+427 Isabel Gonzales 29701695) TraumaShock 
+428 Elianni idalgo 32976229) TraumaShock 
+429 Franleydi lopez TraumaShock 
+430 Yenni Marcano 18384289) Triaje 
+431 Manuela De anzola 296723) Triaje 
+432 Gonzalo León 22916224) Triaje 
+433 Celiana Mijares 19734177) Triaje 
+434 Yonny ortuño 5199652) Triaje 
+435 Ana Fernandez 25699054) Triaje
+Num Apellidos y Nombres CI Edad Sexo Procedencia Ingresados x sismo a: Fecha de actualización Hora de Actualización Servicio 
+436 Alejandra soja 6904629) Triaje 
+437 Eiban yegue 24058780) Triaje 
+438 Marcela bernal 6049995) Triaje 
+439 Valeria Azocar 28544619) Triaje 
+440 Anabela Morillo 34588981) Triaje 
+441 Lesvia Morales 5965096) Triaje 
+442 Merido Bueno 17158021) Triaje 
+443 Maria Montolla 25025734) Triaje 
+444 Karleidi Rivero 36091784) Triaje 
+445 Isabel torres 4718019) Triaje 
+446 Duflar Lopez 12115323) Triaje 
+447 Yaneli Acosta 31760907) Triaje 
+448 Meri Chavez 81462470) Triaje 
+449 Elisabeth Chacón 27374286) Triaje 
+450 Medina Parra Fernando José 5 El Junquito Pediatría 
+451 Polanco Yauripoma Lean Santiago 5 Av. Baralt Pediatría 
+452 Parica Parica Laryan Yaque 1 Pediatría 
+453 Mia Acevedo 7 M Catia La Mar Pediatría 
+454 Brito Antonela 11 Catia Pediatría 
+455 Gonzales Velasquez Fabián 7 M Catia La Mar Pediatría 
+456 Orozco Pelaez Diego 8-9 Pediatría 
+457 Vergara Blanca Aranza 11 Taraguarena Pediatría 
+458 Rodriguez Olivo Joelvinger Jesus 9 La Guaira Pediatría 
+459 eduanyeli Valentine Perez Olibo 1 La Guaira Pediatría 
+460 Emili  10 Catia La Mar Pediatría 
+461 Zamara Valentine del Monte 10 La Guaira Pediatría 
+462 Yordano Flores 1 La Guaira Pediatría
+Estatus fallecida
+Estatus
+Estatus
+Estatus
+Estatus
+Estatus
+Estatus
+Estatus
+Estatus
+Estatus
+Estatus
+Estatus
+Estatus
+Estatus
+Estatus
+Estatus
+[a]Verificar que no esten siendo duplicados en el sitio web de https://hospitalesenvenezuela.com/

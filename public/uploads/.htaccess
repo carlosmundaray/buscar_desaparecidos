@@ -1,0 +1,12 @@
+# Prevenir ejecución de scripts PHP disfrazados de imágenes
+<FilesMatch "\.(?:php[0-9]?|phtml|pht|phps)$">
+    Require all denied
+</FilesMatch>
+
+# Prevenir listado de directorio
+Options -Indexes
+
+# Solo permitir acceso a tipos de archivo de imagen
+<FilesMatch "\.(?:jpe?g|png|gif|webp|svg|ico)$">
+    Require all granted
+</FilesMatch>
