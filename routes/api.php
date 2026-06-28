@@ -23,6 +23,45 @@ Route::name('api.')->group(function () {
         ->middleware('throttle:api-sync')
         ->name('sincronizar-busqueda');
 
+    Route::get('/centros', function (Illuminate\Http\Request $request) {
+        $path = public_path('data/centros_venezuela.json');
+        if (!file_exists($path)) {
+            return response()->json(['success' => false, 'message' => 'No se encontraron centros.'], 404);
+        }
+        $data = json_decode(file_get_contents($path), true);
+
+        $query = strtolower(trim($request->query('query', '')));
+        $city = trim($request->query('city', ''));
+        $type = trim($request->query('type', ''));
+
+        $filtered = array_values(array_filter($data, function ($item) use ($query, $city, $type) {
+            if ($query) {
+                $nameMatch = isset($item['name']) && str_contains(strtolower($item['name']), $query);
+                $addressMatch = isset($item['address']) && str_contains(strtolower($item['address']), $query);
+                $cityMatch = isset($item['city']) && str_contains(strtolower($item['city']), $query);
+                if (!$nameMatch && !$addressMatch && !$cityMatch) {
+                    return false;
+                }
+            }
+
+            if ($city && (!isset($item['city']) || strcasecmp($item['city'], $city) !== 0)) {
+                return false;
+            }
+
+            if ($type && (!isset($item['type']) || strcasecmp($item['type'], $type) !== 0)) {
+                return false;
+            }
+
+            return true;
+        }));
+
+        return response()->json([
+            'success' => true,
+            'total' => count($filtered),
+            'centros' => $filtered
+        ]);
+    })->middleware('throttle:api-search')->name('centros');
+
     Route::post('/buscar-foto', [DesaparecidoController::class, 'searchByPhoto'])
         ->middleware('throttle:api-photo')
         ->name('buscar-foto');

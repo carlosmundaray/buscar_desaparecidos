@@ -36,6 +36,11 @@
                     </a>
                 </li>
                 <li>
+                    <a href="#get-centros" class="nav-link">
+                        <span class="badge badge-get">GET</span> /api/centros
+                    </a>
+                </li>
+                <li>
                     <a href="#post-buscar-foto" class="nav-link">
                         <span class="badge badge-post">POST</span> /api/buscar-foto
                     </a>
@@ -467,6 +472,128 @@ print_r(json_decode($response, true));</code></pre>
     ],
     "total": 1
   }
+}</code></pre>
+                </div>
+            </div>
+        </section>
+
+        <hr class="section-divider">
+
+        <!-- Sección: GET /api/centros -->
+        <section id="get-centros" class="api-section">
+            <div class="section-left">
+                <div class="endpoint-badge-wrapper">
+                    <span class="badge badge-get">GET</span>
+                    <code>/api/centros</code>
+                </div>
+                <h3>Obtener Centros de Acopio y Refugios</h3>
+                <p>
+                    Retorna el listado completo o filtrado de los centros de acopio autorizados y refugios/albergues temporales en Venezuela. Permite a otras aplicaciones geolocalizar la ayuda o indicar dónde llevar donaciones.
+                </p>
+
+                <h4>Parámetros de Consulta (Query Params)</h4>
+                <table class="params-table">
+                    <thead>
+                        <tr>
+                            <th>Parámetro</th>
+                            <th>Tipo</th>
+                            <th>Requerido</th>
+                            <th>Descripción</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><code>query</code></td>
+                            <td>string</td>
+                            <td>No</td>
+                            <td>Texto de búsqueda para filtrar por nombre del centro o dirección.</td>
+                        </tr>
+                        <tr>
+                            <td><code>city</code></td>
+                            <td>string</td>
+                            <td>No</td>
+                            <td>Nombre de la ciudad (Ej. <code>Caracas</code>, <code>Valencia</code>, <code>Maracaibo</code>).</td>
+                        </tr>
+                        <tr>
+                            <td><code>type</code></td>
+                            <td>string</td>
+                            <td>No</td>
+                            <td>Tipo de recurso: <code>acopio</code> (Centros de acopio) o <code>refugio</code> (Refugios/albergues).</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="section-right">
+                <div class="code-playground">
+                    <div class="playground-tabs">
+                        <button class="tab-btn active" onclick="switchLang('get-centros', 'curl')">cURL</button>
+                        <button class="tab-btn" onclick="switchLang('get-centros', 'js')">JavaScript</button>
+                        <button class="tab-btn" onclick="switchLang('get-centros', 'python')">Python</button>
+                        <button class="tab-btn" onclick="switchLang('get-centros', 'php')">PHP</button>
+                        <button class="copy-btn" onclick="copySnippet('get-centros')"><i class="fa-regular fa-copy"></i></button>
+                    </div>
+                    <div class="playground-snippets" id="get-centros-snippets">
+                        <!-- cURL -->
+                        <pre class="snippet-code active" data-lang="curl"><code>curl -i "{{ url('/api/centros?city=Valencia&type=acopio') }}" \
+  -H "Accept: application/json"</code></pre>
+                        <!-- JavaScript -->
+                        <pre class="snippet-code" data-lang="js"><code>fetch('{{ url('/api/centros?city=Valencia&type=acopio') }}', {
+  headers: {
+    'Accept': 'application/json'
+  }
+})
+.then(res => res.json())
+.then(data => console.log(data));</code></pre>
+                        <!-- Python -->
+                        <pre class="snippet-code" data-lang="python"><code>import requests
+
+url = "{{ url('/api/centros') }}"
+params = {
+    'city': 'Valencia',
+    'type': 'acopio'
+}
+headers = {'Accept': 'application/json'}
+
+response = requests.get(url, params=params, headers=headers)
+print(response.json())</code></pre>
+                        <!-- PHP -->
+                        <pre class="snippet-code" data-lang="php"><code>&lt;?php
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, "{{ url('/api/centros?city=Valencia&type=acopio') }}");
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_HTTPHEADER, ['Accept: application/json']);
+
+$response = curl_exec($ch);
+curl_close($ch);
+print_r(json_decode($response, true));</code></pre>
+                    </div>
+                </div>
+
+                <div class="code-box response-box">
+                    <div class="code-header">
+                        <span>Respuesta Exitosa (200 OK)</span>
+                    </div>
+                    <pre><code class="language-json">{
+  "success": true,
+  "total": 1,
+  "centros": [
+    {
+      "id": 14,
+      "type": "acopio",
+      "name": "Vecinos La Isabelica",
+      "address": "La Isabelica, sector 5 (Av. Principal), Valencia, Carabobo",
+      "city": "Valencia",
+      "receives": [
+        "agua",
+        "alimentos no perecederos",
+        "ropa",
+        "medicamentos"
+      ],
+      "contact": null,
+      "lat": 10.1636281,
+      "lng": -67.9694285
+    }
+  ]
 }</code></pre>
                 </div>
             </div>
