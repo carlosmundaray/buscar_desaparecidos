@@ -1,0 +1,7122 @@
+[
+  {
+    "id": 272,
+    "type": "acopio",
+    "name": "Expresos Occidente",
+    "address": "Principales sedes, Venezuela",
+    "city": null,
+    "receives": [
+      "Alimentos no perecederos",
+      "agua potable embotellada",
+      "artículos de higiene",
+      "insumos médicos",
+      "ropa limpia y en buen estado"
+    ],
+    "contact": null,
+    "lat": 8.0018709,
+    "lng": -66.1109318
+  },
+  {
+    "id": 773,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Acarigua-Araure",
+    "address": "Centro Comercial Ciudad Cristal, local número 39",
+    "city": "Acarigua",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.5508,
+    "lng": -69.20328
+  },
+  {
+    "id": 406,
+    "type": "acopio",
+    "name": "C.C. Ciudad Cristal — Centro de acopio (Acarigua)",
+    "address": "C.C. Ciudad Cristal",
+    "city": "Acarigua",
+    "receives": null,
+    "contact": "@mv_negra2",
+    "lat": 9.56,
+    "lng": -69.21
+  },
+  {
+    "id": 517,
+    "type": "acopio",
+    "name": "Centro de acopio Agua Blanca (Portuguesa)",
+    "address": "Av. 4 entre calle 13 y 14 (Farmacia El Venerable)",
+    "city": "Agua Blanca",
+    "receives": null,
+    "contact": "@mariaoropeza94",
+    "lat": 9.55,
+    "lng": -69.18
+  },
+  {
+    "id": 774,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Agua Blanca",
+    "address": "Avenida 4 entre calle 13 y 14, Farmacia El Venerable",
+    "city": "Agua Blanca",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.66305,
+    "lng": -69.10634
+  },
+  {
+    "id": 782,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Altagracia de Orituco",
+    "address": "Altagracia de Orituco, calle Gil Pulido N° 9, casa de la familia Rosa",
+    "city": "Altagracia de Orituco",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "0424375345204242531263",
+    "lat": 9.86245,
+    "lng": -66.36056
+  },
+  {
+    "id": 797,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Anaco",
+    "address": "Plaza Bolívar, Calle Negro Primero entre 24 de Julio y Primero de Mayo (Casa María Corina Machado)",
+    "city": "Anaco",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.43219,
+    "lng": -64.46683
+  },
+  {
+    "id": 457,
+    "type": "acopio",
+    "name": "TODOCAUCHO — Acopio (Anaco)",
+    "address": "Av. Miranda, frente al aeropuerto, detrás E/S Zamora",
+    "city": "Anaco",
+    "receives": null,
+    "contact": "@Purpleplumwords",
+    "lat": 9.4256,
+    "lng": -64.4636
+  },
+  {
+    "id": 345,
+    "type": "acopio",
+    "name": "Esquina de Banesco — Av. República",
+    "address": "Av. República, esquina de Banesco, Angostura del Orinoco (Ciudad Bolívar)",
+    "city": "Angostura del Orinoco (Ciudad Bolívar)",
+    "receives": [],
+    "contact": null,
+    "lat": 8.1267983,
+    "lng": -63.5535498
+  },
+  {
+    "id": 776,
+    "type": "acopio",
+    "name": "Unidos por Venezuela — Aragua de Barcelona (Plaza Arreaza Matute)",
+    "address": "Plaza Arreaza Matute",
+    "city": "Aragua de Barcelona",
+    "receives": [
+      "alimentos",
+      "medicamentos"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.45838,
+    "lng": -64.82615
+  },
+  {
+    "id": 270,
+    "type": "acopio",
+    "name": "Sociedad civil · Anzoategui",
+    "address": "CC Santa Eulalia, urb Boyacá, exq Brill, Anzoategui, Venezuela",
+    "city": "Barcelona",
+    "receives": [
+      "Alimentos no perecederos",
+      "ropa en buenas condiciones",
+      "medicamentos de primera necesidad",
+      "artículos de higiene"
+    ],
+    "contact": "Brill Panadería https://www.instagram.com/stories/exqbrill/3927402934296267999/?hl=es",
+    "lat": 8.9454449,
+    "lng": -64.4282056
+  },
+  {
+    "id": 117,
+    "type": "acopio",
+    "name": "CC Santa Eulalia — Exq. Brill Panadería",
+    "address": "CC Santa Eulalia, Urb. Boyacá, Exq. Brill, Anzoátegui",
+    "city": "Barcelona",
+    "receives": [
+      "alimentos",
+      "ropa",
+      "medicinas",
+      "higiene"
+    ],
+    "contact": "https://www.instagram.com/stories/exqbrill/",
+    "lat": 10.1558,
+    "lng": -64.6799
+  },
+  {
+    "id": 409,
+    "type": "acopio",
+    "name": "Rotary Club Barcelona — Centro de acopio",
+    "address": "Av. Rotaria, entrada de Tronconal III",
+    "city": "Barcelona",
+    "receives": null,
+    "contact": "@lasuvasdelaira",
+    "lat": 10.118,
+    "lng": -64.687
+  },
+  {
+    "id": 452,
+    "type": "acopio",
+    "name": "Protección Civil / Gobernación de Anzoátegui — Acopio",
+    "address": "Av. Fuerzas Armadas",
+    "city": "Barcelona",
+    "receives": null,
+    "contact": "@globovision",
+    "lat": 10.1357,
+    "lng": -64.6856
+  },
+  {
+    "id": 455,
+    "type": "acopio",
+    "name": "C.C. Santa Eulalia — Acopio (Barcelona)",
+    "address": "C.C. Santa Eulalia, Urb. Boyacá, Esq. Brill",
+    "city": "Barcelona",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 10.13,
+    "lng": -64.69
+  },
+  {
+    "id": 456,
+    "type": "acopio",
+    "name": "UGMA Barcelona — Acopio",
+    "address": "Sede UGMA, Barcelona",
+    "city": "Barcelona",
+    "receives": null,
+    "contact": "@martleonardvzla",
+    "lat": 10.131,
+    "lng": -64.7
+  },
+  {
+    "id": 739,
+    "type": "acopio",
+    "name": "Iglesia Cuadrangular — Todos por Venezuela",
+    "address": "Sedes Cuadrangular La Ponderosa y Brisas del Morro (recogen en Barcelona, Puerto La Cruz y Lechería)",
+    "city": "Barcelona",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa"
+    ],
+    "contact": "+584147640458+584147989335",
+    "lat": 10.1326,
+    "lng": -64.68196
+  },
+  {
+    "id": 519,
+    "type": "acopio",
+    "name": "Iglesia Inmaculada — Acopio (Barinas)",
+    "address": "Iglesia Inmaculada, Alto Barinas Norte",
+    "city": "Barinas",
+    "receives": null,
+    "contact": "@Rebeca_78",
+    "lat": 8.6,
+    "lng": -70.23
+  },
+  {
+    "id": 817,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Barinas",
+    "address": "Av. Marqués del Pumar, diagonal al Hotel Comercio, Casa Azul",
+    "city": "Barinas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.63165,
+    "lng": -70.21144
+  },
+  {
+    "id": 145,
+    "type": "acopio",
+    "name": "Fe y Alegría — Padre Felipe Salvador Gilij",
+    "address": "Fe y Alegría \"Padre Felipe Salvador Gilij\", Barinas",
+    "city": "Barinas",
+    "receives": [
+      "alimentos",
+      "medicinas",
+      "ropa",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.6051,
+    "lng": -70.1957
+  },
+  {
+    "id": 148,
+    "type": "acopio",
+    "name": "Comando ConVzla — Barinas Capital",
+    "address": "Av. Marqués del Pumar, diagonal al Hotel Comercio, Casa Azul, Barinas",
+    "city": "Barinas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": null,
+    "lat": 8.6257,
+    "lng": -70.2177
+  },
+  {
+    "id": 681,
+    "type": "acopio",
+    "name": "Restaurant O'Maria",
+    "address": "Municipio Ezequiel Zamora, Carrera 5 con calles 18 y 19, Santa Bárbara de Barinas",
+    "city": "Barinas",
+    "receives": [],
+    "contact": "No especificado",
+    "lat": 8.622,
+    "lng": -70.207
+  },
+  {
+    "id": 430,
+    "type": "acopio",
+    "name": "Casa Azul — Centro de acopio (Barinas)",
+    "address": "Av. Marqués del Pumar, diagonal al Hotel Comercio",
+    "city": "Barinas",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 8.624,
+    "lng": -70.207
+  },
+  {
+    "id": 432,
+    "type": "acopio",
+    "name": "Fe y Alegría — Centro de acopio (Barinas)",
+    "address": "Colegio Fe y Alegría P. Felipe Salvador Gilij",
+    "city": "Barinas",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 8.623,
+    "lng": -70.235
+  },
+  {
+    "id": 490,
+    "type": "acopio",
+    "name": "Centro de acopio \"Los buenos somos más\" (Barinas)",
+    "address": "Frente al C.C. Cima, Alto Barinas",
+    "city": "Barinas",
+    "receives": null,
+    "contact": "@laredinfdevzla",
+    "lat": 8.615,
+    "lng": -70.245
+  },
+  {
+    "id": 748,
+    "type": "acopio",
+    "name": "Fe y Alegría — Barinas",
+    "address": "Sede Padre Felipe Salvador Gilij, Calle Mérida",
+    "city": "Barinas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.61827,
+    "lng": -70.22741
+  },
+  {
+    "id": 816,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Barinitas",
+    "address": "Carrera 6 entre calles 22 y 23, Antigua Rancha de Henry, Casa Azul",
+    "city": "Barinitas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.75814,
+    "lng": -70.40926
+  },
+  {
+    "id": 536,
+    "type": "acopio",
+    "name": "Protección Civil (plaza del Ajedrez) — Acopio (Barquisimeto)",
+    "address": "Plaza del Ajedrez, frente a iglesia Santa Teresita",
+    "city": "Barquisimeto",
+    "receives": null,
+    "contact": "@Mvbm_",
+    "lat": 10.066,
+    "lng": -69.3
+  },
+  {
+    "id": 579,
+    "type": "acopio",
+    "name": "Monumento La Flor de Venezuela — Acopio (Barquisimeto)",
+    "address": "Monumento La Flor de Venezuela, Av. Libertador (este)",
+    "city": "Barquisimeto",
+    "receives": null,
+    "contact": "@notipromar",
+    "lat": 10.0539,
+    "lng": -69.2865
+  },
+  {
+    "id": 329,
+    "type": "acopio",
+    "name": "Voluntariado Higea · Barquisimeto",
+    "address": "Fundación Higea, Barquisimeto, Venezuela",
+    "city": "Barquisimeto",
+    "receives": [
+      "Alimentos no perecederos",
+      "medicinas",
+      "insumos médicos",
+      "cobijas y ropa"
+    ],
+    "contact": "https://www.instagram.com/voluntariadohigea?igsh=MXBxYXAzdHh3cnBsdg==",
+    "lat": 10.0787616,
+    "lng": -69.310191
+  },
+  {
+    "id": 331,
+    "type": "acopio",
+    "name": "Sociedad civil · Barquisimeto",
+    "address": "Tatas Food, carrera 15 entre calles 13A y 13B, Barquisimeto, Venezuela",
+    "city": "Barquisimeto",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": null,
+    "lat": 10.0596815,
+    "lng": -69.3505268
+  },
+  {
+    "id": 847,
+    "type": "acopio",
+    "name": "Caritas Barquisimeto - Sede Principal",
+    "address": "Carrera 18, entre calles 34 y 35, Barquisimeto, Lara",
+    "city": "Barquisimeto",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Caritas Lara",
+    "lat": 10.071,
+    "lng": -69.324
+  },
+  {
+    "id": 343,
+    "type": "acopio",
+    "name": "Tatas Food — Barquisimeto",
+    "address": "Carrera 15 entre calles 13A y 13B, Barquisimeto, Lara",
+    "city": "Barquisimeto",
+    "receives": [],
+    "contact": null,
+    "lat": 10.0593795,
+    "lng": -69.3540003
+  },
+  {
+    "id": 112,
+    "type": "acopio",
+    "name": "G3 Logística — Zona Industrial II Barquisimeto",
+    "address": "Zona Industrial II, Av. Principal con Calle 6, Locales 110-111-112, Municipio Iribarren, Barquisimeto, Lara",
+    "city": "Barquisimeto",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicinas",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 10.0797,
+    "lng": -69.3726
+  },
+  {
+    "id": 396,
+    "type": "acopio",
+    "name": "SEMALARA — Gobernación de Lara (Barquisimeto)",
+    "address": "Calle 25 entre carreras 3 y 4, Zona Industrial I",
+    "city": "Barquisimeto",
+    "receives": null,
+    "contact": "@notipromar",
+    "lat": 10.063,
+    "lng": -69.355
+  },
+  {
+    "id": 142,
+    "type": "acopio",
+    "name": "Colegio Las Colinas — Entrada El Pedregal",
+    "address": "Colegio Las Colinas, entrada El Pedregal, Barquisimeto, Lara",
+    "city": "Barquisimeto",
+    "receives": [
+      "equipos",
+      "medicinas"
+    ],
+    "contact": "https://www.instagram.com/colegiolascolinas1969",
+    "lat": 10.0603,
+    "lng": -69.2819
+  },
+  {
+    "id": 143,
+    "type": "acopio",
+    "name": "Voluntariado Higea — Fundación Higea",
+    "address": "Fundación Higea, Barquisimeto, Lara",
+    "city": "Barquisimeto",
+    "receives": [
+      "alimentos",
+      "medicinas",
+      "higiene",
+      "ropa"
+    ],
+    "contact": "https://www.instagram.com/voluntariadohigea",
+    "lat": 10.0788,
+    "lng": -69.3102
+  },
+  {
+    "id": 144,
+    "type": "acopio",
+    "name": "Voluntariado Higea — Biotel Suites",
+    "address": "Biotel Suites, Barquisimeto, Lara",
+    "city": "Barquisimeto",
+    "receives": [
+      "alimentos",
+      "medicinas",
+      "higiene",
+      "ropa"
+    ],
+    "contact": "https://www.instagram.com/voluntariadohigea",
+    "lat": 10.0683,
+    "lng": -69.3561
+  },
+  {
+    "id": 403,
+    "type": "acopio",
+    "name": "G3 Logística — Acopio (Barquisimeto)",
+    "address": "Zona Industrial II, Av. Principal con Calle 6, Locales 110-111-112",
+    "city": "Barquisimeto",
+    "receives": null,
+    "contact": null,
+    "lat": 10.0492,
+    "lng": -69.289
+  },
+  {
+    "id": 404,
+    "type": "acopio",
+    "name": "Tatas Food — Centro de acopio (Barquisimeto)",
+    "address": "Carrera 15 entre calles 13A y 13B",
+    "city": "Barquisimeto",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 10.069,
+    "lng": -69.323
+  },
+  {
+    "id": 661,
+    "type": "acopio",
+    "name": "Cáritas Barquisimeto",
+    "address": "Carrera 18, entre calles 34 y 35 (sede principal)",
+    "city": "Barquisimeto",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.07744,
+    "lng": -69.32223
+  },
+  {
+    "id": 433,
+    "type": "acopio",
+    "name": "Colegio Las Colinas — Acopio (Barquisimeto)",
+    "address": "Colegio Las Colinas, entrada de El Pedregal",
+    "city": "Barquisimeto",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 10.0648,
+    "lng": -69.357
+  },
+  {
+    "id": 729,
+    "type": "refugio",
+    "name": "Tatas Food (Centro de Acopio)",
+    "address": "Carrera 15 entre calles 13A y 13B",
+    "city": "Barquisimeto",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Recepción de insumos prioritarios",
+    "lat": 10.071,
+    "lng": -69.324
+  },
+  {
+    "id": 732,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Barquisimeto (Sambil)",
+    "address": "Av. Venezuela, al lado del Sambil (canal lento desde la Av. Morán hasta el Sambil), al lado de Seguros Altamira",
+    "city": "Barquisimeto",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.07185,
+    "lng": -69.2815
+  },
+  {
+    "id": 281,
+    "type": "acopio",
+    "name": "Comando Con Venezuela · Barinas",
+    "address": "Municipio Cruz Paredes Av Bolívar diagonal al Hotel del Búfalo Casa Azul Barrancas, Barinas, Venezuela",
+    "city": "Barrancas",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": "4145298154",
+    "lat": 8.1450535,
+    "lng": -69.8567392
+  },
+  {
+    "id": 815,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Barrancas",
+    "address": "Av. Bolívar, diagonal al Hotel del Búfalo, Casa Azul",
+    "city": "Barrancas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.7648,
+    "lng": -70.11593
+  },
+  {
+    "id": 146,
+    "type": "acopio",
+    "name": "Comando ConVzla — Barrancas (Mun. Cruz Paredes)",
+    "address": "Municipio Cruz Paredes, Av. Bolívar diagonal al Hotel del Búfalo, Casa Azul, Barrancas, Barinas",
+    "city": "Barrancas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": "04145298154",
+    "lat": 8.754,
+    "lng": -70.1083
+  },
+  {
+    "id": 431,
+    "type": "acopio",
+    "name": "Casa Azul Barrancas — Centro de acopio",
+    "address": "Av. Bolívar, diagonal al Hotel del Búfalo",
+    "city": "Barrancas (Barinas)",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 8.683,
+    "lng": -70.21
+  },
+  {
+    "id": 529,
+    "type": "acopio",
+    "name": "CAR Santo Tomás de Aquino (Dep. La Guaira) — Acopio",
+    "address": "Las Mesetas, Santa Rosa de Lima",
+    "city": "Baruta",
+    "receives": null,
+    "contact": "@GabrielPeraza_",
+    "lat": 10.466,
+    "lng": -66.846
+  },
+  {
+    "id": 581,
+    "type": "acopio",
+    "name": "Futuros Sports Complex — Acopio (Baruta)",
+    "address": "Cumbres de Curumo",
+    "city": "Baruta",
+    "receives": null,
+    "contact": "@GabrielPeraza_",
+    "lat": 10.448,
+    "lng": -66.864
+  },
+  {
+    "id": 159,
+    "type": "acopio",
+    "name": "Policía de Baruta",
+    "address": null,
+    "city": "Baruta",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4309865,
+    "lng": -66.8732375
+  },
+  {
+    "id": 160,
+    "type": "acopio",
+    "name": "Protección Civil El Cafetal — Baruta",
+    "address": null,
+    "city": "Baruta",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4649711,
+    "lng": -66.8294792
+  },
+  {
+    "id": 765,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Biscucuy (Sucre)",
+    "address": "Carrera 2 Bolívar entre calle 8 y 9, sede de Acción Democrática",
+    "city": "Biscucuy",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.35633,
+    "lng": -69.98561
+  },
+  {
+    "id": 764,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Boconoíto (San Genaro)",
+    "address": "Plazoleta San Genaro, frente a la iglesia católica",
+    "city": "Boconoíto",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.26396,
+    "lng": -69.26604
+  },
+  {
+    "id": 522,
+    "type": "acopio",
+    "name": "C.C. Borjas (Xtrema 98.9 FM) — Acopio (Cabimas)",
+    "address": "C.C. Borjas, Carretera H",
+    "city": "Cabimas",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 10.4,
+    "lng": -71.45
+  },
+  {
+    "id": 524,
+    "type": "acopio",
+    "name": "Acopio Av. 32 (Corpoelec) — Cabimas",
+    "address": "Av. 32 con Carretera H, frente a Corpoelec",
+    "city": "Cabimas",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 10.388,
+    "lng": -71.448
+  },
+  {
+    "id": 271,
+    "type": "acopio",
+    "name": "Gobierno de Venezuela · Cabimas",
+    "address": "Carretera H, frente al Hotel Costa Sol (antiguo El Remanso), Cabimas, Venezuela",
+    "city": "Cabimas",
+    "receives": [
+      "Alimentos no perecederos",
+      "productos de higiene personal",
+      "insumos médicos básicos",
+      "productos de limpieza",
+      "ropa y calzado en buen estado",
+      "agua potable envasada"
+    ],
+    "contact": null,
+    "lat": 10.395075,
+    "lng": -71.4414049
+  },
+  {
+    "id": 109,
+    "type": "acopio",
+    "name": "Punto de Acopio — CC Borjas / Xtrema 98.9FM, Cabimas",
+    "address": "Carretera H, Centro Comercial Borjas, estación radial Xtrema 98.9FM, Cabimas, Zulia",
+    "city": "Cabimas",
+    "receives": [
+      "alimentos",
+      "higiene",
+      "medicinas",
+      "ropa",
+      "agua"
+    ],
+    "contact": null,
+    "lat": 10.3986,
+    "lng": -71.4582
+  },
+  {
+    "id": 110,
+    "type": "acopio",
+    "name": "Punto de Acopio — Corpoelec Cabimas",
+    "address": "Avenida 32 con Carretera H, frente a las oficinas de Corpoelec, Cabimas, Zulia",
+    "city": "Cabimas",
+    "receives": [
+      "alimentos",
+      "higiene",
+      "medicinas",
+      "ropa",
+      "agua"
+    ],
+    "contact": null,
+    "lat": 10.4084,
+    "lng": -71.442
+  },
+  {
+    "id": 111,
+    "type": "acopio",
+    "name": "Punto de Acopio — Hotel Costa Sol, Cabimas",
+    "address": "Carretera H, frente al Hotel Costa Sol (antiguo El Remanso), Cabimas, Zulia",
+    "city": "Cabimas",
+    "receives": [
+      "alimentos",
+      "higiene",
+      "medicinas",
+      "ropa",
+      "agua"
+    ],
+    "contact": null,
+    "lat": 10.4012,
+    "lng": -71.4545
+  },
+  {
+    "id": 789,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Cabruta (Calle Urdaneta)",
+    "address": "Cabruta: Calle Urdaneta N° 103, frente a la Escuela Ángel Moreno, Casa de Angelina Ruíz",
+    "city": "Cabruta",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "0416792696704264670372",
+    "lat": 7.64831,
+    "lng": -66.24592
+  },
+  {
+    "id": 141,
+    "type": "acopio",
+    "name": "Fitness Factory Cabudare — CC Multimall",
+    "address": "CC Hipermercado Multimall, Avenida El Placer con Av. Libertador, Cabudare, Lara",
+    "city": "Cabudare",
+    "receives": [
+      "agua",
+      "alimentos",
+      "higiene",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": "https://www.instagram.com/p/DaApx5TAAkN/",
+    "lat": 10.038,
+    "lng": -69.277
+  },
+  {
+    "id": 402,
+    "type": "acopio",
+    "name": "C.C. Multimall — Centro de acopio (Cabudare)",
+    "address": "C.C. Multimall, Av. El Placer con Av. Libertador",
+    "city": "Cabudare",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 10.028,
+    "lng": -69.262
+  },
+  {
+    "id": 736,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Cabudare (Palavecino)",
+    "address": "Los Rastrojos, Calle 3, esquina Calle Aquilino Juárez, diagonal al Centro Deportivo El Cuadrito, detrás de la Escuela Pedro Gual",
+    "city": "Cabudare",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.02605,
+    "lng": -69.24366
+  },
+  {
+    "id": 504,
+    "type": "acopio",
+    "name": "C.C. San Benito — Acopio (Cabudare)",
+    "address": "C.C. San Benito, Urb. Las Mercedes",
+    "city": "Cabudare",
+    "receives": null,
+    "contact": "@VoluntadPopular",
+    "lat": 10.034,
+    "lng": -69.27
+  },
+  {
+    "id": 520,
+    "type": "acopio",
+    "name": "Club Camarón — Acopio (Cagua)",
+    "address": "Club Camarón, Calle La Romana",
+    "city": "Cagua",
+    "receives": null,
+    "contact": "@VenteAragua",
+    "lat": 10.19,
+    "lng": -67.46
+  },
+  {
+    "id": 211,
+    "type": "acopio",
+    "name": "Centro de Acopio Cagua - Club Camarón",
+    "address": "Club Camarón, calle La Romana, frente al liceo Josefina Crespo, Cagua, Aragua",
+    "city": "Cagua",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.1818,
+    "lng": -67.4609
+  },
+  {
+    "id": 479,
+    "type": "acopio",
+    "name": "Centro de acopio Cagua (Redoma Gran Mariscal)",
+    "address": "Redoma de la Gran Mariscal, sector Corinsa",
+    "city": "Cagua",
+    "receives": null,
+    "contact": "@JohambertPerez",
+    "lat": 10.187,
+    "lng": -67.46
+  },
+  {
+    "id": 745,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Cagua",
+    "address": "Club Camarón, al frente del colegio Josefina Crespo",
+    "city": "Cagua",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.17966,
+    "lng": -67.46068
+  },
+  {
+    "id": 779,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Calabozo",
+    "address": "Calle 5, entre carrera 3 y 4, frente al edificio del antiguo forum",
+    "city": "Calabozo",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "04145904008",
+    "lat": 8.92081,
+    "lng": -67.42346
+  },
+  {
+    "id": 794,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Camaguán",
+    "address": "Sede de Vente Venezuela, calle Páez cruce con calle Guárico",
+    "city": "Camaguán",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "0414050912804125665013",
+    "lat": 8.10913,
+    "lng": -67.60622
+  },
+  {
+    "id": 458,
+    "type": "acopio",
+    "name": "TODO CAUCHO — Acopio (Cantaura)",
+    "address": "Av. Freites, frente al Mercado Municipal",
+    "city": "Cantaura",
+    "receives": null,
+    "contact": "@Purpleplumwords",
+    "lat": 9.3078,
+    "lng": -64.6019
+  },
+  {
+    "id": 825,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Capacho Nuevo",
+    "address": "Carrera 5 con calle 8, diagonal a la Panadería Independencia",
+    "city": "Capacho",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "041437668120424761297004247286187",
+    "lat": 7.82429,
+    "lng": -72.30852
+  },
+  {
+    "id": 256,
+    "type": "acopio",
+    "name": "Centro de Acopio Altamira - Operación Todos con VZLA",
+    "address": "Cuarta avenida de Altamira, entre novena y décima transversal; quinta El Bejucal, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.5015,
+    "lng": -66.849
+  },
+  {
+    "id": 515,
+    "type": "acopio",
+    "name": "Iglesia La Chiquinquirá — Acopio (Caracas)",
+    "address": "Iglesia La Chiquinquirá, La Florida",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@DanTeranS",
+    "lat": 10.503,
+    "lng": -66.872
+  },
+  {
+    "id": 15,
+    "type": "acopio",
+    "name": "Cruz Roja Venezolana",
+    "address": "Av. Andrés Bello, edificio Cruz Roja Venezolana N° 4, Urb. San Bernardino",
+    "city": "Caracas",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Frazadas",
+      "Medicamentos",
+      "Higiene personal",
+      "Pañales",
+      "Artículos de bebé",
+      "Herramientas"
+    ],
+    "contact": "+58 212-571 4380 / caracas@cruzroja.ve / cruzroja.ve",
+    "lat": 10.5066,
+    "lng": -66.8946
+  },
+  {
+    "id": 17,
+    "type": "acopio",
+    "name": "La Sazón del Negro",
+    "address": "Av. Río de Oro con calle Girasol, frente a Alimentos Le' Prado, Prados del Este",
+    "city": "Caracas",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Frazadas",
+      "Medicamentos",
+      "Higiene personal",
+      "Pañales",
+      "Artículos de bebé",
+      "Herramientas"
+    ],
+    "contact": null,
+    "lat": 10.453,
+    "lng": -66.838
+  },
+  {
+    "id": 18,
+    "type": "acopio",
+    "name": "Plaza Los Palos Grandes",
+    "address": "Plaza Los Palos Grandes, 3ra av. con 3ra transversal, Los Palos Grandes",
+    "city": "Caracas",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Frazadas",
+      "Medicamentos",
+      "Higiene personal",
+      "Pañales",
+      "Artículos de bebé",
+      "Herramientas"
+    ],
+    "contact": null,
+    "lat": 10.50482,
+    "lng": -66.84343
+  },
+  {
+    "id": 280,
+    "type": "acopio",
+    "name": "Sociedad civil · Caracas",
+    "address": "Quinta el Bejucal, cuarta av transversal de Altamira, entre novena y décima transversal, Caracas, Venezuela",
+    "city": "Caracas",
+    "receives": [
+      "Ropa",
+      "medicamentos e insumos",
+      "agua",
+      "alimentos no perecederos",
+      "lencería",
+      "Enlatados",
+      "frutos secos",
+      "harina pan",
+      "queso",
+      "jamón",
+      "pan",
+      "primeros auxilios",
+      "herramientas y protección (cinceles",
+      "mandarrias",
+      "guantes para escombros",
+      "gatos de botella",
+      "piquetas",
+      "Agua embotellada",
+      "insumos médicos",
+      "pañales"
+    ],
+    "contact": null,
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": 561,
+    "type": "acopio",
+    "name": "Colegio Mater Salvatoris — Acopio (Caracas)",
+    "address": "Colegio Mater Salvatoris, Las Mercedes",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@yanuaurec",
+    "lat": 10.487,
+    "lng": -66.859
+  },
+  {
+    "id": 563,
+    "type": "acopio",
+    "name": "FUNAVIVE — Acopio (Los Dos Caminos)",
+    "address": "Bulevar de La Carlota, Los Dos Caminos",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@2001OnLine",
+    "lat": 10.496,
+    "lng": -66.829
+  },
+  {
+    "id": 567,
+    "type": "acopio",
+    "name": "Acopio Edificio ISGLOVI — Caracas (El Paraíso)",
+    "address": "Av. Las Fuentes, Conjunto Residencial Las Fuentes, El Paraíso",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@eubesios",
+    "lat": 10.4862,
+    "lng": -66.9293
+  },
+  {
+    "id": 318,
+    "type": "acopio",
+    "name": "Instituto de Diseño de Caracas · Caracas",
+    "address": "Av. Ávila, Caracas 1060, Miranda, Caracas, Venezuela",
+    "city": "Caracas",
+    "receives": [
+      "Agua potable",
+      "ropa (prioridad sueteres) cobijas",
+      "comida",
+      "insumos medicos",
+      "linternas",
+      "cascos",
+      "martillos",
+      "chalecos",
+      "artículos de higiene"
+    ],
+    "contact": "4123212782",
+    "lat": 10.4971448,
+    "lng": -66.8532427
+  },
+  {
+    "id": 320,
+    "type": "acopio",
+    "name": "Cáritas Venezuela · Caracas",
+    "address": "Sede de la conferencia Episcopal Venezolana, Avenida Teherán, a 200 metros de la Universidad Católica Andrés Bello (UCAB), frente a la Urbanización Juan Pablo II, en el sector de Montalbán., Caracas, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4672835,
+    "lng": -66.9683652
+  },
+  {
+    "id": 321,
+    "type": "acopio",
+    "name": "Comando Con Venezuela · Caracas",
+    "address": "Cuarta avenida de Altamira, entre novena y décima transversal; quinta El Bejucal., Caracas, Venezuela",
+    "city": "Caracas",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": "https://www.instagram.com/p/DZ_kBlyIVRI/?hl=es",
+    "lat": 10.5106245,
+    "lng": -66.8529036
+  },
+  {
+    "id": 842,
+    "type": "acopio",
+    "name": "Primero Justicia - Los Palos Grandes",
+    "address": "Urb. Los Palos Grandes, 3ra transversal entre 4ta Av. y Av. Luis Guillermo Villegas, Caracas, Miranda",
+    "city": "Caracas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "PJ Chacao",
+    "lat": 10.496,
+    "lng": -66.848
+  },
+  {
+    "id": 587,
+    "type": "acopio",
+    "name": "Iglesia Nuestra Señora de La Paz — Acopio (Montalbán)",
+    "address": "Iglesia Nuestra Señora de La Paz, Montalbán I",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@freddyzur",
+    "lat": 10.466,
+    "lng": -66.945
+  },
+  {
+    "id": 588,
+    "type": "acopio",
+    "name": "Iglesia San Bernardino de Siena — Acopio (Caracas)",
+    "address": "Parroquia San Bernardino de Siena, San Bernardino",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@ConVzlaComando",
+    "lat": 10.512,
+    "lng": -66.901
+  },
+  {
+    "id": 594,
+    "type": "acopio",
+    "name": "Tinta Violeta — Acopio (Caracas)",
+    "address": "Av. Norte 3, Parroquia Altagracia",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@entintavioleta",
+    "lat": 10.512,
+    "lng": -66.909
+  },
+  {
+    "id": 83,
+    "type": "refugio",
+    "name": "La Carlota",
+    "address": "Base Aérea Generalísimo Francisco de Miranda, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4878646,
+    "lng": -66.8473864
+  },
+  {
+    "id": 851,
+    "type": "acopio",
+    "name": "FCU-UCV - Ciudad Universitaria",
+    "address": "FCU-UCV, Ciudad Universitaria de Caracas, Distrito Capital",
+    "city": "Caracas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "FCU-UCV Oficial",
+    "lat": 10.4892,
+    "lng": -66.8903
+  },
+  {
+    "id": 84,
+    "type": "refugio",
+    "name": "Centro Médico de Caracas",
+    "address": "Av. Eraso, Plaza El Estanque, San Bernardino, Caracas, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": "+58 212-5559111",
+    "lat": 10.5118964,
+    "lng": -66.8970211
+  },
+  {
+    "id": 85,
+    "type": "refugio",
+    "name": "Clínica Nueva Caracas",
+    "address": "Av. Teresa de la Parra, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": "+58 212-6552220",
+    "lat": 10.4791624,
+    "lng": -66.8912634
+  },
+  {
+    "id": 86,
+    "type": "refugio",
+    "name": "Hospital Militar Dr. Carlos Arvelo",
+    "address": "Av. José Ángel Lamas, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": "+58 212-4061111",
+    "lat": 10.4978925,
+    "lng": -66.9388524
+  },
+  {
+    "id": 87,
+    "type": "refugio",
+    "name": "Hospital General Dr. José Ignacio Baldó (El Algodonal)",
+    "address": "Av. Principal El Algodonal, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": "+58 414-2874816",
+    "lat": 10.4822591,
+    "lng": -66.9709105
+  },
+  {
+    "id": 88,
+    "type": "refugio",
+    "name": "Hospital de Niños Dr. J. M. de los Ríos",
+    "address": "Av. Vollmer, San Bernardino, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.5068927,
+    "lng": -66.8995768
+  },
+  {
+    "id": 89,
+    "type": "refugio",
+    "name": "Hospital Dr. Jesús Yerena (Lídice)",
+    "address": "Av. Principal de Manicomio, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": "+58 212-8600646",
+    "lat": 10.5242794,
+    "lng": -66.9301115
+  },
+  {
+    "id": 90,
+    "type": "refugio",
+    "name": "Hospital Oncológico Padre Machado",
+    "address": "Av. Calvo Lairet, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": "+58 212-6312312",
+    "lat": 10.477332,
+    "lng": -66.9176805
+  },
+  {
+    "id": 91,
+    "type": "refugio",
+    "name": "Hospital San Juan de Dios",
+    "address": "Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": "+58 412-7099392",
+    "lat": 10.4676875,
+    "lng": -66.8651875
+  },
+  {
+    "id": 92,
+    "type": "refugio",
+    "name": "Hospital de Clínicas Caracas",
+    "address": "Av. Panteón con Av. Alameda, San Bernardino, Caracas, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": "+58 212-5086111",
+    "lat": 10.5098859,
+    "lng": -66.8988688
+  },
+  {
+    "id": 93,
+    "type": "refugio",
+    "name": "Hospital Clínico Universitario de Caracas",
+    "address": "Ciudad Universitaria, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4903292,
+    "lng": -66.8940007
+  },
+  {
+    "id": 95,
+    "type": "refugio",
+    "name": "Parque Generalísimo Francisco de Miranda",
+    "address": "Av. Francisco de Miranda, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4931895,
+    "lng": -66.8397763
+  },
+  {
+    "id": 96,
+    "type": "refugio",
+    "name": "Ipostel San Juan",
+    "address": "Parroquia San Juan, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.5031777,
+    "lng": -66.9200643
+  },
+  {
+    "id": 97,
+    "type": "refugio",
+    "name": "Instituto Nacional de Deportes",
+    "address": "Av. Teherán, El Paraíso, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.473913,
+    "lng": -66.9474487
+  },
+  {
+    "id": 353,
+    "type": "acopio",
+    "name": "Quinta El Bejucal — Altamira",
+    "address": "Cuarta Av. de Altamira, entre 9a y 10a transversal, Quinta El Bejucal, Caracas",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4984789,
+    "lng": -66.8423367
+  },
+  {
+    "id": 609,
+    "type": "acopio",
+    "name": "Iglesia Sagrada Familia de La Tahona — Acopio (Caracas)",
+    "address": "Iglesia Sagrada Familia, La Tahona",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@globovision",
+    "lat": 10.4512,
+    "lng": -66.829
+  },
+  {
+    "id": 98,
+    "type": "refugio",
+    "name": "Estadio Chato Candela",
+    "address": "Parroquia 23 de Enero, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.5060415,
+    "lng": -66.945003
+  },
+  {
+    "id": 354,
+    "type": "acopio",
+    "name": "Terrazas del Club Hípico",
+    "address": "Terrazas del Club Hípico, Caracas",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4478245,
+    "lng": -66.8717627
+  },
+  {
+    "id": 610,
+    "type": "acopio",
+    "name": "C.C. El Recreo — Acopio (Caracas)",
+    "address": "C.C. El Recreo, Av. Casanova, Sabana Grande",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@crsactivored",
+    "lat": 10.4936,
+    "lng": -66.8665
+  },
+  {
+    "id": 99,
+    "type": "refugio",
+    "name": "Complejo Cultural y Deportivo Guayana Esequiba",
+    "address": "Avenida Los Próceres, San Bernardino, Caracas, Distrito Capital, Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.5146861,
+    "lng": -66.8963223
+  },
+  {
+    "id": 355,
+    "type": "acopio",
+    "name": "Iglesia San Bernardino de Siena",
+    "address": "Parroquia San Bernardino, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": "https://www.instagram.com/p/DZ_puvBIAO3/?hl=es",
+    "lat": 10.5139415,
+    "lng": -66.9017243
+  },
+  {
+    "id": 356,
+    "type": "acopio",
+    "name": "UCV — Plaza Rectorado",
+    "address": "Plaza Rectorado (frente al Reloj), Universidad Central de Venezuela, Caracas",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4901789,
+    "lng": -66.8916633
+  },
+  {
+    "id": 357,
+    "type": "acopio",
+    "name": "Iglesia La Paz — Montalbán I",
+    "address": "Iglesia La Paz, Montalbán I, Municipio Libertador, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": "https://www.instagram.com/p/DZ_puvBIAO3/?hl=es",
+    "lat": 10.4758732,
+    "lng": -66.9505919
+  },
+  {
+    "id": 619,
+    "type": "acopio",
+    "name": "Gimnasio Energym — Acopio (Sabana Grande)",
+    "address": "Gimnasio Energym, Av. Casanova, El Recreo",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@crsactivored",
+    "lat": 10.4915,
+    "lng": -66.8725
+  },
+  {
+    "id": 367,
+    "type": "acopio",
+    "name": "Protección Civil — Acopio y atención (Av. Bolívar, Caracas)",
+    "address": "Avenida Bolívar, Caracas",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@eldiario",
+    "lat": 10.503,
+    "lng": -66.913
+  },
+  {
+    "id": 369,
+    "type": "acopio",
+    "name": "Centro de acopio Plaza Los Palos Grandes (Chacao)",
+    "address": "Plaza Los Palos Grandes, Chacao",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@Norbey_Marin_",
+    "lat": 10.499,
+    "lng": -66.843
+  },
+  {
+    "id": 370,
+    "type": "acopio",
+    "name": "Centro de acopio Altamira (Quinta El Bejucal)",
+    "address": "4ta avenida entre 9na y 10ma transversal, Quinta El Bejucal, Altamira",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@ReporteYa",
+    "lat": 10.496,
+    "lng": -66.847
+  },
+  {
+    "id": 371,
+    "type": "acopio",
+    "name": "Mezquita Sheikh Ibrahim Al Ibrahim — Acopio (Caracas)",
+    "address": "Mezquita Sheikh Ibrahim Al Ibrahim, El Recreo",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@mwl_ve",
+    "lat": 10.501,
+    "lng": -66.892
+  },
+  {
+    "id": 120,
+    "type": "acopio",
+    "name": "FCU-UCV — Sede Universitaria",
+    "address": "FCU-UCV, Universidad Central de Venezuela, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": null,
+    "lat": 10.4918,
+    "lng": -66.8889
+  },
+  {
+    "id": 376,
+    "type": "acopio",
+    "name": "UCAB Caracas — Acopio (Montalbán)",
+    "address": "UCAB, Av. Teherán, Montalbán",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@Gbastidas",
+    "lat": 10.4636,
+    "lng": -66.9469
+  },
+  {
+    "id": 121,
+    "type": "acopio",
+    "name": "Alcaldía de Baruta — Concha Acústica de Bello Monte",
+    "address": "Concha Acústica de Bello Monte, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "alimentos",
+      "agua",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": null,
+    "lat": 10.4732,
+    "lng": -66.851
+  },
+  {
+    "id": 122,
+    "type": "acopio",
+    "name": "Colegio Mater Salvatoris — Cerro Quintero",
+    "address": "Cerro Quintero, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "alimentos",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": null,
+    "lat": 10.4853,
+    "lng": -66.8661
+  },
+  {
+    "id": 123,
+    "type": "acopio",
+    "name": "G3 Logística — Los Cortijos de Lourdes",
+    "address": "Av. Principal de Los Cortijos de Lourdes, Edificio Maploca, Los Cortijos de Lourdes, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "alimentos",
+      "agua",
+      "medicinas",
+      "higiene",
+      "ropa"
+    ],
+    "contact": null,
+    "lat": 10.4809,
+    "lng": -66.8279
+  },
+  {
+    "id": 124,
+    "type": "acopio",
+    "name": "Chef Margaro — Los Jardines",
+    "address": "Chef Margaro, Diagonal Residencias Florida Suites, Avenida Los Jardines, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicinas"
+    ],
+    "contact": null,
+    "lat": 10.5005,
+    "lng": -66.8758
+  },
+  {
+    "id": 125,
+    "type": "acopio",
+    "name": "Alcaldía de Chacao — Sede Desarrollo Social",
+    "address": "Calle Los Ángeles, lateral al Centro Comercial Sambil Chacao, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa"
+    ],
+    "contact": "0424 128 59 89 / 0424 204 22 53",
+    "lat": 10.4898,
+    "lng": -66.8552
+  },
+  {
+    "id": 126,
+    "type": "acopio",
+    "name": "Centro de Acopio Bloque Histórico Popular (CEPROI)",
+    "address": "Parroquia Sucre, Catia, sector Pérez Bonalde, entre 7ma Av. y Calle Colombia, al lado del Hospital Pediátrico Dr. Elías Toro, local Intelecto Urbano, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "alimentos"
+    ],
+    "contact": "Inyerber Gutiérrez +58 412-3799207",
+    "lat": 10.5054,
+    "lng": -66.9475
+  },
+  {
+    "id": 127,
+    "type": "acopio",
+    "name": "Colegio Cristo Rey Altamira",
+    "address": "Colegio Cristo Rey Altamira, 7ma Avenida entre 6ta y 7ma Transversal",
+    "city": "Caracas",
+    "receives": [
+      "alimentos",
+      "medicamentos"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.47076,
+    "lng": -66.83726
+  },
+  {
+    "id": 128,
+    "type": "acopio",
+    "name": "Fundación Cruz Azul — Fitness Factory Los Palos Grandes",
+    "address": "Fitness Factory VE, 4ta Avenida de Los Palos Grandes entre 1ra y 2da transversal, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "medicinas"
+    ],
+    "contact": "https://www.instagram.com/cruzazulusm",
+    "lat": 10.5026,
+    "lng": -66.8466
+  },
+  {
+    "id": 640,
+    "type": "refugio",
+    "name": "Escuela Luis Alberto Hurtado",
+    "address": "Km 12, El Junquito",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4609,
+    "lng": -67.07894
+  },
+  {
+    "id": 129,
+    "type": "acopio",
+    "name": "Rescatistas — Altamira, frente a la CAF",
+    "address": "Altamira, frente a la sede de la CAF, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "agua",
+      "alimentos"
+    ],
+    "contact": "Victoria Castillo 04121937746 / Desireé Lugo 04249050118",
+    "lat": 10.4989,
+    "lng": -66.8483
+  },
+  {
+    "id": 641,
+    "type": "refugio",
+    "name": "Colegio Andrés Bello",
+    "address": "La Candelaria",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.50135,
+    "lng": -66.90366
+  },
+  {
+    "id": 130,
+    "type": "acopio",
+    "name": "Rescatistas — Edif. Petunia, Los Palos Grandes",
+    "address": "Edificio Petunia, Av. Francisco de Miranda entre Los Palos Grandes y Altamira, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "agua",
+      "alimentos"
+    ],
+    "contact": null,
+    "lat": 10.4979,
+    "lng": -66.8478
+  },
+  {
+    "id": 642,
+    "type": "refugio",
+    "name": "Coliseo de Petare",
+    "address": "Petare",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.47871,
+    "lng": -66.80722
+  },
+  {
+    "id": 643,
+    "type": "refugio",
+    "name": "Plaza Venezuela (Punto de apoyo)",
+    "address": "Plaza Venezuela",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.49692,
+    "lng": -66.88574
+  },
+  {
+    "id": 388,
+    "type": "acopio",
+    "name": "El Sistema (Orquestas) — Centro de acopio (Caracas)",
+    "address": "Sede de El Sistema, Quebrada Honda",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@Noticia058",
+    "lat": 10.504,
+    "lng": -66.8975
+  },
+  {
+    "id": 644,
+    "type": "refugio",
+    "name": "U.E.N. Gran Colombia",
+    "address": "Av. Roosevelt, El Cementerio",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.47794,
+    "lng": -66.91429
+  },
+  {
+    "id": 389,
+    "type": "acopio",
+    "name": "Universidad Central de Venezuela — Centro de acopio",
+    "address": "Ciudad Universitaria, UCV",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@Norbey_Marin_",
+    "lat": 10.491,
+    "lng": -66.891
+  },
+  {
+    "id": 645,
+    "type": "refugio",
+    "name": "U.E.N. Francisco Pimentel",
+    "address": "Quinta Crespo",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4969,
+    "lng": -66.91732
+  },
+  {
+    "id": 390,
+    "type": "acopio",
+    "name": "Parque Alí Primera (Parque del Oeste) — Centro de acopio",
+    "address": "Parque Alí Primera (Parque del Oeste)",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@VPITV",
+    "lat": 10.513,
+    "lng": -66.927
+  },
+  {
+    "id": 646,
+    "type": "refugio",
+    "name": "Ipostel (Refugio)",
+    "address": "Parroquia San Juan",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.49528,
+    "lng": -66.92353
+  },
+  {
+    "id": 647,
+    "type": "refugio",
+    "name": "Kabal Altamira",
+    "address": "Altamira, Chacao",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.49559,
+    "lng": -66.84886
+  },
+  {
+    "id": 648,
+    "type": "refugio",
+    "name": "Hotel Meliá Caracas",
+    "address": "Sabana Grande, Caracas",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.49196,
+    "lng": -66.87781
+  },
+  {
+    "id": 649,
+    "type": "refugio",
+    "name": "Coliseo PoliSucre La Urbina",
+    "address": "Coliseo Polisucre La Urbina",
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4978385,
+    "lng": -66.8010807
+  },
+  {
+    "id": 662,
+    "type": "acopio",
+    "name": "Quinta El Bejucal (Altamira)",
+    "address": "Cuarta avenida de Altamira, entre 9na y 10ma transversal, quinta El Bejucal",
+    "city": "Caracas",
+    "receives": [],
+    "contact": "No especificado",
+    "lat": 10.505,
+    "lng": -66.903
+  },
+  {
+    "id": 153,
+    "type": "acopio",
+    "name": "G3 Logística — Los Cortijos (Maploca)",
+    "address": null,
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4928,
+    "lng": -66.8275
+  },
+  {
+    "id": 155,
+    "type": "acopio",
+    "name": "Mingus — Chacao",
+    "address": "Mingus, C José Felix Rivas entre avenida Mohedano, C. Cecilio Acosta, Caracas 1060",
+    "city": "Caracas",
+    "receives": [],
+    "contact": "+58 424-1283878 / +34 672 64 88 96",
+    "lat": 10.4955,
+    "lng": -66.8525
+  },
+  {
+    "id": 158,
+    "type": "acopio",
+    "name": "AJE Venezuela — Polideportivo Los Naranjos",
+    "address": "Polideportivo Los Naranjos Belisario Academy, Av. Este 3, Los Naranjos",
+    "city": "Caracas",
+    "receives": [],
+    "contact": "WhatsApp +58 424-2238617 · info@ajevenezuela.org",
+    "lat": 10.4402527,
+    "lng": -66.8380498
+  },
+  {
+    "id": 162,
+    "type": "acopio",
+    "name": "Colegio Mater Salvatoris",
+    "address": null,
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4850489,
+    "lng": -66.8662856
+  },
+  {
+    "id": 163,
+    "type": "acopio",
+    "name": "Centro de Tata — Bello Campo",
+    "address": null,
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4961453,
+    "lng": -66.8471704
+  },
+  {
+    "id": 164,
+    "type": "acopio",
+    "name": "Esfera de Soto",
+    "address": null,
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4873748,
+    "lng": -66.8388373
+  },
+  {
+    "id": 165,
+    "type": "acopio",
+    "name": "Parroquia Sagrada Familia — La Tahona",
+    "address": null,
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4362583,
+    "lng": -66.8527521
+  },
+  {
+    "id": 166,
+    "type": "acopio",
+    "name": "Colegio Cristo Rey de Altamira",
+    "address": null,
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.5059091,
+    "lng": -66.8494671
+  },
+  {
+    "id": 167,
+    "type": "acopio",
+    "name": "Colegio Santo Tomás de Aquino",
+    "address": null,
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4962933,
+    "lng": -66.8606196
+  },
+  {
+    "id": 168,
+    "type": "acopio",
+    "name": "Cáritas Venezuela (Conferencia Episcopal)",
+    "address": null,
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4806,
+    "lng": -66.9036
+  },
+  {
+    "id": 169,
+    "type": "acopio",
+    "name": "Copa Hatillana — El Hatillo",
+    "address": null,
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4236769,
+    "lng": -66.825252
+  },
+  {
+    "id": 170,
+    "type": "acopio",
+    "name": "The Place — Chuao",
+    "address": null,
+    "city": "Caracas",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4831354,
+    "lng": -66.8450967
+  },
+  {
+    "id": 434,
+    "type": "acopio",
+    "name": "El Centro de Tata (Pan de Tata) — Acopio de agua (Caracas)",
+    "address": "Av. Francisco Miranda, entre Bello Campo y La Castellana, Chacao",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@TonyFrangieM",
+    "lat": 10.498,
+    "lng": -66.854
+  },
+  {
+    "id": 435,
+    "type": "acopio",
+    "name": "Escuela Guarura Shabono — Centro de acopio (Caracas)",
+    "address": "El Guarataro, Av. San Martín",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@ForoCivicoVzla",
+    "lat": 10.5,
+    "lng": -66.93
+  },
+  {
+    "id": 181,
+    "type": "acopio",
+    "name": "Centro de Acopio Terrazas del Club Hípico",
+    "address": "Terrazas del Club Hípico, Caracas (Rotaract Caracas), Miranda, Venezuela",
+    "city": "Caracas",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.4468,
+    "lng": -66.8715
+  },
+  {
+    "id": 454,
+    "type": "acopio",
+    "name": "Parroquia El Buen Pastor — Acopio (Caracas)",
+    "address": "Parroquia El Buen Pastor, Bello Campo (Chacao)",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@ValeTVCanal5",
+    "lat": 10.497,
+    "lng": -66.853
+  },
+  {
+    "id": 466,
+    "type": "acopio",
+    "name": "Centro Cultural Guayana Esequiba — Acopio (Caracas)",
+    "address": "San Bernardino, cerca del edificio Santa Rita",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@gestionperfecta",
+    "lat": 10.508,
+    "lng": -66.897
+  },
+  {
+    "id": 473,
+    "type": "acopio",
+    "name": "Universidad Metropolitana (Unimet) — Acopio (Caracas)",
+    "address": "Universidad Metropolitana, Terrazas del Ávila",
+    "city": "Caracas",
+    "receives": null,
+    "contact": "@ForoCivicoVzla",
+    "lat": 10.503,
+    "lng": -66.789
+  },
+  {
+    "id": 730,
+    "type": "refugio",
+    "name": "Coliseo PoliSucre",
+    "address": "La Urbina, Sede de la Policía Municipal de Sucre",
+    "city": "Caracas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Pendiente / PoliSucre",
+    "lat": 10.488,
+    "lng": -66.935
+  },
+  {
+    "id": 731,
+    "type": "acopio",
+    "name": "Pepitería 13",
+    "address": "Las Mercedes (Pepitería 13)",
+    "city": "Caracas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.482,
+    "lng": -66.86116
+  },
+  {
+    "id": 236,
+    "type": "acopio",
+    "name": "Centro de Acopio Caracas (San Bernardino)",
+    "address": "Iglesia San Bernardino de Siena, Parroquia San Bernardino, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.513,
+    "lng": -66.9022
+  },
+  {
+    "id": 237,
+    "type": "acopio",
+    "name": "Centro de Acopio Caracas (Montalbán)",
+    "address": "Iglesia La Paz, Montalbán I, Munc. Libertador, Caracas",
+    "city": "Caracas",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.4758,
+    "lng": -66.9503
+  },
+  {
+    "id": 94,
+    "type": "refugio",
+    "name": "Polideportivo Mesuca",
+    "address": "Carr. Petare - Santa Lucía, Petare, Municipio Sucre, Miranda, Venezuela",
+    "city": "Caracas (Petare)",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4751329,
+    "lng": -66.7980119
+  },
+  {
+    "id": 279,
+    "type": "acopio",
+    "name": "Gobierno de Venezuela · Caroní",
+    "address": "Fundación Social Bolívar (Sede 911), Caroní, Venezuela",
+    "city": "Caroní",
+    "receives": [
+      "Alimentos no perecederos",
+      "agua",
+      "medicamentos y ropa en buen estado"
+    ],
+    "contact": null,
+    "lat": 8.5404937,
+    "lng": -70.1420403
+  },
+  {
+    "id": 462,
+    "type": "acopio",
+    "name": "Centro de acopio Carora (Lara)",
+    "address": "Av. Francisco de Miranda esq. calle Riera Silva, frente al G.E. Ramón Pompilio Oropeza",
+    "city": "Carora",
+    "receives": null,
+    "contact": "@Vpalaraoficial_",
+    "lat": 10.1718,
+    "lng": -70.0817
+  },
+  {
+    "id": 733,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Carora (Torres)",
+    "address": "Academia Cecilio Acosta, Av. Dr. Pastor Oropeza entre calles 6 y 7, sector Antonio José de Sucre, una cuadra antes de Monpet",
+    "city": "Carora",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.16953,
+    "lng": -70.07285
+  },
+  {
+    "id": 625,
+    "type": "acopio",
+    "name": "Polideportivo José María Vargas — Acopio (Catia La Mar)",
+    "address": "Polideportivo José María Vargas",
+    "city": "Catia La Mar",
+    "receives": null,
+    "contact": "@EfectoCocuyo",
+    "lat": 10.5975,
+    "lng": -67.029
+  },
+  {
+    "id": 763,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Chabasquén (Unda)",
+    "address": "Avenida Sucre entre Ricaurte y Arismendi, Dulces Churros",
+    "city": "Chabasquén",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.46346,
+    "lng": -69.94302
+  },
+  {
+    "id": 180,
+    "type": "acopio",
+    "name": "Centro de Acopio Altamira - Quinta El Bejucal",
+    "address": "Quinta El Bejucal, cuarta avenida de Altamira, entre novena y décima transversal, Chacao, Miranda",
+    "city": "Chacao",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.5015,
+    "lng": -66.8838
+  },
+  {
+    "id": 235,
+    "type": "acopio",
+    "name": "Centro de Acopio Chacao - Plaza El Indio",
+    "address": "Plaza El Indio, frente a la Av. Francisco de Miranda, Chacao",
+    "city": "Chacao",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": "Yajaira – 04122715726",
+    "lat": 10.494,
+    "lng": -66.852
+  },
+  {
+    "id": 795,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Chaguaramas",
+    "address": "Capilla de Banco Obrero",
+    "city": "Chaguaramas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "042434468100412493164404124934868",
+    "lat": 9.33613,
+    "lng": -66.25599
+  },
+  {
+    "id": 809,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Charallave",
+    "address": "Av. Tosta García, diagonal a la Veterinaria Dra. Santana",
+    "city": "Charallave",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.24566,
+    "lng": -66.85866
+  },
+  {
+    "id": 467,
+    "type": "acopio",
+    "name": "Salón Parroquial de Charallave — Acopio (Miranda)",
+    "address": "Salón Parroquial de Charallave",
+    "city": "Charallave",
+    "receives": null,
+    "contact": "@samacmiranda1",
+    "lat": 10.243,
+    "lng": -66.858
+  },
+  {
+    "id": 80,
+    "type": "acopio",
+    "name": "Edificio Sede UNEFA PB",
+    "address": "Avenida La Estancia con calle Holanda, frente al Edificio Banaven (Cubo Negro), sector Chuao, Municipio Chacao, Estado Miranda",
+    "city": "Chuao",
+    "receives": [],
+    "contact": null,
+    "lat": 10.4830373,
+    "lng": -66.8533002
+  },
+  {
+    "id": 832,
+    "type": "acopio",
+    "name": "Comando ConVzla — Bolívar",
+    "address": "Av. 17 de Diciembre, cerca del Aeropuerto Gral. José Tomás de Heres",
+    "city": "Ciudad Bolívar",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.1216,
+    "lng": -63.54604
+  },
+  {
+    "id": 844,
+    "type": "acopio",
+    "name": "Camara de Comercio e Industrias de Bolivar",
+    "address": "Av. Tachira, Sede de la Camara de Comercio, Ciudad Bolivar, Bolivar",
+    "city": "Ciudad Bolivar",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Camara de Comercio Bolivar",
+    "lat": 8.125,
+    "lng": -63.535
+  },
+  {
+    "id": 137,
+    "type": "acopio",
+    "name": "Gobierno de Venezuela — Mundo de Sonrisas",
+    "address": "Mundo de Sonrisas, Ciudad Bolívar, Bolívar",
+    "city": "Ciudad Bolívar",
+    "receives": [
+      "alimentos",
+      "agua",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": null,
+    "lat": 8.1284,
+    "lng": -63.5445
+  },
+  {
+    "id": 138,
+    "type": "acopio",
+    "name": "Comando ConVzla — Av. Pichincha, Municipio Heres",
+    "address": "Municipio Heres, Av. Pichincha, Edificio Tequendama, Local No 4, Ciudad Bolívar",
+    "city": "Ciudad Bolívar",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": "https://www.instagram.com/p/DZ_0rjlljwk/",
+    "lat": 8.1286,
+    "lng": -63.5462
+  },
+  {
+    "id": 140,
+    "type": "acopio",
+    "name": "Cámara de Comercio e Industrias del Estado Bolívar",
+    "address": "Sede de la Cámara de Comercio e Industrias del estado Bolívar, Av. Táchira, Ciudad Bolívar",
+    "city": "Ciudad Bolívar",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicinas",
+      "higiene",
+      "ropa"
+    ],
+    "contact": "@camaradecomerciobolivar",
+    "lat": 8.1329,
+    "lng": -63.5441
+  },
+  {
+    "id": 668,
+    "type": "acopio",
+    "name": "Sede VEN 911",
+    "address": "Caroní - Av. Guayana, sector Guaiparo, cerca del Hospital Dr. Raúl Leoni",
+    "city": "Ciudad Bolívar",
+    "receives": [],
+    "contact": "No especificado",
+    "lat": 8.128,
+    "lng": -63.54
+  },
+  {
+    "id": 749,
+    "type": "acopio",
+    "name": "Comando ConVzla — Heres (Tequendama)",
+    "address": "Av. Pichincha, Edificio Tequendama, Local No. 4",
+    "city": "Ciudad Bolívar",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.10285,
+    "lng": -63.54696
+  },
+  {
+    "id": 501,
+    "type": "acopio",
+    "name": "Plaza Páez — Acopio (Ciudad Bolívar)",
+    "address": "Plaza Páez, Vista Hermosa",
+    "city": "Ciudad Bolívar",
+    "receives": null,
+    "contact": "@EnCiudadanoVzla",
+    "lat": 8.132,
+    "lng": -63.549
+  },
+  {
+    "id": 314,
+    "type": "acopio",
+    "name": "Rotaract Santo Ángel · Ciudad Guayana",
+    "address": "UCAB Guayana Extensión Social Universitaria, Ciudad Guayana, Venezuela",
+    "city": "Ciudad Guayana",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "enlatados",
+      "productos de higiene personal",
+      "pañalaes",
+      "toallas sanitarias",
+      "insumos médicos",
+      "lencería",
+      "comida para animales"
+    ],
+    "contact": "Victoria Castillo 04121937746/Desireé Lugo 04249050118",
+    "lat": 8.2973104,
+    "lng": -62.7113557
+  },
+  {
+    "id": 326,
+    "type": "acopio",
+    "name": "Comando Con Venezuela · Bolívar",
+    "address": "Municipio Caroní: Centro Comercial Biblos. Primer piso, Local 71 C. Antes Todo limpio (Frente a los trailer de Bauxilum y al lado de la Bomba Biblos) Unare II., Bolívar, Venezuela",
+    "city": "Ciudad Guayana",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": "https://www.instagram.com/p/DZ_0rjlljwk/?igsh=MWJwbTk1MXhhYWtkcg%3D%3D",
+    "lat": 8.2775584,
+    "lng": -62.7561487
+  },
+  {
+    "id": 840,
+    "type": "acopio",
+    "name": "Rotaract Santo Angel - Crazy Pets Orinokia",
+    "address": "Crazy Pets, Orinokia Mall, Ciudad Guayana, Bolivar",
+    "city": "Ciudad Guayana",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Rotaract Caroni",
+    "lat": 8.292,
+    "lng": -62.738
+  },
+  {
+    "id": 79,
+    "type": "acopio",
+    "name": "(CVG) Edificio Administrativo 1 (SIDOR)",
+    "address": "El Edificio Administrativo 1 de la Siderúrgica del Orinoco (SIDOR), Ciudad Guayana, Bolívar",
+    "city": "Ciudad Guayana",
+    "receives": [],
+    "contact": null,
+    "lat": 8.254964,
+    "lng": -62.8297215
+  },
+  {
+    "id": 850,
+    "type": "acopio",
+    "name": "UCAB Guayana - Sede Puerto Ordaz",
+    "address": "Planta alta, Casa del Estudiante, UCAB Guayana, Puerto Ordaz, Bolivar",
+    "city": "Ciudad Guayana",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Direccion de Desarrollo Estudiantil",
+    "lat": 8.297,
+    "lng": -62.716
+  },
+  {
+    "id": 131,
+    "type": "acopio",
+    "name": "Rotaract Santo Ángel — Crazy Pets, Orinokia Mall",
+    "address": "Crazy Pets, Orinokia Mall, Ciudad Guayana",
+    "city": "Ciudad Guayana",
+    "receives": [
+      "agua",
+      "alimentos",
+      "higiene",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": "Victoria Castillo 04121937746 / Desireé Lugo 04249050118",
+    "lat": 8.2926,
+    "lng": -62.7416
+  },
+  {
+    "id": 132,
+    "type": "acopio",
+    "name": "Rotaract Santo Ángel — Terraza Box Villa Alianza",
+    "address": "Terraza Box Villa Alianza, junto a la Clínica Santa Isabel, Ciudad Guayana",
+    "city": "Ciudad Guayana",
+    "receives": [
+      "agua",
+      "alimentos",
+      "higiene",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": "Victoria Castillo 04121937746 / Desireé Lugo 04249050118",
+    "lat": 8.3061,
+    "lng": -62.7189
+  },
+  {
+    "id": 133,
+    "type": "acopio",
+    "name": "Rotaract Santo Ángel — UCAB Guayana (Ext. Social)",
+    "address": "UCAB Guayana, Extensión Social Universitaria, Ciudad Guayana",
+    "city": "Ciudad Guayana",
+    "receives": [
+      "agua",
+      "alimentos",
+      "higiene",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": "Victoria Castillo 04121937746 / Desireé Lugo 04249050118",
+    "lat": 8.2973,
+    "lng": -62.7114
+  },
+  {
+    "id": 134,
+    "type": "acopio",
+    "name": "Rotaract Santo Ángel — Laboratorio Roraima, San Félix",
+    "address": "Laboratorio Roraima, Clínica Humana, San Félix, Ciudad Guayana",
+    "city": "Ciudad Guayana",
+    "receives": [
+      "agua",
+      "alimentos",
+      "higiene",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": "Victoria Castillo 04121937746 / Desireé Lugo 04249050118",
+    "lat": 8.3618,
+    "lng": -62.666
+  },
+  {
+    "id": 135,
+    "type": "acopio",
+    "name": "Rotaract Santo Ángel — Clínica Razzeti, Altavista",
+    "address": "Croquínea a un lado de la Clínica Razzeti, Altavista, Ciudad Guayana",
+    "city": "Ciudad Guayana",
+    "receives": [
+      "agua",
+      "alimentos",
+      "higiene",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": "Victoria Castillo 04121937746 / Desireé Lugo 04249050118",
+    "lat": 8.2951,
+    "lng": -62.7341
+  },
+  {
+    "id": 139,
+    "type": "acopio",
+    "name": "Comando ConVzla — CC Biblos, Caroní",
+    "address": "Municipio Caroní, Centro Comercial Biblos, Primer piso, Local 71C, Unare II, Ciudad Guayana",
+    "city": "Ciudad Guayana",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": "https://www.instagram.com/p/DZ_0rjlljwk/",
+    "lat": 8.2776,
+    "lng": -62.7561
+  },
+  {
+    "id": 492,
+    "type": "acopio",
+    "name": "Fundación Redención — Acopio (San Félix)",
+    "address": "Sector Vista al Sol, San Félix",
+    "city": "Ciudad Guayana",
+    "receives": null,
+    "contact": "@JesusMHD, 0412-8626065",
+    "lat": 8.378,
+    "lng": -62.616
+  },
+  {
+    "id": 493,
+    "type": "acopio",
+    "name": "Plaza Monumental — Acopio (Ciudad Guayana)",
+    "address": "Plaza Monumental",
+    "city": "Ciudad Guayana",
+    "receives": null,
+    "contact": "@dasbs02",
+    "lat": 8.292,
+    "lng": -62.729
+  },
+  {
+    "id": 750,
+    "type": "acopio",
+    "name": "Comando ConVzla — Caroní (CC Biblos)",
+    "address": "Centro Comercial Biblos, primer piso, Local 71 C (frente a los tráileres de Bauxilum)",
+    "city": "Ciudad Guayana",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.32238,
+    "lng": -62.68966
+  },
+  {
+    "id": 502,
+    "type": "acopio",
+    "name": "Laboratorio Roraima (Clínica Humana) — Acopio (San Félix)",
+    "address": "Laboratorio Roraima, Clínica Humana, San Félix",
+    "city": "Ciudad Guayana",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 8.36,
+    "lng": -62.65
+  },
+  {
+    "id": 273,
+    "type": "acopio",
+    "name": "RELEVECA · Ciudad Ojeda, Estado Zulia",
+    "address": "Ciudad Ojeda, centro comercial Reycall, frente a la E/S La Tropicana, Ciudad Ojeda, Estado Zulia, Venezuela",
+    "city": "Ciudad Ojeda",
+    "receives": [
+      "Artículos de higiene personal",
+      "ropa",
+      "alimentos no perecederos",
+      "alimento para mascotas",
+      "insumos médico"
+    ],
+    "contact": "04122581233 - 04246302640 - https://instagram.com/releveca_ca/",
+    "lat": 10.2004123,
+    "lng": -71.3100065
+  },
+  {
+    "id": 361,
+    "type": "acopio",
+    "name": "Centro de acopio Ciudad Ojeda — E/S La Tropicana",
+    "address": "Frente a E/S La Tropicana, municipio Lagunillas (Zulia)",
+    "city": "Ciudad Ojeda",
+    "receives": null,
+    "contact": "@notiredveinfo",
+    "lat": 10.201,
+    "lng": -71.311
+  },
+  {
+    "id": 107,
+    "type": "acopio",
+    "name": "RELEVECA — CC Reycall, Ciudad Ojeda",
+    "address": "Ciudad Ojeda, centro comercial Reycall, frente a la E/S La Tropicana, Zulia",
+    "city": "Ciudad Ojeda",
+    "receives": [
+      "higiene",
+      "ropa",
+      "alimentos",
+      "medicinas"
+    ],
+    "contact": "04122581233 / 04246302640",
+    "lat": 10.1893,
+    "lng": -71.312
+  },
+  {
+    "id": 802,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Clarines",
+    "address": "Farmacia Mi Farmacia, Av. Fernández Padilla",
+    "city": "Clarines",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.94263,
+    "lng": -65.16461
+  },
+  {
+    "id": 777,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Coro (ayuda para Tucacas)",
+    "address": "Recolección en Coro (contactar por WhatsApp para punto de entrega)",
+    "city": "Coro",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "+584121252552+584127992420",
+    "lat": 11.40558,
+    "lng": -69.66791
+  },
+  {
+    "id": 565,
+    "type": "acopio",
+    "name": "Iglesia Rey de Reyes — Acopio (Coro)",
+    "address": "Iglesia Rey de Reyes",
+    "city": "Coro",
+    "receives": null,
+    "contact": "@cartayasantiago",
+    "lat": 11.395,
+    "lng": -69.681
+  },
+  {
+    "id": 71,
+    "type": "acopio",
+    "name": "Sede Editorial Nuevo Dia",
+    "address": "Calle Falcon con callejón Sierralta, Coro",
+    "city": "Coro",
+    "receives": [],
+    "contact": null,
+    "lat": 11.4111844,
+    "lng": -69.667719
+  },
+  {
+    "id": 617,
+    "type": "acopio",
+    "name": "Iglesia Ciudad de las Águilas — Acopio (Coro)",
+    "address": "Av. Tirso Salaverría",
+    "city": "Coro",
+    "receives": null,
+    "contact": "@soypetitygarcia",
+    "lat": 11.3955,
+    "lng": -69.673
+  },
+  {
+    "id": 530,
+    "type": "acopio",
+    "name": "Acopio Voluntad Popular — Cubiro",
+    "address": "Frente al Hotel Diego Lozada",
+    "city": "Cubiro",
+    "receives": null,
+    "contact": "@VoluntadPopular",
+    "lat": 9.7906,
+    "lng": -69.5503
+  },
+  {
+    "id": 654,
+    "type": "acopio",
+    "name": "Gimnasio Ely Montes",
+    "address": "Polideportivo Félix «Lalito» Velásquez, Carúpano (centro oficial de operaciones y acopio)",
+    "city": "Cumaná",
+    "receives": [],
+    "contact": "No especificado",
+    "lat": 10.453,
+    "lng": -64.182
+  },
+  {
+    "id": 415,
+    "type": "acopio",
+    "name": "Centro de acopio Cumaná (Sucre)",
+    "address": "5ta transversal Av. Gran Mariscal con Av. Santa Rosa",
+    "city": "Cumaná",
+    "receives": null,
+    "contact": "@VPASucre",
+    "lat": 10.456,
+    "lng": -64.175
+  },
+  {
+    "id": 468,
+    "type": "acopio",
+    "name": "Casa Vente Cumaná — Acopio",
+    "address": "Av. Humboldt, frente a la Escuela Corazón de Jesús",
+    "city": "Cumaná",
+    "receives": null,
+    "contact": "@VenteSucre",
+    "lat": 10.454,
+    "lng": -64.175
+  },
+  {
+    "id": 500,
+    "type": "acopio",
+    "name": "Polideportivo Félix Lalito Velásquez — Acopio (Cumaná)",
+    "address": "Polideportivo Félix Lalito Velásquez",
+    "city": "Cumaná",
+    "receives": null,
+    "contact": "@QPEV_",
+    "lat": 10.4585,
+    "lng": -64.1689
+  },
+  {
+    "id": 826,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Delicias",
+    "address": "Carrera 5 # 289, Posada La Estancia (donde la Sra. Nora)",
+    "city": "Delicias",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "+584147125629+584147190194",
+    "lat": 7.56583,
+    "lng": -72.44773
+  },
+  {
+    "id": 734,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Duaca (Crespo)",
+    "address": "Calle 13 entre carreras 12 y 13",
+    "city": "Duaca",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.28644,
+    "lng": -69.16148
+  },
+  {
+    "id": 503,
+    "type": "acopio",
+    "name": "Colegio Rafael Castillo — Acopio (Duaca)",
+    "address": "Colegio Rafael Castillo",
+    "city": "Duaca",
+    "receives": null,
+    "contact": "@VoluntadPopular",
+    "lat": 10.27,
+    "lng": -69.131
+  },
+  {
+    "id": 812,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Reserva Mono Rojo",
+    "address": "Reserva Mono Rojo, parque Yohana Morales",
+    "city": "El Cantón",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 7.42654,
+    "lng": -71.6943
+  },
+  {
+    "id": 813,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — El Cantón",
+    "address": "Calle principal de El Cantón, Casa de la Libertad",
+    "city": "El Cantón",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 7.42564,
+    "lng": -71.70962
+  },
+  {
+    "id": 822,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — El Cobre",
+    "address": "Aldea Venegara (Casa de la Prof. Viviana Sánchez)",
+    "city": "El Cobre",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "041407532280414721506804120637470",
+    "lat": 8.00906,
+    "lng": -72.10749
+  },
+  {
+    "id": 586,
+    "type": "acopio",
+    "name": "Polideportivo Los Naranjos — Acopio (El Hatillo)",
+    "address": "Polideportivo Los Naranjos, Av. Este 3, Los Naranjos",
+    "city": "El Hatillo",
+    "receives": null,
+    "contact": "@SamuelDiazP",
+    "lat": 10.43,
+    "lng": -66.825
+  },
+  {
+    "id": 119,
+    "type": "acopio",
+    "name": "Centro de Acopio El Hatillo — Vía La Unión",
+    "address": "Frente a la iglesia Rumana, entrada a la vía de La Unión, El Hatillo, Miranda",
+    "city": "El Hatillo",
+    "receives": [
+      "alimentos",
+      "medicinas"
+    ],
+    "contact": "04142384085",
+    "lat": 10.4185,
+    "lng": -66.8212
+  },
+  {
+    "id": 770,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Santa Rosalía",
+    "address": "Avenida Comercio, casa de Haide Canelón",
+    "city": "El Playón",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.59028,
+    "lng": -67.79978
+  },
+  {
+    "id": 793,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — El Socorro",
+    "address": "Sede de Protección Civil, calle Bolívar al lado del Ambulatorio de Calichito",
+    "city": "El Socorro",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "04161155257",
+    "lat": 8.99812,
+    "lng": -65.74615
+  },
+  {
+    "id": 790,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — El Sombrero (Vente)",
+    "address": "Sede de Vente Venezuela, Av. Rafael Caldera, al lado de Comercial Acosta, El Sombrero",
+    "city": "El Sombrero",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "0422015755204124532998",
+    "lat": 9.38874,
+    "lng": -67.06108
+  },
+  {
+    "id": 436,
+    "type": "acopio",
+    "name": "UGMA El Tigre — Centro de acopio",
+    "address": "2da Carrera Norte (UGMA)",
+    "city": "El Tigre",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 8.888,
+    "lng": -64.255
+  },
+  {
+    "id": 437,
+    "type": "acopio",
+    "name": "Iglesia San Francisco de Asís — Acopio (El Tigre)",
+    "address": "Iglesia San Francisco de Asís",
+    "city": "El Tigre",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 8.884,
+    "lng": -64.25
+  },
+  {
+    "id": 463,
+    "type": "acopio",
+    "name": "Catedral del Perpetuo Socorro — Acopio (El Vigía)",
+    "address": "Catedral Ntra. Sra. del Perpetuo Socorro, frente a la Plaza Bolívar",
+    "city": "El Vigía",
+    "receives": null,
+    "contact": "@vpmerida_",
+    "lat": 8.6219,
+    "lng": -71.6517
+  },
+  {
+    "id": 780,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Espino",
+    "address": "Iglesia San Juan Bautista, frente a la plaza Bolívar",
+    "city": "Espino",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "0414395350904143350256",
+    "lat": 8.56601,
+    "lng": -66.02225
+  },
+  {
+    "id": 217,
+    "type": "acopio",
+    "name": "Centro de Acopio Guacara - Construguacara",
+    "address": "Ferretería Construguacara, Carretera Nacional Guacara, Vía San Joaquín, al lado de la Funeraria Laya, Guacara, Carabobo",
+    "city": "Guacara",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2312,
+    "lng": -67.868
+  },
+  {
+    "id": 483,
+    "type": "acopio",
+    "name": "Bomberos de Guacara — Acopio",
+    "address": "Sede del Cuerpo de Bomberos, Carretera Nacional",
+    "city": "Guacara",
+    "receives": null,
+    "contact": "@castaneda10J",
+    "lat": 10.2317,
+    "lng": -67.8772
+  },
+  {
+    "id": 768,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Guanare",
+    "address": "Sede de Vente Venezuela",
+    "city": "Guanare",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.04079,
+    "lng": -69.74126
+  },
+  {
+    "id": 105,
+    "type": "acopio",
+    "name": "Centro de Acopio Guanare — Av. Unda",
+    "address": "Av. Unda entre Carreras 7 y 8, Guanare, Portuguesa",
+    "city": "Guanare",
+    "receives": [
+      "alimentos",
+      "agua",
+      "medicinas",
+      "higiene",
+      "ropa"
+    ],
+    "contact": null,
+    "lat": 9.0685,
+    "lng": -69.7462
+  },
+  {
+    "id": 380,
+    "type": "acopio",
+    "name": "Cáritas — Parroquia La Coronación (Guanare)",
+    "address": "Parroquia La Coronación, Diócesis de Guanare",
+    "city": "Guanare",
+    "receives": null,
+    "contact": null,
+    "lat": 9.0435,
+    "lng": -69.746
+  },
+  {
+    "id": 766,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Guanarito",
+    "address": "Carrera 9 entre calles 7 y 8, frente a la escuela Monseñor de Unda",
+    "city": "Guanarito",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.69775,
+    "lng": -69.2075
+  },
+  {
+    "id": 725,
+    "type": "acopio",
+    "name": "Cáritas de Venezuela",
+    "address": "Avenida Miranda, frente a la Iglesia Virgen del Carmen",
+    "city": "Guasdualito",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Ropa",
+      "Frazadas",
+      "Medicamentos",
+      "Higiene personal",
+      "Herramientas",
+      "Artículos de bebé",
+      "Pañales"
+    ],
+    "contact": "0278-5846129",
+    "lat": 7.2465107,
+    "lng": -70.7281843
+  },
+  {
+    "id": 460,
+    "type": "acopio",
+    "name": "Bomberos de Zamora — Acopio (Guatire)",
+    "address": "Sede de los Bomberos de Zamora",
+    "city": "Guatire",
+    "receives": null,
+    "contact": "@Olegna_H",
+    "lat": 10.47,
+    "lng": -66.54
+  },
+  {
+    "id": 788,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Guayabal",
+    "address": "Sede de Vente Venezuela, calle Revolución c/c El Río, entrada a Tapicito, Guayabal",
+    "city": "Guayabal",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "04140450278",
+    "lat": 8.00099,
+    "lng": -67.3972
+  },
+  {
+    "id": 834,
+    "type": "acopio",
+    "name": "Comando ConVzla — Yaracuy",
+    "address": "Comando de Bomberos, municipio Independencia",
+    "city": "Independencia",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.3303,
+    "lng": -68.74718
+  },
+  {
+    "id": 69,
+    "type": "acopio",
+    "name": "Servicios Públicos Alcaldía JEL",
+    "address": "La Concepción, Zulia",
+    "city": "La Concepción",
+    "receives": [],
+    "contact": null,
+    "lat": 10.6235987,
+    "lng": -71.8345311
+  },
+  {
+    "id": 76,
+    "type": "acopio",
+    "name": "Iglesia Católica Santa Mónica",
+    "address": "La Concepción, Campo Niquitao, Zulia",
+    "city": "La Concepción",
+    "receives": [],
+    "contact": null,
+    "lat": 10.621214,
+    "lng": -71.83643
+  },
+  {
+    "id": 823,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — La Fría",
+    "address": "Calle 2 esquina Carrera 13, Urb. Jáuregui",
+    "city": "La Fría",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "04147385295",
+    "lat": 8.21185,
+    "lng": -72.25363
+  },
+  {
+    "id": 16,
+    "type": "acopio",
+    "name": "Unión Canaria de Venezuela (Club Canaria)",
+    "address": "1era transversal de Las 15 Letras, Macuto, estado La Guaira",
+    "city": "La Guaira",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Frazadas",
+      "Medicamentos",
+      "Higiene personal",
+      "Pañales",
+      "Artículos de bebé",
+      "Herramientas"
+    ],
+    "contact": "+58 212-3126613 / IG @clubcanaria",
+    "lat": 10.6086,
+    "lng": -66.8918
+  },
+  {
+    "id": 830,
+    "type": "acopio",
+    "name": "Comando ConVzla — La Guaira",
+    "address": "Av. Principal de Playa Grande (Oficina de la DIP - PNB)",
+    "city": "La Guaira",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.60415,
+    "lng": -67.02723
+  },
+  {
+    "id": 118,
+    "type": "acopio",
+    "name": "Av. Principal Playa Grande — DIP / PNB",
+    "address": "Av. Principal de Playa Grande, La Guaira (Oficina de la DIP - PNB)",
+    "city": "La Guaira",
+    "receives": [
+      "agua",
+      "alimentos",
+      "higiene",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": null,
+    "lat": 10.596,
+    "lng": -66.933
+  },
+  {
+    "id": 821,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — La Tendida",
+    "address": "La Tendida parte baja, av. 2 entre calles 7 y 8, una cuadra bajando de la venta de verduras &#x27;Los Perezosos&#x27;, sede de Vente",
+    "city": "La Tendida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "041407532280414721506804120637470",
+    "lat": 8.50841,
+    "lng": -71.83209
+  },
+  {
+    "id": 278,
+    "type": "acopio",
+    "name": "Sociedad civil · La Victoria",
+    "address": "Parroquia Nuestra Señora del Carmen, calle Colón, La Victoria, Venezuela",
+    "city": "La Victoria",
+    "receives": [
+      "Insumos médicos",
+      "agua potable",
+      "alimentos no perecederos",
+      "artículos de higiene persona",
+      "pañales",
+      "fórmulas infantiles"
+    ],
+    "contact": "Dr Jhander Delgado 4243573790 Kevin Campos 4124224314",
+    "lat": 10.2276838,
+    "lng": -67.3246357
+  },
+  {
+    "id": 307,
+    "type": "acopio",
+    "name": "Sociedad civil · La Victoria",
+    "address": "CEI María de las Mercedes Calle Dr Vicentelli c/c Rosa María Paredes #7 Sector Centro, La Victoria, Venezuela",
+    "city": "La Victoria",
+    "receives": [
+      "Insumos médicos",
+      "agua potable",
+      "alimentos no perecederos",
+      "artículos de higiene persona",
+      "pañales",
+      "fórmulas infantiles"
+    ],
+    "contact": "Dr Jhander Delgado 4243573790 Kevin Campos 4124224314",
+    "lat": 10.2291098,
+    "lng": -67.3312493
+  },
+  {
+    "id": 308,
+    "type": "acopio",
+    "name": "Sociedad civil · La Victoria",
+    "address": "Bodega 33, centro comercial El Solidario, La Victoria, Venezuela",
+    "city": "La Victoria",
+    "receives": [
+      "Agua",
+      "baterías",
+      "alimentos para mascotas",
+      "insumos médicos",
+      "ropa en buen estado",
+      "pañales",
+      "palaes y picos"
+    ],
+    "contact": "https://www.instagram.com/p/DaAk8GWOLGH/?igsh=MXB2NDFyNzlheG54Nw%3D%3D",
+    "lat": 10.2283185,
+    "lng": -67.3211057
+  },
+  {
+    "id": 309,
+    "type": "acopio",
+    "name": "Sociedad civil · La Victoria",
+    "address": "Burger Latin, centro comercial Palma Center, La Victoria, Venezuela",
+    "city": "La Victoria",
+    "receives": [
+      "Agua",
+      "baterías",
+      "alimentos para mascotas",
+      "insumos médicos",
+      "ropa en buen estado",
+      "pañales",
+      "palaes y picos"
+    ],
+    "contact": "https://www.instagram.com/p/DaAk8GWOLGH/?igsh=MXB2NDFyNzlheG54Nw%3D%3D",
+    "lat": 10.2247177,
+    "lng": -67.3346521
+  },
+  {
+    "id": 428,
+    "type": "acopio",
+    "name": "CEI María de las Mercedes — Centro de acopio (La Victoria)",
+    "address": "Calle Dr. Vicentelli c/c Rosa María Paredes #7, Centro",
+    "city": "La Victoria",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 10.227,
+    "lng": -67.333
+  },
+  {
+    "id": 429,
+    "type": "acopio",
+    "name": "Parroquia Ntra. Sra. del Carmen — Centro de acopio (La Victoria)",
+    "address": "Parroquia Ntra. Sra. del Carmen, Calle Colón",
+    "city": "La Victoria",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 10.229,
+    "lng": -67.335
+  },
+  {
+    "id": 405,
+    "type": "acopio",
+    "name": "Centro de acopio Lagunillas (Mérida)",
+    "address": "Av. Bolívar, Casa Gardenia",
+    "city": "Lagunillas (Mérida)",
+    "receives": null,
+    "contact": "@vpmerida_",
+    "lat": 8.5,
+    "lng": -71.4
+  },
+  {
+    "id": 787,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Las Mercedes",
+    "address": "Sede de Vente Venezuela, calle Ribas, frente a la familia Morillo",
+    "city": "Las Mercedes",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "0412494214304124926044",
+    "lat": 9.11378,
+    "lng": -66.39868
+  },
+  {
+    "id": 798,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Lechería",
+    "address": "Plaza Bolívar de Lechería",
+    "city": "Lechería",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.17499,
+    "lng": -64.68193
+  },
+  {
+    "id": 306,
+    "type": "acopio",
+    "name": "Sociedad civil · Lecheria, Anzoategui",
+    "address": "Playa Mansa, Lecheria, Anzoategui, Venezuela",
+    "city": "Lechería",
+    "receives": [
+      "Alimentos no perecederos",
+      "agua",
+      "medicamentos y ropa en buen estado"
+    ],
+    "contact": "desde las 10 am hasta las 6 pm aprox.",
+    "lat": 10.1926027,
+    "lng": -64.6966356
+  },
+  {
+    "id": 589,
+    "type": "acopio",
+    "name": "Alcaldía de Urbaneja — Acopio (Lechería)",
+    "address": "C.C. Fórum Plaza (sede Alcaldía), Plaza Puerto Príncipe y Playa Mansa",
+    "city": "Lechería",
+    "receives": null,
+    "contact": "@Urbanejalcaldia",
+    "lat": 10.1986,
+    "lng": -64.6847
+  },
+  {
+    "id": 410,
+    "type": "acopio",
+    "name": "Alcaldía de Lechería — C.C. Forum Plaza",
+    "address": "C.C. Forum Plaza",
+    "city": "Lechería",
+    "receives": null,
+    "contact": "@Urbanejalcaldia",
+    "lat": 10.187,
+    "lng": -64.685
+  },
+  {
+    "id": 684,
+    "type": "acopio",
+    "name": "Plaza de Puerto Príncipe",
+    "address": "Plaza de Puerto Príncipe",
+    "city": "Lechería",
+    "receives": [],
+    "contact": "No especificado",
+    "lat": 10.136,
+    "lng": -64.686
+  },
+  {
+    "id": 453,
+    "type": "acopio",
+    "name": "Fundación La Tortuga — Acopio (Lechería)",
+    "address": "Frente a Ivoo, entrada de Puerto Príncipe",
+    "city": "Lechería",
+    "receives": null,
+    "contact": "@Luismrl_",
+    "lat": 10.196,
+    "lng": -64.7
+  },
+  {
+    "id": 747,
+    "type": "acopio",
+    "name": "Sociedad Civil — Lechería (Playa Mansa)",
+    "address": "Playa Mansa",
+    "city": "Lechería",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.20368,
+    "lng": -64.70235
+  },
+  {
+    "id": 818,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Libertad",
+    "address": "Casa de Clemente Mora, Av. Principal, sector Los Libertadores, detrás del estadio de béisbol",
+    "city": "Libertad",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.32882,
+    "lng": -69.63112
+  },
+  {
+    "id": 218,
+    "type": "acopio",
+    "name": "Centro de Acopio Los Guayos - Elevado La Vivienda",
+    "address": "Elevado La Vivienda, Los Guayos, Carabobo",
+    "city": "Los Guayos",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.178,
+    "lng": -67.9372
+  },
+  {
+    "id": 484,
+    "type": "acopio",
+    "name": "Acopio Los Guayos (Encuentro Ciudadano)",
+    "address": "Urb. Las Agüitas, Sector 1, calle principal",
+    "city": "Los Guayos",
+    "receives": null,
+    "contact": "@EnCiudadanoVzla",
+    "lat": 10.1806,
+    "lng": -67.9347
+  },
+  {
+    "id": 657,
+    "type": "acopio",
+    "name": "Quinta El Bejucal (Comando ConVzla)",
+    "address": "Cuarta avenida de Altamira, entre 9na y 10ma transversal, quinta El Bejucal (Comando ConVzla)",
+    "city": "Los Teques",
+    "receives": [],
+    "contact": "No especificado",
+    "lat": 10.344,
+    "lng": -67.042
+  },
+  {
+    "id": 658,
+    "type": "acopio",
+    "name": "Complejo Cultural Los Salias",
+    "address": "Complejo Cultural Los Salias",
+    "city": "Los Teques",
+    "receives": [],
+    "contact": "No especificado",
+    "lat": 10.3749262,
+    "lng": -66.9602258
+  },
+  {
+    "id": 461,
+    "type": "acopio",
+    "name": "Acopio Guaicaipuro (Los Teques)",
+    "address": "Av. Bermúdez",
+    "city": "Los Teques",
+    "receives": null,
+    "contact": "@CarlosOcariz",
+    "lat": 10.34,
+    "lng": -67.04
+  },
+  {
+    "id": 743,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Magdaleno",
+    "address": "Entre calle Sucre y Mariño, al lado del bar La Fortaleza",
+    "city": "Magdaleno",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.0973,
+    "lng": -67.61348
+  },
+  {
+    "id": 525,
+    "type": "acopio",
+    "name": "CEVAZ — Acopio (Maracaibo)",
+    "address": "CEVAZ (sedes Las Mercedes, La Limpia, San Francisco)",
+    "city": "Maracaibo",
+    "receives": null,
+    "contact": "@taencasillado",
+    "lat": 10.667,
+    "lng": -71.612
+  },
+  {
+    "id": 527,
+    "type": "acopio",
+    "name": "Vente Zulia — Acopio (Maracaibo)",
+    "address": "Calle 70 con av. 15A y 15B, N°15A-39",
+    "city": "Maracaibo",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 10.671,
+    "lng": -71.626
+  },
+  {
+    "id": 22,
+    "type": "acopio",
+    "name": "Colegio de Médicos",
+    "address": "Sede del Colegio de Médicos",
+    "city": "Maracaibo",
+    "receives": [
+      "Medicamentos"
+    ],
+    "contact": "https://www.instagram.com/comezu_2021",
+    "lat": 10.688634,
+    "lng": -71.6345518
+  },
+  {
+    "id": 304,
+    "type": "acopio",
+    "name": "Vente Zulia · Maracaibo",
+    "address": "Calle 70 con av 15A y 15B N15A-39, calle paralela a Nebabrica, Maracaibo, Venezuela",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": null,
+    "lat": 10.6702556,
+    "lng": -71.6223117
+  },
+  {
+    "id": 305,
+    "type": "acopio",
+    "name": "Un Nuevo Tiempo · Maracaibo",
+    "address": "Sede regional Un Nuevo Tiempo, Maracaibo, Venezuela",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": null,
+    "lat": 10.6816543,
+    "lng": -71.6039479
+  },
+  {
+    "id": 70,
+    "type": "acopio",
+    "name": "Casa d’ italia",
+    "address": "16 Av. 37 A, Maracaibo 4005, Zulia",
+    "city": "Maracaibo",
+    "receives": [],
+    "contact": null,
+    "lat": 10.6616,
+    "lng": -71.6014
+  },
+  {
+    "id": 72,
+    "type": "acopio",
+    "name": "Sambil Maracaibo",
+    "address": "Avenida Guajira, Zona Industrial Norte, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [],
+    "contact": null,
+    "lat": 10.7226792,
+    "lng": -71.6326407
+  },
+  {
+    "id": 73,
+    "type": "acopio",
+    "name": "Sistema de Salud Madre Rafols",
+    "address": "Avenida Francisco de Miranda - Circunvalación 2, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [],
+    "contact": null,
+    "lat": 10.6449805,
+    "lng": -71.663286
+  },
+  {
+    "id": 841,
+    "type": "acopio",
+    "name": "Colegio de Medicos - Maracaibo",
+    "address": "Sede del Colegio de Medicos, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Colegio de Medicos Zulia",
+    "lat": 10.655,
+    "lng": -71.621
+  },
+  {
+    "id": 74,
+    "type": "acopio",
+    "name": "MIMUTEC (Gran Bazar)",
+    "address": "URB. La Coromoto, C.C. Gran Bazar, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [],
+    "contact": null,
+    "lat": 10.6411261,
+    "lng": -71.6201484
+  },
+  {
+    "id": 845,
+    "type": "acopio",
+    "name": "Vente Zulia - Maracaibo",
+    "address": "Calle 70 con Av. 15A y 15B, N 15A-39, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Sede Vente Zulia",
+    "lat": 10.669,
+    "lng": -71.612
+  },
+  {
+    "id": 78,
+    "type": "acopio",
+    "name": "CEVAZ Las Mercedes",
+    "address": "Avenida Universidad, Las Mercedes, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [],
+    "contact": null,
+    "lat": 10.6812422,
+    "lng": -71.6033989
+  },
+  {
+    "id": 590,
+    "type": "acopio",
+    "name": "Estadio Luis Aparicio (Águilas del Zulia) — Acopio (Maracaibo)",
+    "address": "Estadio Luis Aparicio \"El Grande\", Av. Universidad",
+    "city": "Maracaibo",
+    "receives": null,
+    "contact": "@JClaudemg",
+    "lat": 10.6709,
+    "lng": -71.6256
+  },
+  {
+    "id": 848,
+    "type": "acopio",
+    "name": "UNT Zulia - Sede Regional Maracaibo",
+    "address": "Sede regional Un Nuevo Tiempo, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Sede UNT Zulia",
+    "lat": 10.64,
+    "lng": -71.63
+  },
+  {
+    "id": 81,
+    "type": "acopio",
+    "name": "CEVAZ La Limpia",
+    "address": "Avenida 28 La Limpia, detrás de Farmaexpress (antiguo Ferretotal), Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [],
+    "contact": null,
+    "lat": 10.6817973,
+    "lng": -71.6671064
+  },
+  {
+    "id": 348,
+    "type": "acopio",
+    "name": "Sede Vente Zulia",
+    "address": "Calle 70 con Av. 15A y 15B, N° 15A-39, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [],
+    "contact": null,
+    "lat": 10.6560516,
+    "lng": -71.6323805
+  },
+  {
+    "id": 349,
+    "type": "acopio",
+    "name": "Sede UNT Zulia",
+    "address": "Sede Regional Un Nuevo Tiempo, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "Material Médico y primeros auxilios y me"
+    ],
+    "contact": "https://www.instagram.com/comezu_2021",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": 363,
+    "type": "acopio",
+    "name": "Basílica de la Chinita — Centro de acopio (Maracaibo)",
+    "address": "Basílica de la Chinita, Maracaibo (Zulia)",
+    "city": "Maracaibo",
+    "receives": null,
+    "contact": "@VillaIobosLuis",
+    "lat": 10.6303,
+    "lng": -71.636
+  },
+  {
+    "id": 115,
+    "type": "acopio",
+    "name": "Torre Promotora Paraíso — Maracaibo",
+    "address": "Calle 60, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "medicinas",
+      "agua",
+      "alimentos",
+      "higiene",
+      "ropa"
+    ],
+    "contact": "@torrepromotoraparaisomcbo",
+    "lat": 10.6545,
+    "lng": -71.6351
+  },
+  {
+    "id": 377,
+    "type": "acopio",
+    "name": "Fermaca Express — Centro de acopio (Maracaibo)",
+    "address": "Fermaca Express, Av. Delicias, frente al Mall Delicias Plaza",
+    "city": "Maracaibo",
+    "receives": null,
+    "contact": "@fermaca_",
+    "lat": 10.6647,
+    "lng": -71.6256
+  },
+  {
+    "id": 387,
+    "type": "acopio",
+    "name": "Hometex — Centro de acopio (Maracaibo)",
+    "address": "Tienda Hometex, cercanías del C.C. Sambil",
+    "city": "Maracaibo",
+    "receives": null,
+    "contact": "@Maripolanc0",
+    "lat": 10.701,
+    "lng": -71.624
+  },
+  {
+    "id": 391,
+    "type": "acopio",
+    "name": "El Tacón de Delicias — Centro de acopio (Maracaibo)",
+    "address": "Av. Delicias con Cecilio Acosta, esquina El Tacón",
+    "city": "Maracaibo",
+    "receives": null,
+    "contact": "@VoluntadPopular",
+    "lat": 10.658,
+    "lng": -71.632
+  },
+  {
+    "id": 157,
+    "type": "acopio",
+    "name": "Fermaca Express — Av. Delicias",
+    "address": null,
+    "city": "Maracaibo",
+    "receives": [],
+    "contact": null,
+    "lat": 10.6876133,
+    "lng": -71.6252122
+  },
+  {
+    "id": 214,
+    "type": "acopio",
+    "name": "Policlínica Veterinaria FCV-LUZ",
+    "address": "Avenida 25, sector Manzana de Oro, al lado del Estadio Luis Aparicio y del Parque Ana María Campos, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.673,
+    "lng": -71.6465
+  },
+  {
+    "id": 474,
+    "type": "acopio",
+    "name": "Universidad del Zulia (LUZ) — Acopio (Maracaibo)",
+    "address": "Plazoleta del Rectorado de LUZ",
+    "city": "Maracaibo",
+    "receives": null,
+    "contact": "@LUZadn",
+    "lat": 10.6427,
+    "lng": -71.6262
+  },
+  {
+    "id": 475,
+    "type": "acopio",
+    "name": "Colegio de Médicos — Acopio (Maracaibo)",
+    "address": "Colegio de Médicos, Av. 16 (La Guajira)",
+    "city": "Maracaibo",
+    "receives": null,
+    "contact": "@carlosdani25_",
+    "lat": 10.668,
+    "lng": -71.615
+  },
+  {
+    "id": 476,
+    "type": "acopio",
+    "name": "Cruz Roja Maracaibo — Acopio",
+    "address": "Cruz Roja, Av. 11",
+    "city": "Maracaibo",
+    "receives": null,
+    "contact": "@carlosdani25_",
+    "lat": 10.66,
+    "lng": -71.63
+  },
+  {
+    "id": 245,
+    "type": "acopio",
+    "name": "Pitts Bowling - C.C. Costa Verde",
+    "address": "Centro Comercial Costa Verde, Avenida 4 (Bella Vista), Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.6779,
+    "lng": -71.6064
+  },
+  {
+    "id": 246,
+    "type": "acopio",
+    "name": "Basílica de Nuestra Señora de Chiquinquirá",
+    "address": "Avenida 12 con Calle 96 (Paseo Ciencias), Centro de Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.643,
+    "lng": -71.6159
+  },
+  {
+    "id": 247,
+    "type": "acopio",
+    "name": "Colegio de Médicos de Maracaibo",
+    "address": "Avenida 16 Guajira, diagonal a Residencias Palaima, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.692,
+    "lng": -71.6315
+  },
+  {
+    "id": 248,
+    "type": "acopio",
+    "name": "Panda Aventura - C.C. Galerías",
+    "address": "Centro Comercial Galerías Mall, Avenida La Limpia, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.6716,
+    "lng": -71.6537
+  },
+  {
+    "id": 249,
+    "type": "acopio",
+    "name": "Sede de Voluntad Popular - Delicias",
+    "address": "Avenida 15 (Delicias), frente a El Tacón, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.6655,
+    "lng": -71.619
+  },
+  {
+    "id": 250,
+    "type": "acopio",
+    "name": "Cruz Roja Maracaibo",
+    "address": "Avenida 11 con calle 83 (Veritas), Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.6593,
+    "lng": -71.6125
+  },
+  {
+    "id": 251,
+    "type": "acopio",
+    "name": "GYM Synergy - C.C. Doral Center",
+    "address": "Centro Comercial Doral Center Mall, Avenida 16 Guajira, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.6981,
+    "lng": -71.625
+  },
+  {
+    "id": 252,
+    "type": "acopio",
+    "name": "Rectorado Nuevo de LUZ",
+    "address": "Avenida 16 Guajira, Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.6755,
+    "lng": -71.6283
+  },
+  {
+    "id": 253,
+    "type": "acopio",
+    "name": "Sede de Vente Venezuela - Maracaibo (Dr. Portillo)",
+    "address": "Calle 78 (Doctor Portillo) con Av. 15 (Las Delicias), Maracaibo, Zulia",
+    "city": "Maracaibo",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.6625,
+    "lng": -71.6185
+  },
+  {
+    "id": 288,
+    "type": "acopio",
+    "name": "Teatro de la Ópera · Maracay",
+    "address": "Teatro de la Ópera, Maracay, Venezuela",
+    "city": "Maracay",
+    "receives": [
+      "Agua potable y alimentos no perecederos",
+      "medicamentos e insumos de primeros auxil",
+      "productos de higiene personal y pañales",
+      "ropa y cobijas en buen estado"
+    ],
+    "contact": null,
+    "lat": 10.2487923,
+    "lng": -67.5954128
+  },
+  {
+    "id": 544,
+    "type": "acopio",
+    "name": "Vente Aragua — Acopio (Maracay)",
+    "address": "Urb. El Centro, calle El Hipódromo",
+    "city": "Maracay",
+    "receives": null,
+    "contact": "@VenteAragua",
+    "lat": 10.246,
+    "lng": -67.598
+  },
+  {
+    "id": 303,
+    "type": "acopio",
+    "name": "Voluntad Popular · Maracay",
+    "address": "Paseo de la Libertad, Avenida Las Delicias, frente al Centro Médico Maracay, Maracay, Venezuela",
+    "city": "Maracay",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": null,
+    "lat": 10.2585344,
+    "lng": -67.5911784
+  },
+  {
+    "id": 843,
+    "type": "acopio",
+    "name": "Teatro de la Opera de Maracay",
+    "address": "Sede del Teatro de la Opera, Maracay, Aragua",
+    "city": "Maracay",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Teatro Oficial Aragua",
+    "lat": 10.247,
+    "lng": -67.595
+  },
+  {
+    "id": 346,
+    "type": "acopio",
+    "name": "Paseo de la Libertad — Av. Las Delicias",
+    "address": "Av. Las Delicias, frente al Centro Médico de Maracay, Aragua",
+    "city": "Maracay",
+    "receives": [],
+    "contact": null,
+    "lat": 10.2612661,
+    "lng": -67.5899212
+  },
+  {
+    "id": 347,
+    "type": "acopio",
+    "name": "C.C. La Capilla — Av. 19 de Abril",
+    "address": "Centro Comercial La Capilla, piso 1, local 21, Av. 19 de Abril, Maracay, Aragua",
+    "city": "Maracay",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": "https://www.instagram.com/p/DZ_kBlyIVRI/?hl=es",
+    "lat": 10.2530309,
+    "lng": -67.6002667
+  },
+  {
+    "id": 108,
+    "type": "acopio",
+    "name": "Centro de Estudiantes de Veterinaria UCV — Maracay",
+    "address": "Av. 19 de Abril, Maracay, Aragua",
+    "city": "Maracay",
+    "receives": [
+      "alimentos",
+      "agua",
+      "medicinas",
+      "ropa",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 10.2558,
+    "lng": -67.5912
+  },
+  {
+    "id": 378,
+    "type": "acopio",
+    "name": "Centro de acopio C.C. La Capilla (Maracay)",
+    "address": "Av. 19 de abril, C.C. La Capilla, piso 1, local 21",
+    "city": "Maracay",
+    "receives": null,
+    "contact": null,
+    "lat": 10.247,
+    "lng": -67.598
+  },
+  {
+    "id": 392,
+    "type": "acopio",
+    "name": "Casa Italia — Centro de acopio (Maracay)",
+    "address": "Casa Italia (Centro Ítalo Venezolano)",
+    "city": "Maracay",
+    "receives": null,
+    "contact": "@casaitaliamcy",
+    "lat": 10.254,
+    "lng": -67.601
+  },
+  {
+    "id": 682,
+    "type": "acopio",
+    "name": "Centro de acopio Voluntad Popular",
+    "address": "Paseo de la Libertad, Av. Las Delicias, frente al Centro Médico de Maracay",
+    "city": "Maracay",
+    "receives": [],
+    "contact": "No especificado",
+    "lat": 10.251,
+    "lng": -67.573
+  },
+  {
+    "id": 427,
+    "type": "acopio",
+    "name": "UCV Veterinaria — Centro de acopio (Maracay)",
+    "address": "Facultad de Veterinaria UCV",
+    "city": "Maracay",
+    "receives": null,
+    "contact": "@Victorbaniwa",
+    "lat": 10.27,
+    "lng": -67.61
+  },
+  {
+    "id": 179,
+    "type": "acopio",
+    "name": "Centro de Acopio Maracay - Paseo de la Libertad",
+    "address": "Paseo de la Libertad, avenida Las Delicias, frente al Centro Médico de Maracay (Voluntad Popular), Maracay, Aragua",
+    "city": "Maracay",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2577,
+    "lng": -67.5913
+  },
+  {
+    "id": 209,
+    "type": "acopio",
+    "name": "Centro de Acopio Maracay - CC La Capilla",
+    "address": "Avenida 19 de Abril, Centro Comercial La Capilla, Piso 1, Local 21, Maracay, Aragua",
+    "city": "Maracay",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2494,
+    "lng": -67.6042
+  },
+  {
+    "id": 210,
+    "type": "acopio",
+    "name": "Centro de Acopio Maracay - Urb El Centro",
+    "address": "Urbanización El Centro, calle El Hipódromo (punto de referencia: a tres locales de Hypercarnes Bermúdez), Maracay, Aragua",
+    "city": "Maracay",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2435,
+    "lng": -67.5912
+  },
+  {
+    "id": 746,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Maracay (El Centro)",
+    "address": "Urb. El Centro, calle el Hipódromo, a 20 mts de Hypercarnes Bermúdez",
+    "city": "Maracay",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.23751,
+    "lng": -67.58902
+  },
+  {
+    "id": 507,
+    "type": "acopio",
+    "name": "Contraloría del Estado Aragua — Acopio (Maracay)",
+    "address": "Calle Páez, entre Calle Brión y Av. Bermúdez",
+    "city": "Maracay",
+    "receives": null,
+    "contact": "@CEAragua",
+    "lat": 10.246,
+    "lng": -67.597
+  },
+  {
+    "id": 508,
+    "type": "acopio",
+    "name": "Estadio Hermanos Ghersi Páez (Vikingos) — Acopio (Maracay)",
+    "address": "Tribuna Popular, Estadio Hermanos Ghersi Páez",
+    "city": "Maracay",
+    "receives": null,
+    "contact": "@anapaila123",
+    "lat": 10.235,
+    "lng": -67.606
+  },
+  {
+    "id": 255,
+    "type": "acopio",
+    "name": "Centro de Acopio C.C. La Capilla - Operación Todos con VZLA",
+    "address": "Avenida 19 de Abril, Centro Comercial La Capilla, Piso 1, local 21, Maracay",
+    "city": "Maracay",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.253,
+    "lng": -67.6006
+  },
+  {
+    "id": 650,
+    "type": "acopio",
+    "name": "Rattan Plaza Margarita",
+    "address": "Rattan Plaza Margarita",
+    "city": "Margarita",
+    "receives": [],
+    "contact": null,
+    "lat": 10.9926601,
+    "lng": -63.8241291
+  },
+  {
+    "id": 414,
+    "type": "acopio",
+    "name": "Centro de acopio Nueva Esparta (Margarita)",
+    "address": "Plaza de las Banderas, Maneiro",
+    "city": "Margarita",
+    "receives": null,
+    "contact": "@VoluntadPopular",
+    "lat": 10.998,
+    "lng": -63.838
+  },
+  {
+    "id": 269,
+    "type": "acopio",
+    "name": "Caritas de Venezuela · Monagas",
+    "address": "Parroquia Santo Domingo de Guzmán, las Cocuizas., Monagas, Venezuela",
+    "city": "Maturín",
+    "receives": [
+      "Alimentos no perecederos",
+      "agua potable",
+      "pañales para adultos y niños"
+    ],
+    "contact": null,
+    "lat": 9.373235,
+    "lng": -63.021741
+  },
+  {
+    "id": 846,
+    "type": "acopio",
+    "name": "Voluntad Popular - Maturin",
+    "address": "Calle 6, antigua Bermudez, casa N. 11, Maturin, Monagas",
+    "city": "Maturin",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Sede VP Monagas",
+    "lat": 9.742,
+    "lng": -63.183
+  },
+  {
+    "id": 351,
+    "type": "acopio",
+    "name": "Antiguo restaurante El Oeste",
+    "address": "Antiguo restaurante El Oeste, Maturín, Monagas",
+    "city": "Maturín",
+    "receives": [
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": null,
+    "lat": 9.7422774,
+    "lng": -63.1888854
+  },
+  {
+    "id": 352,
+    "type": "acopio",
+    "name": "Acopio Calle 6 (antigua Bermúdez)",
+    "address": "Calle 6, antigua Bermúdez, Casa N° 11, Maturín, Monagas",
+    "city": "Maturín",
+    "receives": [],
+    "contact": null,
+    "lat": 9.7572027,
+    "lng": -63.1557192
+  },
+  {
+    "id": 364,
+    "type": "acopio",
+    "name": "Cáritas Venezuela — Centro de acopio (Maturín)",
+    "address": "Iglesia Santo Domingo de Guzmán, Sector Las Cocuizas",
+    "city": "Maturín",
+    "receives": null,
+    "contact": "@PonceTiapa",
+    "lat": 9.745,
+    "lng": -63.183
+  },
+  {
+    "id": 114,
+    "type": "acopio",
+    "name": "Cáritas Venezuela — Catedral Nuestra Sra del Carmen",
+    "address": "Catedral Nuestra Señora del Carmen, Maturín, Monagas",
+    "city": "Maturín",
+    "receives": [
+      "alimentos",
+      "agua",
+      "medicinas"
+    ],
+    "contact": null,
+    "lat": 9.7452,
+    "lng": -63.1723
+  },
+  {
+    "id": 656,
+    "type": "acopio",
+    "name": "Centro de acopio VP Monagas",
+    "address": "Calle 6 (antigua Bermúdez), casa N.º 11 (antiguo restaurante El Oeste), Maturín",
+    "city": "Maturín",
+    "receives": [],
+    "contact": "No especificado",
+    "lat": 9.746,
+    "lng": -63.176
+  },
+  {
+    "id": 407,
+    "type": "acopio",
+    "name": "Centro de acopio Monagas (Maturín)",
+    "address": "Calle 6 Antigua Bermúdez, casa N°11",
+    "city": "Maturín",
+    "receives": null,
+    "contact": "@Monagas_VP",
+    "lat": 9.752,
+    "lng": -63.188
+  },
+  {
+    "id": 408,
+    "type": "acopio",
+    "name": "Cáritas — Catedral Ntra. Sra. del Carmen (Maturín)",
+    "address": "Catedral Ntra. Sra. del Carmen",
+    "city": "Maturín",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 9.7497,
+    "lng": -63.1766
+  },
+  {
+    "id": 513,
+    "type": "acopio",
+    "name": "Colegio de Médicos de Mérida — Acopio",
+    "address": "Colegio de Médicos, Av. Urdaneta",
+    "city": "Mérida",
+    "receives": null,
+    "contact": "@thexpeditionary",
+    "lat": 8.5938,
+    "lng": -71.1561
+  },
+  {
+    "id": 29,
+    "type": "acopio",
+    "name": "Politecnico Santiago Marino - UTS Merida",
+    "address": "Prolongación de la Av. las Américas con intersección hacia la Av. Los Próceres, Mérida, Venezuela",
+    "city": "Mérida",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas",
+      "Higiene personal"
+    ],
+    "contact": "@psmmerida",
+    "lat": 8.58,
+    "lng": -71.16
+  },
+  {
+    "id": 301,
+    "type": "acopio",
+    "name": "Animales Sin Nombre · Mérida",
+    "address": "CC EL Rodeo / Contactarlos, Mérida, Venezuela",
+    "city": "Mérida",
+    "receives": [
+      "alimento para los animalitos",
+      "medicinas",
+      "antidiarreicos"
+    ],
+    "contact": "https://www.instagram.com/_asn?igsh=MWUxbTI2OWx4ZzJlYQ==",
+    "lat": 8.589886,
+    "lng": -71.1610437
+  },
+  {
+    "id": 302,
+    "type": "acopio",
+    "name": "Colegio de Médicos del Estado Mérida",
+    "address": "Avenida Urdaneta, Mérida, Venezuela",
+    "city": "Mérida",
+    "receives": [
+      "Ropa",
+      "medicamentos e insumos",
+      "agua",
+      "alimentos no perecederos",
+      "lencería"
+    ],
+    "contact": null,
+    "lat": 8.5862593,
+    "lng": -71.1596006
+  },
+  {
+    "id": 856,
+    "type": "acopio",
+    "name": "Evolution.academy.ve",
+    "address": "Viaducto Sucre, entre Av. Las Americas y Av. Urdaneta, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.588,
+    "lng": -71.142
+  },
+  {
+    "id": 857,
+    "type": "acopio",
+    "name": "SPOT MERIDA",
+    "address": "Av. Las Americas bajo el viaducto Miranda, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.5925,
+    "lng": -71.144
+  },
+  {
+    "id": 858,
+    "type": "acopio",
+    "name": "FarmaBien - Todas las sedes",
+    "address": "Todas las sedes en Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.5947,
+    "lng": -71.1449
+  },
+  {
+    "id": 859,
+    "type": "acopio",
+    "name": "Hiper Garzon - Las Americas",
+    "address": "Hiper Garzon las Americas, Av. Las Americas, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.578,
+    "lng": -71.145
+  },
+  {
+    "id": 860,
+    "type": "acopio",
+    "name": "CacaoLab - Merida",
+    "address": "Urb. La Lummonty, calle Las Colinas, Edif. Oneida, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "0414-3740701",
+    "lat": 8.572,
+    "lng": -71.148
+  },
+  {
+    "id": 861,
+    "type": "acopio",
+    "name": "Suraki - Av. Las Americas",
+    "address": "Av. Las Americas, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "0424-7476652",
+    "lat": 8.586,
+    "lng": -71.14
+  },
+  {
+    "id": 862,
+    "type": "acopio",
+    "name": "Proteccion Civil - Sedes Merida",
+    "address": "Sedes de Proteccion Civil, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.59,
+    "lng": -71.155
+  },
+  {
+    "id": 863,
+    "type": "acopio",
+    "name": "Alcaldia del Municipio Libertador - Sede",
+    "address": "Sede de la Alcaldia (Punto autorizado), Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.5986,
+    "lng": -71.1432
+  },
+  {
+    "id": 864,
+    "type": "acopio",
+    "name": "Esquina de McDonald's - Av. Las Americas",
+    "address": "Avenida las Americas, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "0424-7629255",
+    "lat": 8.5878,
+    "lng": -71.1408
+  },
+  {
+    "id": 865,
+    "type": "acopio",
+    "name": "CC Rodeo Plaza - PB",
+    "address": "Planta baja frente a Ultrabikex, C.C Rodeo Plaza, Av. Las Americas, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "0414-7002799 (Maria Julia Jong)",
+    "lat": 8.5839,
+    "lng": -71.1396
+  },
+  {
+    "id": 867,
+    "type": "acopio",
+    "name": "Sede de la Banda Show - Belen",
+    "address": "Av. 7 Maldonado entre calle 17 y 18, Sede del Liceo Tulio Febres Cordero Belen, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.6025,
+    "lng": -71.141
+  },
+  {
+    "id": 868,
+    "type": "acopio",
+    "name": "Kussay - Merida",
+    "address": "Av. 3, esquina de la calle 27, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.595,
+    "lng": -71.1462
+  },
+  {
+    "id": 869,
+    "type": "acopio",
+    "name": "Centro Comercial la 19",
+    "address": "Av. 19, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "0412-3121971",
+    "lat": 8.593,
+    "lng": -71.147
+  },
+  {
+    "id": 870,
+    "type": "acopio",
+    "name": "LM Market - Tovar",
+    "address": "LM Market Tovar, Tovar, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.337,
+    "lng": -71.758
+  },
+  {
+    "id": 104,
+    "type": "acopio",
+    "name": "Cáritas Mérida",
+    "address": "Av. Las Américas, parroquia Santa Bárbara, Sede de Cáritas Mérida",
+    "city": "Mérida",
+    "receives": [
+      "alimentos",
+      "agua",
+      "medicinas",
+      "higiene",
+      "ropa"
+    ],
+    "contact": "Cáritas Parroquial más cercana",
+    "lat": 8.5933,
+    "lng": -71.1445
+  },
+  {
+    "id": 872,
+    "type": "acopio",
+    "name": "Fitness World - Merida",
+    "address": "Calle 35 entre avenidas 3 y 4, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.5905,
+    "lng": -71.152
+  },
+  {
+    "id": 874,
+    "type": "acopio",
+    "name": "Distribuidora A.P Frikarne",
+    "address": "Av. 2 Lora con calle 20, frente a Sujer, Centro de Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "0414-753-6622",
+    "lat": 8.6001,
+    "lng": -71.1432
+  },
+  {
+    "id": 875,
+    "type": "acopio",
+    "name": "Oficina AMI Venezuela Merida",
+    "address": "Paseo las ferias, detras del Edificio Administrativo A, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.5875,
+    "lng": -71.145
+  },
+  {
+    "id": 876,
+    "type": "acopio",
+    "name": "Centro de Acopio ULA - CC Centenario",
+    "address": "CC Centenario, Gimnasio la Piedra, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.583,
+    "lng": -71.162
+  },
+  {
+    "id": 877,
+    "type": "acopio",
+    "name": "Hotel Escuela de Los Andes Venezolanos",
+    "address": "Complejo Brangus, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.621,
+    "lng": -71.1444
+  },
+  {
+    "id": 878,
+    "type": "acopio",
+    "name": "La Juventud Ayuda - Trolcable",
+    "address": "Trolcable, Paseo las Ferias (Mirador de Merida), Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "0412-9863510 / 0424-7034091",
+    "lat": 8.5872,
+    "lng": -71.1448
+  },
+  {
+    "id": 879,
+    "type": "acopio",
+    "name": "Merida Sorora - Casa Machi",
+    "address": "Casa Machi, calle 24, Boulevard las Heroinas, frente al teleferico, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": null,
+    "lat": 8.5956,
+    "lng": -71.1437
+  },
+  {
+    "id": 880,
+    "type": "acopio",
+    "name": "JAC Motors - Concesionario Merida",
+    "address": "Av. Andres Bello, entrada urb. Los Corrales, Merida",
+    "city": "Merida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "0412-2993530 / 0424-2007581 / 0426-2007581",
+    "lat": 8.618,
+    "lng": -71.146
+  },
+  {
+    "id": 660,
+    "type": "acopio",
+    "name": "Fundación Por Estas Calles",
+    "address": "Centro de acopio habilitado para alimentos, medicamentos y artículos de primera necesidad",
+    "city": "Mérida",
+    "receives": [],
+    "contact": "No especificado",
+    "lat": 8.598,
+    "lng": -71.144
+  },
+  {
+    "id": 715,
+    "type": "acopio",
+    "name": "Casa Machi Espacio Cultural",
+    "address": "las Heroinas, Mérida 5101, Mérida·85 metros",
+    "city": "Mérida",
+    "receives": [
+      "Ropa",
+      "Frazadas",
+      "Medicamentos",
+      "Higiene personal",
+      "Artículos de bebé",
+      "Pañales"
+    ],
+    "contact": "+584126612810",
+    "lat": 8.5922496,
+    "lng": -71.1414354
+  },
+  {
+    "id": 207,
+    "type": "acopio",
+    "name": "Centro de Acopio Mérida - Torre Alto Chama",
+    "address": "Urb. Alto Chama, Torre empresarial Alto Chama, Ave. Andrés Bello, Piso 4, Mérida",
+    "city": "Mérida",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": "0414 751 5130 o WhatsApp al +57 322 686 3664",
+    "lat": 8.5568,
+    "lng": -71.1974
+  },
+  {
+    "id": 241,
+    "type": "acopio",
+    "name": "Rectorado ULA - Facultad de Odontologia",
+    "address": "Edificio del Rectorado ULA, Avenida 3 Independencia entre calles 23 y 24, Mérida",
+    "city": "Mérida",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 8.5976,
+    "lng": -71.1455
+  },
+  {
+    "id": 242,
+    "type": "acopio",
+    "name": "CUMIS ULA Facultad de Medicina",
+    "address": "Facultad de Medicina ULA, Av. Tulio Febres Cordero con calle 34, Mérida",
+    "city": "Mérida",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 8.5903,
+    "lng": -71.1499
+  },
+  {
+    "id": 243,
+    "type": "acopio",
+    "name": "Centro de Acopio ULA - Edificio Administrativo",
+    "address": "Edificio Administrativo de la Universidad de Los Andes, Av. Don Tulio Febres Cordero, Mérida",
+    "city": "Mérida",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 8.60757,
+    "lng": -71.14273
+  },
+  {
+    "id": 757,
+    "type": "acopio",
+    "name": "Sociedad Civil — Colegio de Médicos (Mérida)",
+    "address": "Sede del Colegio de Médicos",
+    "city": "Mérida",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.5817,
+    "lng": -71.16581
+  },
+  {
+    "id": 216,
+    "type": "acopio",
+    "name": "Centro de Acopio San José Mora-Morón",
+    "address": "Antigua Panadería Mora-Pan, Av. Falcón, diagonal a Multimax, Morón, Carabobo",
+    "city": "Morón",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.4923,
+    "lng": -68.1968
+  },
+  {
+    "id": 506,
+    "type": "acopio",
+    "name": "Plaza El Sancudo — Acopio (Morón)",
+    "address": "Plaza El Sancudo, Parroquia Morón",
+    "city": "Morón",
+    "receives": null,
+    "contact": "@ReporteYa",
+    "lat": 10.4866,
+    "lng": -68.1989
+  },
+  {
+    "id": 575,
+    "type": "acopio",
+    "name": "C.C. El Cristal — Acopio (Naguanagua)",
+    "address": "C.C. El Cristal",
+    "city": "Naguanagua",
+    "receives": null,
+    "contact": "@zwumszum",
+    "lat": 10.24,
+    "lng": -68
+  },
+  {
+    "id": 368,
+    "type": "acopio",
+    "name": "Universidad de Carabobo — Centro de acopio (Bárbula)",
+    "address": "Cuerpo de Bomberos, Campus Bárbula, U. de Carabobo",
+    "city": "Naguanagua",
+    "receives": null,
+    "contact": "@Elmasque_dice",
+    "lat": 10.272,
+    "lng": -68.005
+  },
+  {
+    "id": 425,
+    "type": "acopio",
+    "name": "Parque Dunas — Centro de acopio (Naguanagua)",
+    "address": "Parque Dunas",
+    "city": "Naguanagua",
+    "receives": null,
+    "contact": "@webnotitarde",
+    "lat": 10.24,
+    "lng": -68.01
+  },
+  {
+    "id": 224,
+    "type": "acopio",
+    "name": "Lidotel Valencia",
+    "address": "Avenida 4, al lado del Centro Comercial SAMBIL Valencia, Naguanagua, Carabobo",
+    "city": "Naguanagua",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2328,
+    "lng": -68.0033
+  },
+  {
+    "id": 225,
+    "type": "acopio",
+    "name": "Cáritas Valencia - Casa Hogar San José de Mañongo",
+    "address": "Casa Hogar San José de Mañongo, Naguanagua, Carabobo",
+    "city": "Naguanagua",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2342,
+    "lng": -68.0028
+  },
+  {
+    "id": 226,
+    "type": "acopio",
+    "name": "Parque DUNAS - Naguanagua",
+    "address": "Parque DUNAS, Sector Mañongo, Naguanagua, Carabobo",
+    "city": "Naguanagua",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2319,
+    "lng": -68.0053
+  },
+  {
+    "id": 227,
+    "type": "acopio",
+    "name": "Centro de Acopio Naguanagua - Av. Universidad",
+    "address": "Semáforo de la Av. Universidad con calle 190, Naguanagua, Carabobo",
+    "city": "Naguanagua",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2569,
+    "lng": -68.0208
+  },
+  {
+    "id": 808,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Lander",
+    "address": "Calle Principal Tocuyito, Entrada Altos de San Pedro, al frente de la Licorería Andes Tuy (ref. La Gallera)",
+    "city": "Ocumare del Tuy",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.1137,
+    "lng": -66.77575
+  },
+  {
+    "id": 799,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Onoto",
+    "address": "Calle Bolívar, al lado del Club Taquima",
+    "city": "Onoto",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.59854,
+    "lng": -65.19018
+  },
+  {
+    "id": 784,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Ortiz (pueblo)",
+    "address": "Av. Roberto Vargas cruce con calle Sucre, Sede de Vente Venezuela en Ortiz",
+    "city": "Ortiz",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "04144675559",
+    "lat": 9.62282,
+    "lng": -67.29148
+  },
+  {
+    "id": 769,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Ospino",
+    "address": "Calle Arroyo, casa 24, diagonal a la cancha techada",
+    "city": "Ospino",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.30035,
+    "lng": -69.45568
+  },
+  {
+    "id": 824,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Guásimos",
+    "address": "Plaza Bolívar de Palmira",
+    "city": "Palmira",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 7.83738,
+    "lng": -72.22727
+  },
+  {
+    "id": 742,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Ocumarito (Libertador)",
+    "address": "Calle Bermúdez #42, sector Ocumarito",
+    "city": "Palo Negro",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.16303,
+    "lng": -67.55343
+  },
+  {
+    "id": 290,
+    "type": "acopio",
+    "name": "Sociedad civil · Trujillo",
+    "address": "Municipio Pampanito: Pampanito I, Urb. Villa Hermosa, 4ta calle, Casa num 377, Trujillo, Venezuela",
+    "city": "Pampanito",
+    "receives": [
+      "Insumos médicos",
+      "alimentos no perecederos",
+      "ropa en buen estado"
+    ],
+    "contact": "0412-9843407",
+    "lat": 9.4085387,
+    "lng": -70.4924383
+  },
+  {
+    "id": 756,
+    "type": "acopio",
+    "name": "Sociedad Civil — Pampanito",
+    "address": "Pampanito I, Urb. Villa Hermosa, 4ta calle, Casa #377",
+    "city": "Pampanito",
+    "receives": [
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "04129843407",
+    "lat": 9.41185,
+    "lng": -70.49429
+  },
+  {
+    "id": 767,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Papelón",
+    "address": "Carrera 5, sede de Vente Papelón",
+    "city": "Papelón",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.9422,
+    "lng": -69.45975
+  },
+  {
+    "id": 819,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Pedraza",
+    "address": "Radio Superior, avenida 6, entre calles 8 y 9",
+    "city": "Pedraza",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.03134,
+    "lng": -70.66722
+  },
+  {
+    "id": 772,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Esteller",
+    "address": "Carrera 8 entre calles 7 y 8, frente a la Farmacia San Ignacio",
+    "city": "Píritu",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.36947,
+    "lng": -69.20997
+  },
+  {
+    "id": 512,
+    "type": "acopio",
+    "name": "Terminal Conferry — Acopio (Porlamar)",
+    "address": "Terminal de ferrys Conferry",
+    "city": "Porlamar",
+    "receives": null,
+    "contact": "@mippci_ven",
+    "lat": 10.9577,
+    "lng": -63.8589
+  },
+  {
+    "id": 855,
+    "type": "refugio",
+    "name": "Posada Disponible (Puerto Cabello)",
+    "address": "Puerto Cabello, Carabobo",
+    "city": "Puerto Cabello",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "+58 412-4165622",
+    "lat": 10.473,
+    "lng": -68.012
+  },
+  {
+    "id": 741,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Puerto Cabello",
+    "address": "Plaza Barquisimeto, centro de Puerto Cabello, entre calle Urdaneta y calle Plaza",
+    "city": "Puerto Cabello",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.46779,
+    "lng": -68.04367
+  },
+  {
+    "id": 523,
+    "type": "acopio",
+    "name": "Centro Sirio Venezolano — Acopio (Puerto La Cruz)",
+    "address": "Centro Sirio Venezolano",
+    "city": "Puerto La Cruz",
+    "receives": null,
+    "contact": "@Abujirji",
+    "lat": 10.21,
+    "lng": -64.63
+  },
+  {
+    "id": 25,
+    "type": "acopio",
+    "name": "C.C PLAZA MAYOR",
+    "address": "PUERTO LA CRUZ , C.C PLAZA MAYOR",
+    "city": "Puerto La Cruz",
+    "receives": [],
+    "contact": null,
+    "lat": 10.1825871,
+    "lng": -64.6857834
+  },
+  {
+    "id": 804,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Puerto La Cruz",
+    "address": "Plaza Bolívar",
+    "city": "Puerto La Cruz",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.22032,
+    "lng": -64.63752
+  },
+  {
+    "id": 620,
+    "type": "acopio",
+    "name": "Hotel Paradise — Acopio (Puerto La Cruz)",
+    "address": "Hotel Paradise",
+    "city": "Puerto La Cruz",
+    "receives": null,
+    "contact": "@cinemparadiso",
+    "lat": 10.215,
+    "lng": -64.631
+  },
+  {
+    "id": 116,
+    "type": "acopio",
+    "name": "Centro Sirio Venezolano — Puerto La Cruz",
+    "address": "Calle Rivera, Puerto La Cruz 6023, Anzoátegui",
+    "city": "Puerto La Cruz",
+    "receives": [
+      "alimentos",
+      "medicinas"
+    ],
+    "contact": null,
+    "lat": 10.2025,
+    "lng": -64.6634
+  },
+  {
+    "id": 274,
+    "type": "acopio",
+    "name": "UCAB Guayana · Puerto Ordaz",
+    "address": "Planta alta casa del estudiante Dirección de Desarrollo Estudiantil UCAB Guayana, Puerto Ordaz, Venezuela",
+    "city": "Puerto Ordaz",
+    "receives": [
+      "Cajas",
+      "bolsas negras",
+      "botellas vacías de cinco litros",
+      "alimentos no perecederos",
+      "agua potable",
+      "gasas",
+      "insumos médicos",
+      "cascos",
+      "guantes de ferretería",
+      "artículos de higiene personal",
+      "calzado y ropa en buen estado"
+    ],
+    "contact": "4249147305",
+    "lat": 8.2750351,
+    "lng": -62.7558263
+  },
+  {
+    "id": 545,
+    "type": "acopio",
+    "name": "Acopio VP Caroní — Puerto Ordaz (Alta Vista)",
+    "address": "Frente al McDonald's de Alta Vista",
+    "city": "Puerto Ordaz",
+    "receives": null,
+    "contact": "@Richardf_VP",
+    "lat": 8.293,
+    "lng": -62.74
+  },
+  {
+    "id": 106,
+    "type": "acopio",
+    "name": "UCAB Guayana — Dirección de Desarrollo Estudiantil",
+    "address": "Planta alta casa del estudiante, Dirección de Desarrollo Estudiantil, UCAB Guayana, Puerto Ordaz",
+    "city": "Puerto Ordaz",
+    "receives": [
+      "alimentos",
+      "agua",
+      "medicinas",
+      "higiene",
+      "ropa"
+    ],
+    "contact": "04249147305",
+    "lat": 8.2975,
+    "lng": -62.7115
+  },
+  {
+    "id": 411,
+    "type": "acopio",
+    "name": "C.C. Biblos — Centro de acopio (Puerto Ordaz)",
+    "address": "C.C. Biblos, 1er piso local 71, Unare II",
+    "city": "Puerto Ordaz",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 8.296,
+    "lng": -62.728
+  },
+  {
+    "id": 413,
+    "type": "acopio",
+    "name": "UCAB Guayana — Centro de acopio (Puerto Ordaz)",
+    "address": "UCAB Guayana",
+    "city": "Puerto Ordaz",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 8.293,
+    "lng": -62.711
+  },
+  {
+    "id": 438,
+    "type": "acopio",
+    "name": "Club Ítalo Venezolano — Acopio (Puerto Ordaz)",
+    "address": "Club Ítalo Venezolano",
+    "city": "Puerto Ordaz",
+    "receives": null,
+    "contact": "@TelloBJr",
+    "lat": 8.296,
+    "lng": -62.73
+  },
+  {
+    "id": 469,
+    "type": "acopio",
+    "name": "Bomberos UNEXPO — Acopio (Puerto Ordaz)",
+    "address": "Sede Bomberos UNEXPO",
+    "city": "Puerto Ordaz",
+    "receives": null,
+    "contact": "@GCarlosJesus",
+    "lat": 8.296,
+    "lng": -62.718
+  },
+  {
+    "id": 803,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Puerto Píritu",
+    "address": "Plaza Bolívar de Puerto Píritu",
+    "city": "Puerto Píritu",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.06206,
+    "lng": -65.04504
+  },
+  {
+    "id": 275,
+    "type": "acopio",
+    "name": "Cáritas Venezuela · Punto Fijo",
+    "address": "Sector centro, calle Páez entre Brasil y Perú, frente a la primera casa de Punto Fijo, Punto Fijo, Venezuela",
+    "city": "Punto Fijo",
+    "receives": [
+      "Agua potable",
+      "pañales adultos y niños",
+      "productos de higiene personal",
+      "alimentos no pereceeros",
+      "medicamentos esenciales"
+    ],
+    "contact": null,
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": 23,
+    "type": "acopio",
+    "name": "Cáritas Venezuela",
+    "address": "Sector centro, calle Páez entre Brasil y Perú, frente a la primera casa de Punto Fijo",
+    "city": "Punto Fijo",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Higiene personal",
+      "Pañales"
+    ],
+    "contact": null,
+    "lat": 11.6950563,
+    "lng": -70.2108148
+  },
+  {
+    "id": 43,
+    "type": "acopio",
+    "name": "Iglesia San Martin de Porres",
+    "address": null,
+    "city": "Punto Fijo",
+    "receives": [
+      "Alimentos no perecederos",
+      "Agua",
+      "Ropa",
+      "Medicamentos",
+      "Higiene personal",
+      "Pañales",
+      "Artículos de bebé",
+      "Herramientas"
+    ],
+    "contact": "04246376142",
+    "lat": 11.7000425,
+    "lng": -70.201478
+  },
+  {
+    "id": 580,
+    "type": "acopio",
+    "name": "Cáritas Punto Fijo — Acopio",
+    "address": "Calle Páez entre Brasil y Perú, centro",
+    "city": "Punto Fijo",
+    "receives": null,
+    "contact": "@dalimer_amali",
+    "lat": 11.7136,
+    "lng": -70.2106
+  },
+  {
+    "id": 398,
+    "type": "acopio",
+    "name": "UNEFA Punto Fijo — Centro de acopio",
+    "address": "Sede UNEFA, Punto Fijo (Falcón)",
+    "city": "Punto Fijo",
+    "receives": null,
+    "contact": "@yhoanmedina_",
+    "lat": 11.69,
+    "lng": -70.2
+  },
+  {
+    "id": 735,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Quíbor (Jiménez)",
+    "address": "Avenida 5 entre calle 13 y 14, parroquia Juan Bautista Rodríguez",
+    "city": "Quíbor",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.92998,
+    "lng": -69.61958
+  },
+  {
+    "id": 291,
+    "type": "acopio",
+    "name": "Sociedad civil · Trujillo",
+    "address": "Municipio Sucre: Urb. El Trompillo 2, parroquia Valmore Rodriguez, casa #39 (Casa Delgado), Trujillo, Venezuela",
+    "city": "Sabana de Mendoza",
+    "receives": [
+      "Insumos médicos",
+      "alimentos no perecederos",
+      "ropa en buen estado"
+    ],
+    "contact": "0412-1644063",
+    "lat": 9.4340884,
+    "lng": -70.7791741
+  },
+  {
+    "id": 827,
+    "type": "acopio",
+    "name": "Sociedad Civil — Municipio Sucre (Trujillo)",
+    "address": "Urb. El Trompillo 2, parroquia Valmore Rodríguez, casa #39 (Casa Prada)",
+    "city": "Sabana de Mendoza",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "04121644063",
+    "lat": 9.4394,
+    "lng": -70.77333
+  },
+  {
+    "id": 814,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Sabaneta",
+    "address": "Calle 7, entre avenidas Obispo y Antonio María Bayón (diagonal al CC Sistema Solar)",
+    "city": "Sabaneta",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.75293,
+    "lng": -69.93454
+  },
+  {
+    "id": 300,
+    "type": "acopio",
+    "name": "Rotaract Táchira · San Antonio",
+    "address": "Brave Community Fitness, al lado del hotel Manuel, San Antonio, Venezuela",
+    "city": "San Antonio",
+    "receives": [
+      "Medicinas",
+      "agua",
+      "comida no perecedera",
+      "comida de animales",
+      "powerbanks"
+    ],
+    "contact": "573508741816",
+    "lat": 7.8152288,
+    "lng": -72.4440746
+  },
+  {
+    "id": 576,
+    "type": "acopio",
+    "name": "Centro Cultural Parmalat — Acopio (San Antonio de los Altos)",
+    "address": "Centro Cultural Parmalat",
+    "city": "San Antonio de los Altos",
+    "receives": null,
+    "contact": "@Kimberlyskjl",
+    "lat": 10.38,
+    "lng": -66.95
+  },
+  {
+    "id": 759,
+    "type": "acopio",
+    "name": "Rotaract Táchira — San Antonio",
+    "address": "Brave Community Fitness, al lado del hotel Manuel",
+    "city": "San Antonio del Táchira",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos"
+    ],
+    "contact": "+573508741816",
+    "lat": 7.80927,
+    "lng": -72.44441
+  },
+  {
+    "id": 399,
+    "type": "acopio",
+    "name": "VEN 9-1-1 Cojedes — Centro de acopio (San Carlos)",
+    "address": "Av. Rómulo Betancourt (VEN 9-1-1)",
+    "city": "San Carlos",
+    "receives": null,
+    "contact": "@Cojedes911",
+    "lat": 9.66,
+    "lng": -68.59
+  },
+  {
+    "id": 400,
+    "type": "acopio",
+    "name": "Alcaldía de San Carlos — Centro de acopio",
+    "address": "Plaza Bolívar",
+    "city": "San Carlos",
+    "receives": null,
+    "contact": "@ClaroyRaspao3",
+    "lat": 9.661,
+    "lng": -68.586
+  },
+  {
+    "id": 499,
+    "type": "acopio",
+    "name": "Plaza Manuel Manrique — Acopio (San Carlos)",
+    "address": "Plaza Manuel Manrique",
+    "city": "San Carlos",
+    "receives": null,
+    "contact": "@VoluntadPopular",
+    "lat": 9.661,
+    "lng": -68.588
+  },
+  {
+    "id": 535,
+    "type": "acopio",
+    "name": "UCAT — Acopio (San Cristóbal)",
+    "address": "Campus UCAT, Barrio Obrero",
+    "city": "San Cristóbal",
+    "receives": null,
+    "contact": "@thexpeditionary",
+    "lat": 7.7669,
+    "lng": -72.227
+  },
+  {
+    "id": 295,
+    "type": "acopio",
+    "name": "Sociedad civil · Táchira",
+    "address": "ULA, Táchira, Venezuela",
+    "city": "San Cristóbal",
+    "receives": [
+      "Ropa",
+      "medicamentos e insumos",
+      "agua",
+      "alimentos no perecederos",
+      "lencería"
+    ],
+    "contact": null,
+    "lat": 7.7916208,
+    "lng": -72.2132434
+  },
+  {
+    "id": 296,
+    "type": "acopio",
+    "name": "Sociedad civil · Táchira",
+    "address": "UCAT, sede vieja, Táchira, Venezuela",
+    "city": "San Cristóbal",
+    "receives": [
+      "Ropa",
+      "medicamentos e insumos",
+      "agua",
+      "alimentos no perecederos",
+      "lencería"
+    ],
+    "contact": null,
+    "lat": 7.7733864,
+    "lng": -72.2259884
+  },
+  {
+    "id": 297,
+    "type": "acopio",
+    "name": "Rotaract Táchira · San Cristóbal",
+    "address": "Edificio Rotario Dr Augusto Peña Sosa Piso 2 Avenida 19 de abril, San Cristóbal, Venezuela",
+    "city": "San Cristóbal",
+    "receives": [
+      "Medicinas",
+      "agua",
+      "comida no perecedera",
+      "comida de animales",
+      "powerbanks"
+    ],
+    "contact": null,
+    "lat": 7.7408084,
+    "lng": -72.2338068
+  },
+  {
+    "id": 298,
+    "type": "acopio",
+    "name": "Rotaract Táchira · San Cristóbal",
+    "address": "Revista Rotaria, frente a la Cruz Roja, San Cristóbal, Venezuela",
+    "city": "San Cristóbal",
+    "receives": [
+      "Medicinas",
+      "agua",
+      "comida no perecedera",
+      "comida de animales",
+      "powerbanks"
+    ],
+    "contact": "0414-7121207",
+    "lat": 7.7781498,
+    "lng": -72.2183453
+  },
+  {
+    "id": 838,
+    "type": "acopio",
+    "name": "Rotaract Tachira - San Cristobal",
+    "address": "Edificio Rotario Dr. Augusto Pena Sosa, Piso 2, Av. 19 de Abril, San Cristobal, Tachira",
+    "city": "San Cristobal",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos"
+    ],
+    "contact": "Rotaract San Cristobal",
+    "lat": 7.765,
+    "lng": -72.228
+  },
+  {
+    "id": 849,
+    "type": "acopio",
+    "name": "ULA Nucleo Tachira",
+    "address": "Nucleo Tachira, Universidad de Los Andes, San Cristobal, Tachira",
+    "city": "San Cristobal",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "higiene"
+    ],
+    "contact": "Sede ULA Tachira",
+    "lat": 7.781,
+    "lng": -72.213
+  },
+  {
+    "id": 596,
+    "type": "acopio",
+    "name": "Colegio San Juan Bautista — Acopio (San Cristóbal)",
+    "address": "Quinta Avenida, junto a la iglesia La Ermita",
+    "city": "San Cristóbal",
+    "receives": null,
+    "contact": "@thatssd",
+    "lat": 7.7625,
+    "lng": -72.2233
+  },
+  {
+    "id": 350,
+    "type": "acopio",
+    "name": "ULA — Núcleo Táchira",
+    "address": "Universidad de Los Andes, Núcleo Táchira, San Cristóbal",
+    "city": "San Cristóbal",
+    "receives": [],
+    "contact": null,
+    "lat": 7.7669,
+    "lng": -72.225
+  },
+  {
+    "id": 618,
+    "type": "acopio",
+    "name": "Cáritas — Basílica San Antonio de Padua (San Cristóbal)",
+    "address": "Basílica San Antonio de Padua, Barrio Obrero",
+    "city": "San Cristóbal",
+    "receives": null,
+    "contact": "@pbro_esteban",
+    "lat": 7.7625,
+    "lng": -72.2255
+  },
+  {
+    "id": 113,
+    "type": "acopio",
+    "name": "Movimiento Estudiantil VEN UNETE — UNET San Cristóbal",
+    "address": "Avenida Universidad, sector Paramillo, Edificio A, sede de Civil, UNET, San Cristóbal",
+    "city": "San Cristóbal",
+    "receives": [
+      "alimentos",
+      "agua",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": null,
+    "lat": 7.7955,
+    "lng": -72.1995
+  },
+  {
+    "id": 397,
+    "type": "acopio",
+    "name": "ULA Táchira — Centro de acopio (San Cristóbal)",
+    "address": "Sede ULA Táchira",
+    "city": "San Cristóbal",
+    "receives": null,
+    "contact": "@DossierVzla",
+    "lat": 7.78,
+    "lng": -72.2
+  },
+  {
+    "id": 494,
+    "type": "acopio",
+    "name": "Plaza de Los Mangos — Acopio (San Cristóbal)",
+    "address": "Plaza de Los Mangos, Barrio Obrero",
+    "city": "San Cristóbal",
+    "receives": null,
+    "contact": "@camarcazam",
+    "lat": 7.766,
+    "lng": -72.225
+  },
+  {
+    "id": 760,
+    "type": "acopio",
+    "name": "Sociedad Civil — UNET (San Cristóbal)",
+    "address": "UNET, Edificio A (sede de Ing. Civil)",
+    "city": "San Cristóbal",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 7.77567,
+    "lng": -72.22142
+  },
+  {
+    "id": 761,
+    "type": "acopio",
+    "name": "Sociedad Civil — UCAT (San Cristóbal)",
+    "address": "UCAT (sede vieja)",
+    "city": "San Cristóbal",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 7.77372,
+    "lng": -72.2259
+  },
+  {
+    "id": 762,
+    "type": "acopio",
+    "name": "Sociedad Civil — Madeco (San Cristóbal)",
+    "address": "Madeco, Av. Cuatricentenaria",
+    "city": "San Cristóbal",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 7.78075,
+    "lng": -72.23519
+  },
+  {
+    "id": 574,
+    "type": "acopio",
+    "name": "Parque Metropolitano — Acopio (San Diego)",
+    "address": "Entrada del Parque Metropolitano",
+    "city": "San Diego",
+    "receives": null,
+    "contact": "@QpasoCarabobo",
+    "lat": 10.245,
+    "lng": -67.945
+  },
+  {
+    "id": 219,
+    "type": "acopio",
+    "name": "G3 Logística - San Diego",
+    "address": "Calle La Pedrera, Fundo Los Merines, Lote S/N Zona Industrial San Diego, San Diego, Carabobo",
+    "city": "San Diego",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.1901,
+    "lng": -67.9754
+  },
+  {
+    "id": 220,
+    "type": "acopio",
+    "name": "Parque Metropolitano de San Diego",
+    "address": "Av. Don Julio Centeno (Frente a Trigus San Diego), San Diego, Carabobo",
+    "city": "San Diego",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2272,
+    "lng": -67.9617
+  },
+  {
+    "id": 221,
+    "type": "acopio",
+    "name": "Centro de Acopio San Diego (Pueblo)",
+    "address": "Frente a la Iglesia Pueblo de San Diego, San Diego, Carabobo",
+    "city": "San Diego",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2558,
+    "lng": -67.9539
+  },
+  {
+    "id": 222,
+    "type": "acopio",
+    "name": "Centro de Acopio San Diego (Esmeralda)",
+    "address": "Frente a la Iglesia La Esmeralda, San Diego, Carabobo",
+    "city": "San Diego",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2289,
+    "lng": -67.97
+  },
+  {
+    "id": 223,
+    "type": "acopio",
+    "name": "FEBECA - San Diego",
+    "address": "Av. Ernesto Branger (Centro de Distribución de Ferretería EPA), San Diego, Carabobo",
+    "city": "San Diego",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.1903,
+    "lng": -67.9489
+  },
+  {
+    "id": 737,
+    "type": "acopio",
+    "name": "Vente San Diego — San Diego de Alcalá",
+    "address": "Frente a la Iglesia Parroquial de San Diego de Alcalá y de La Candelaria",
+    "city": "San Diego",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.22999,
+    "lng": -67.9618
+  },
+  {
+    "id": 481,
+    "type": "acopio",
+    "name": "Centro de acopio San Felipe (Yaracuy)",
+    "address": "Sede regional, San Felipe",
+    "city": "San Felipe",
+    "receives": null,
+    "contact": "@Vp_Yaracuy3201",
+    "lat": 10.34,
+    "lng": -68.741
+  },
+  {
+    "id": 839,
+    "type": "acopio",
+    "name": "Rotaract Santo Angel - Laboratorio Roraima",
+    "address": "Laboratorio Roraima, Clinica Humana, San Felix, Bolivar",
+    "city": "San Felix",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "Rotaract San Felix",
+    "lat": 8.358,
+    "lng": -62.665
+  },
+  {
+    "id": 754,
+    "type": "acopio",
+    "name": "Rotaract Santo Ángel — Laboratorio Roraima (San Félix)",
+    "address": "Laboratorio Roraima, Clínica Humana, San Félix",
+    "city": "San Félix",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "0412193774604249050118",
+    "lat": 8.34754,
+    "lng": -62.64713
+  },
+  {
+    "id": 268,
+    "type": "acopio",
+    "name": "Sociedad civil · Sierra Maestra, San Francisco estado Zulia",
+    "address": "iglesia Nuestra Señora de Guadalupe, Sierra Maestra, San Francisco estado Zulia, Venezuela",
+    "city": "San Francisco",
+    "receives": [],
+    "contact": null,
+    "lat": 10.5818947,
+    "lng": -71.6352958
+  },
+  {
+    "id": 77,
+    "type": "acopio",
+    "name": "CEVAZ San Francisco",
+    "address": "Carretera 48, Vía La Cañada, Calle 171, San Francisco, Zulia",
+    "city": "San Francisco",
+    "receives": [],
+    "contact": null,
+    "lat": 10.5571855,
+    "lng": -71.6458204
+  },
+  {
+    "id": 820,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — San José de Bolívar",
+    "address": "Calle 6, entre carreras 3 y 4, San José de Bolívar, casa de la Sra. María Gonzáles (al lado de la casa de Lubin Carrero)",
+    "city": "San José de Bolívar",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 7.91311,
+    "lng": -71.97061
+  },
+  {
+    "id": 800,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — San José de Guanipa",
+    "address": "Plaza Bolívar",
+    "city": "San José de Guanipa",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.88893,
+    "lng": -64.15156
+  },
+  {
+    "id": 785,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — San José de Guaribe",
+    "address": "Calle Miranda, sector El Centro, Casa de Paguaron",
+    "city": "San José de Guaribe",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "0424279124004147938912",
+    "lat": 9.86277,
+    "lng": -65.8138
+  },
+  {
+    "id": 792,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Ortiz",
+    "address": "Parroquia San José de Tiznados, Casa de la Lic. Mayra Nedder",
+    "city": "San José de Tiznados",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "04140391083",
+    "lat": 9.70502,
+    "lng": -67.50772
+  },
+  {
+    "id": 778,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — San Juan de los Morros",
+    "address": "Casa Sindical Oswaldo Molina (Auditorio Rafael A. Silveira), Sede CTV Guárico",
+    "city": "San Juan de los Morros",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "04243224477",
+    "lat": 9.91523,
+    "lng": -67.35691
+  },
+  {
+    "id": 511,
+    "type": "acopio",
+    "name": "Plaza Los Samanes — Acopio (San Juan de los Morros)",
+    "address": "Plaza Los Samanes (redoma)",
+    "city": "San Juan de los Morros",
+    "receives": null,
+    "contact": "@eltubazodigital",
+    "lat": 9.9107,
+    "lng": -67.3547
+  },
+  {
+    "id": 806,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — San Pedro de los Altos",
+    "address": "San Pedro de los Altos, sector Río Arriba, parte baja, comunidad Los Bambúes",
+    "city": "San Pedro de los Altos",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.36533,
+    "lng": -67.08569
+  },
+  {
+    "id": 516,
+    "type": "acopio",
+    "name": "Centro de acopio San Rafael de Onoto",
+    "address": "Av. principal, esquina El Cacique, entre calle 3 y 4",
+    "city": "San Rafael de Onoto",
+    "receives": null,
+    "contact": "@mariaoropeza94",
+    "lat": 9.96,
+    "lng": -69.07
+  },
+  {
+    "id": 775,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — San Rafael de Onoto",
+    "address": "Avenida principal, esquina El Cacique entre calle 3 y 4",
+    "city": "San Rafael de Onoto",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.67437,
+    "lng": -68.97318
+  },
+  {
+    "id": 805,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Santa Ana",
+    "address": "Plaza Bolívar",
+    "city": "Santa Ana",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.30633,
+    "lng": -64.65543
+  },
+  {
+    "id": 829,
+    "type": "acopio",
+    "name": "Comando ConVzla — Barinas",
+    "address": "Restaurant O&#x27;Maria, Carrera 5 con calles 18 y 19",
+    "city": "Santa Bárbara de Barinas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 7.81346,
+    "lng": -71.17664
+  },
+  {
+    "id": 401,
+    "type": "acopio",
+    "name": "Restaurant O'Maria — Centro de acopio (Santa Bárbara)",
+    "address": "Carrera 5 con calles 18 y 19",
+    "city": "Santa Bárbara de Barinas",
+    "receives": null,
+    "contact": "@BarinasConVzla",
+    "lat": 7.81,
+    "lng": -71.17
+  },
+  {
+    "id": 147,
+    "type": "acopio",
+    "name": "Comando ConVzla — Santa Bárbara de Barinas",
+    "address": "Municipio Ezequiel Zamora, Restaurant O'Maria, Carrera 5 con calles 18 y 19, Santa Bárbara de Barinas",
+    "city": "Santa Bárbara de Barinas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicinas",
+      "ropa"
+    ],
+    "contact": "04247141072 / 04247463080",
+    "lat": 7.8145,
+    "lng": -71.1811
+  },
+  {
+    "id": 807,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Santa Teresa del Tuy",
+    "address": "Avenida Andrés Bello con Av. México, Sector Bajo Seco, al lado del consultorio Génesis",
+    "city": "Santa Teresa del Tuy",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.23886,
+    "lng": -66.67226
+  },
+  {
+    "id": 21,
+    "type": "acopio",
+    "name": "Sociedad civil",
+    "address": "iglesia Nuestra Señora de Guadalupe",
+    "city": "Sierra Maestra, San Francisco estado Zulia",
+    "receives": [],
+    "contact": null,
+    "lat": 10.5881861,
+    "lng": -71.6350593
+  },
+  {
+    "id": 811,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Socopó",
+    "address": "Plaza Bolívar, diagonal a la Iglesia Cristo Rey (toldos azules)",
+    "city": "Socopó",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.23496,
+    "lng": -70.81859
+  },
+  {
+    "id": 293,
+    "type": "acopio",
+    "name": "Rotaract Táchira · Tariba",
+    "address": "Centro Médico Rotario César Dario González, Tariba, Venezuela",
+    "city": "Tariba",
+    "receives": [
+      "Medicinas",
+      "agua",
+      "comida no perecedera",
+      "comida de animales",
+      "powerbanks"
+    ],
+    "contact": "2763949051",
+    "lat": 7.8179548,
+    "lng": -72.2202568
+  },
+  {
+    "id": 758,
+    "type": "acopio",
+    "name": "Rotaract Táchira — Táriba",
+    "address": "Centro Médico Rotario César Darío González",
+    "city": "Táriba",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos"
+    ],
+    "contact": "02763949051",
+    "lat": 7.82082,
+    "lng": -72.2228
+  },
+  {
+    "id": 480,
+    "type": "acopio",
+    "name": "Restaurante Shaulin — Acopio (Tinaquillo)",
+    "address": "Restaurante Shaulin",
+    "city": "Tinaquillo",
+    "receives": null,
+    "contact": "@ValeraYorbel",
+    "lat": 9.919,
+    "lng": -68.305
+  },
+  {
+    "id": 740,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Tocuyito",
+    "address": "Plaza Bicentenario, en el Arco de Tocuyito",
+    "city": "Tocuyito",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.10624,
+    "lng": -68.09422
+  },
+  {
+    "id": 382,
+    "type": "acopio",
+    "name": "Centro de acopio Tovar (Mérida)",
+    "address": "Calle principal Las Acacias",
+    "city": "Tovar",
+    "receives": null,
+    "contact": "@vpmerida_",
+    "lat": 8.3358,
+    "lng": -71.7603
+  },
+  {
+    "id": 292,
+    "type": "acopio",
+    "name": "Sociedad civil · Trujillo",
+    "address": "Municipio Trujillo Capital. Centro Comercial Plaza Marina. Local 30, Trujillo, Venezuela",
+    "city": "Trujillo",
+    "receives": [
+      "Insumos médicos",
+      "alimentos no perecederos",
+      "ropa en buen estado"
+    ],
+    "contact": "0412-6840791",
+    "lat": 9.3657723,
+    "lng": -70.4357136
+  },
+  {
+    "id": 828,
+    "type": "acopio",
+    "name": "Comando ConVzla — Trujillo",
+    "address": "Centro Comercial Plaza Marina, Local 30",
+    "city": "Trujillo",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "04126840791",
+    "lat": 9.36886,
+    "lng": -70.43346
+  },
+  {
+    "id": 564,
+    "type": "acopio",
+    "name": "Casa Parroquial Tucacas — Acopio",
+    "address": "Casa Parroquial, Prolongación Miranda",
+    "city": "Tucacas",
+    "receives": null,
+    "contact": "@soypetitygarcia",
+    "lat": 10.798,
+    "lng": -68.318
+  },
+  {
+    "id": 852,
+    "type": "refugio",
+    "name": "Posada Disponible (Tucacas)",
+    "address": "Tucacas, Falcón",
+    "city": "Tucacas",
+    "receives": [
+      "agua",
+      "alimentos",
+      "ropa",
+      "medicamentos",
+      "higiene"
+    ],
+    "contact": "+58 412-6556811",
+    "lat": 10.8,
+    "lng": -68.32
+  },
+  {
+    "id": 786,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Tucupido",
+    "address": "Sede del Partido Vente Venezuela, frente a la librería de la Sra. Aurora, Tucupido",
+    "city": "Tucupido",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "04128361046",
+    "lat": 9.27416,
+    "lng": -65.77106
+  },
+  {
+    "id": 482,
+    "type": "acopio",
+    "name": "Radio Aplauso — Acopio (Turmero)",
+    "address": "Radio Aplauso",
+    "city": "Turmero",
+    "receives": null,
+    "contact": "@EdenDiazV",
+    "lat": 10.228,
+    "lng": -67.475
+  },
+  {
+    "id": 514,
+    "type": "acopio",
+    "name": "Rancho Casanare (Acopio Piar) — Upata",
+    "address": "Av. Valmore Rodríguez, Sector Rafael Caldera, diagonal redoma Farmahorro",
+    "city": "Upata",
+    "receives": null,
+    "contact": "@ReporteYa",
+    "lat": 8.01,
+    "lng": -62.4
+  },
+  {
+    "id": 289,
+    "type": "acopio",
+    "name": "Gobierno de Venezuela · Upata",
+    "address": "Casa de la Mujer, Upata, Venezuela",
+    "city": "Upata",
+    "receives": [
+      "Alimentos no perecederos",
+      "agua",
+      "medicamentos y ropa en buen estado"
+    ],
+    "contact": null,
+    "lat": 8.0000958,
+    "lng": -62.3937403
+  },
+  {
+    "id": 412,
+    "type": "acopio",
+    "name": "Casa de la Mujer — Centro de acopio (Upata)",
+    "address": "Casa de la Mujer",
+    "city": "Upata",
+    "receives": null,
+    "contact": "@Libertasvzla",
+    "lat": 8.012,
+    "lng": -62.408
+  },
+  {
+    "id": 751,
+    "type": "acopio",
+    "name": "Gobierno — Casa de la Mujer (Upata)",
+    "address": "Casa de la Mujer",
+    "city": "Upata",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 8.00734,
+    "lng": -62.39779
+  },
+  {
+    "id": 257,
+    "type": "acopio",
+    "name": "La Isabelica sector 5",
+    "address": "La Isabelica Sector 5 (Frebte Clinica Elohim) Valencia, Carabobo.",
+    "city": "Valencia",
+    "receives": [],
+    "contact": null,
+    "lat": 10.1625782,
+    "lng": -67.9682922
+  },
+  {
+    "id": 518,
+    "type": "acopio",
+    "name": "Acopio Miguel Peña (Valencia)",
+    "address": "Urb. Los Caobos, Av. principal #115, parroquia Miguel Peña",
+    "city": "Valencia",
+    "receives": null,
+    "contact": "@EnCiudadanoVzla",
+    "lat": 10.15,
+    "lng": -68
+  },
+  {
+    "id": 14,
+    "type": "acopio",
+    "name": "Vecinos La Isabelica",
+    "address": "La Isabelica, sector 5 (Av. Principal, vereda 11), diagonal a la Clínica/Policlínica Elohim, Valencia, Carabobo",
+    "city": "Valencia",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Ropa",
+      "Medicamentos"
+    ],
+    "contact": null,
+    "lat": 10.1636281,
+    "lng": -67.9694285
+  },
+  {
+    "id": 19,
+    "type": "acopio",
+    "name": "Notitarde",
+    "address": "Av. Boyacá entre Navas Spinola y Flores (Apartado Postal 1958), Valencia",
+    "city": "Valencia",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Ropa",
+      "Frazadas",
+      "Higiene personal"
+    ],
+    "contact": "@diarionotitarde",
+    "lat": 10.1898057,
+    "lng": -68.003156
+  },
+  {
+    "id": 20,
+    "type": "acopio",
+    "name": "G3 Logística",
+    "address": "Calle La Pedrera, Fundo Los Marines, Lote S/N, Zona Industrial San Diego, Edo. Carabobo",
+    "city": "Valencia",
+    "receives": [],
+    "contact": "Horario: 9:00 AM a 12:00 PM y 2:00 PM a 3:30 PM, lunes a viernes",
+    "lat": 10.1918811,
+    "lng": -67.9747348
+  },
+  {
+    "id": 277,
+    "type": "acopio",
+    "name": "Jóvenes por el clima · Valencia",
+    "address": "Av Bolívar frente al Multicentro, Valencia, Venezuela",
+    "city": "Valencia",
+    "receives": [
+      "Centro de acopio",
+      "Agua",
+      "alimentos no perecederos",
+      "insumos médicos",
+      "ropa y abrigos."
+    ],
+    "contact": "https://www.instagram.com/p/DaAB8S-CAiB/?igsh=Njl4YXk4N3drM2tm",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": 344,
+    "type": "acopio",
+    "name": "Edificio Talislandia — El Viñedo",
+    "address": "Av. Monseñor Adams, El Viñedo, mezzanina, Valencia, Carabobo",
+    "city": "Valencia",
+    "receives": [],
+    "contact": null,
+    "lat": 10.2138009,
+    "lng": -68.0148695
+  },
+  {
+    "id": 362,
+    "type": "acopio",
+    "name": "Centro de acopio C.C. Talislandia (El Viñedo, Valencia)",
+    "address": "C.C. Talislandia, Av. Monseñor Adams, El Viñedo",
+    "city": "Valencia",
+    "receives": null,
+    "contact": "@VenteDDHH",
+    "lat": 10.196,
+    "lng": -67.999
+  },
+  {
+    "id": 379,
+    "type": "acopio",
+    "name": "Escuela Power Kids — Centro de acopio (Guáparo, Valencia)",
+    "address": "Campo MAT, Guáparo",
+    "city": "Valencia",
+    "receives": null,
+    "contact": null,
+    "lat": 10.197,
+    "lng": -68.006
+  },
+  {
+    "id": 154,
+    "type": "acopio",
+    "name": "Cuadro — C.C. La Grieta (Valencia)",
+    "address": null,
+    "city": "Valencia",
+    "receives": [],
+    "contact": null,
+    "lat": 10.2123969,
+    "lng": -68.0165763
+  },
+  {
+    "id": 666,
+    "type": "acopio",
+    "name": "Centro de acopio Talislandia",
+    "address": "Av. Monseñor Adams, El Viñedo, edificio Talislandia, mezzanina (Comando ConVzla y Operación Todos con Venezuela)",
+    "city": "Valencia",
+    "receives": [],
+    "contact": "No especificado",
+    "lat": 10.162,
+    "lng": -67.973
+  },
+  {
+    "id": 426,
+    "type": "acopio",
+    "name": "Iglesia Maranatha — Centro de acopio (Valencia)",
+    "address": "Big Low Center (Iglesia Maranatha)",
+    "city": "Valencia",
+    "receives": null,
+    "contact": "@MaranathaVe",
+    "lat": 10.16,
+    "lng": -68
+  },
+  {
+    "id": 212,
+    "type": "acopio",
+    "name": "Centro Médico Dr. Rafael Guerra Méndez",
+    "address": "Clínica La Guerra Mendez, Calle Rondón No. 103, Casco Central, Valencia, Carabobo",
+    "city": "Valencia",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.18529,
+    "lng": -67.99964
+  },
+  {
+    "id": 228,
+    "type": "acopio",
+    "name": "Plaza Cristóbal Mendoza - Valencia",
+    "address": "Av. Monseñor Adams con Av. Bolivar Norte (Cercano al Multicentro El Viñedo), Valencia, Carabobo",
+    "city": "Valencia",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2142,
+    "lng": -68.0094
+  },
+  {
+    "id": 229,
+    "type": "acopio",
+    "name": "Hermandad Gallega Valencia",
+    "address": "Av. Galicia (Detrás del Forum de Valencia), Valencia, Carabobo",
+    "city": "Valencia",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2183,
+    "lng": -68.0064
+  },
+  {
+    "id": 230,
+    "type": "acopio",
+    "name": "Estación Central de Bomberos - Valencia",
+    "address": "Av. Ernesto Branger final de la Av. Michelena, Zona Industrial de Valencia, Valencia, Carabobo",
+    "city": "Valencia",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.1782,
+    "lng": -67.9484
+  },
+  {
+    "id": 231,
+    "type": "acopio",
+    "name": "RAFAS FOOD - Valencia",
+    "address": "Av. Monseñor Adams Local 149 (Plaza Andrés Mujica), Valencia, Carabobo",
+    "city": "Valencia",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2135,
+    "lng": -68.0159
+  },
+  {
+    "id": 232,
+    "type": "acopio",
+    "name": "MayoG - Sede El Viñedo",
+    "address": "Av. 106, Urbanización El Viñedo, Valencia, Carabobo",
+    "city": "Valencia",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2126,
+    "lng": -68.0131
+  },
+  {
+    "id": 233,
+    "type": "acopio",
+    "name": "Fedecámaras Carabobo - CC La Chimenea",
+    "address": "Fedecámaras Carabobo, Centro Comercial La Chimenea, Valencia, Carabobo",
+    "city": "Valencia",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2033,
+    "lng": -67.9975
+  },
+  {
+    "id": 491,
+    "type": "acopio",
+    "name": "Hermandad Gallega — Acopio (Valencia)",
+    "address": "Hermandad Gallega, Av. Bolívar Norte",
+    "city": "Valencia",
+    "receives": null,
+    "contact": "@webnotitarde",
+    "lat": 10.205,
+    "lng": -67.998
+  },
+  {
+    "id": 254,
+    "type": "acopio",
+    "name": "Centro de Acopio El Viñedo - Operación Todos con VZLA",
+    "address": "Avenida Monseñor Adams, El Viñedo, Edificio Talislandia, mezzanina, Valencia",
+    "city": "Valencia",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Medicamentos",
+      "Ropa",
+      "Frazadas"
+    ],
+    "contact": null,
+    "lat": 10.2186,
+    "lng": -68.012
+  },
+  {
+    "id": 276,
+    "type": "acopio",
+    "name": "Sociedad civil · Valera",
+    "address": "Av. Principal la floresta, sector Santa Elena, Casa G-11 (Casa Prada), Valera, Venezuela",
+    "city": "Valera",
+    "receives": [
+      "Insumos médicos",
+      "alimentos no perecederos",
+      "ropa en buen estado"
+    ],
+    "contact": "0424-7137359",
+    "lat": 9.3148173,
+    "lng": -70.6081655
+  },
+  {
+    "id": 24,
+    "type": "acopio",
+    "name": "Sociedad civil",
+    "address": "Av. Principal la floresta, sector Santa Elena, Casa G-11 (Casa Prada",
+    "city": "Valera",
+    "receives": [
+      "Alimentos no perecederos",
+      "Ropa"
+    ],
+    "contact": "Edgar Prada (04247137359)",
+    "lat": 9.3129722,
+    "lng": -70.6214113
+  },
+  {
+    "id": 206,
+    "type": "acopio",
+    "name": "Inmaculada Concepción La Cejita",
+    "address": "av principal la Hoyada",
+    "city": "Valera",
+    "receives": [
+      "Agua",
+      "Alimentos no perecederos",
+      "Ropa",
+      "Frazadas",
+      "Medicamentos",
+      "Higiene personal",
+      "Pañales",
+      "Artículos de bebé",
+      "Herramientas"
+    ],
+    "contact": "04161335395",
+    "lat": 9.3555381,
+    "lng": -70.5852911
+  },
+  {
+    "id": 464,
+    "type": "acopio",
+    "name": "ULA-NURR — Centros de acopio (Trujillo)",
+    "address": "Sedes ULA-NURR (Valera, Trujillo, Boconó, Pampanito)",
+    "city": "Valera (Trujillo)",
+    "receives": null,
+    "contact": "@PrensaULANurr",
+    "lat": 9.3178,
+    "lng": -70.6036
+  },
+  {
+    "id": 781,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Valle de la Pascua",
+    "address": "Galerías Giuseppe, en las calles Descanso y Atarraya",
+    "city": "Valle de la Pascua",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "0414395350904143350256",
+    "lat": 9.21391,
+    "lng": -66.00651
+  },
+  {
+    "id": 771,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Turén",
+    "address": "Avenida 4 con calle 11",
+    "city": "Villa Bruzual",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 9.33196,
+    "lng": -69.11916
+  },
+  {
+    "id": 744,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Villa de Cura",
+    "address": "Calle Dr. Morales 24-A norte, bajando por la panadería Costa Azul, en la Lisandro Hernández",
+    "city": "Villa de Cura",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "Sin telefono",
+    "lat": 10.03854,
+    "lng": -67.50246
+  },
+  {
+    "id": 783,
+    "type": "acopio",
+    "name": "Operación Todos con VZLA — Zaraza",
+    "address": "Calle Bolívar, al lado de oficina MRW, entre calle Ayacucho y calle Sucre",
+    "city": "Zaraza",
+    "receives": [
+      "agua",
+      "alimentos",
+      "medicamentos",
+      "ropa"
+    ],
+    "contact": "0414799816804163403445",
+    "lat": 9.35025,
+    "lng": -65.325
+  }
+]

@@ -217,95 +217,50 @@
         <div class="resource-info-banner" style="background-color: var(--accent-primary-glow); border: 1px solid rgba(37, 99, 235, 0.15); border-radius: var(--border-radius-md); padding: 1.5rem; margin-bottom: 2rem; display: flex; align-items: center; gap: 1.25rem;">
             <i class="fa-solid fa-circle-info" style="font-size: 2.2rem; color: var(--accent-primary); flex-shrink: 0;"></i>
             <div>
-                <h3 style="font-family: var(--font-heading); font-size: 1.15rem; font-weight: 700; color: var(--text-primary); margin-bottom: 0.25rem;">Directorio Oficial de Ayuda y Centros de Acopio en Venezuela</h3>
+                <h3 style="font-family: var(--font-heading); font-size: 1.15rem; font-weight: 700; color: var(--text-primary); margin-bottom: 0.25rem;">Directorio Oficial de Ayuda, Centros de Acopio y Refugios en Venezuela</h3>
                 <p style="font-size: 0.85rem; color: var(--text-secondary); line-height: 1.45; margin: 0;">
-                    Si deseas colaborar con insumos, alimentos o medicinas, o requieres contactar a los organismos de atención ante emergencias sísmicas, utiliza este directorio actualizado directamente desde la plataforma solidaria.
+                    Si deseas colaborar con insumos, alimentos o medicinas, o requieres refugio y asistencia inmediata ante la emergencia sísmica, utiliza este buscador dinámico. Datos obtenidos en tiempo real de la plataforma oficial.
                 </p>
             </div>
         </div>
 
-        <!-- Grilla de Centros y Oficinas -->
-        <div class="resources-tab-grid">
-            <!-- Card 1: Cruz Roja Venezolana -->
-            <div class="resource-detail-card">
-                <div class="card-icon-header" style="background-color: rgba(220, 38, 38, 0.08); color: #dc2626;">
-                    <i class="fa-solid fa-kit-medical"></i>
+        <!-- Filtros y Buscador para Recursos -->
+        <div class="resource-filters-box" style="display: flex; flex-direction: column; gap: 1rem; background-color: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--border-radius-md); padding: 1.25rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
+            <div style="display: flex; flex-wrap: wrap; gap: 1rem; width: 100%;">
+                <div style="flex: 1; min-width: 250px; position: relative;">
+                    <i class="fa-solid fa-magnifying-glass" style="position: absolute; left: 12px; top: 13px; color: var(--text-muted);"></i>
+                    <input type="text" id="resource-search-input" placeholder="Buscar por nombre del centro, dirección o ciudad..." oninput="filterResources()" style="width: 100%; padding: 10px 12px 10px 36px; border: 1px solid var(--border-color); border-radius: var(--border-radius-sm); background-color: var(--bg-input); color: var(--text-primary); font-family: var(--font-sans); font-size: 0.9rem;">
                 </div>
-                <div class="card-content">
-                    <h3>Cruz Roja Venezolana (San Bernardino)</h3>
-                    <span class="city-tag">Caracas</span>
-                    <p class="address"><i class="fa-solid fa-location-dot"></i> Av. Andrés Bello, Edif. Cruz Roja Venezolana N° 4, Urb. San Bernardino.</p>
-                    <p class="contact"><i class="fa-solid fa-phone"></i> +58 212-5714380 / caracas@cruzroja.ve</p>
-                    <div class="receives-box">
-                        <strong>Recibe:</strong> Agua potable, alimentos no perecederos, frazadas, medicamentos, insumos de higiene personal, pañales, artículos de bebé y herramientas.
-                    </div>
+                <div style="width: 200px; min-width: 150px;">
+                    <select id="resource-city-filter" onchange="filterResources()" style="width: 100%; padding: 10px 12px; border: 1px solid var(--border-color); border-radius: var(--border-radius-sm); background-color: var(--bg-input); color: var(--text-primary); font-family: var(--font-sans); font-size: 0.9rem; cursor: pointer;">
+                        <option value="">Todas las ciudades</option>
+                    </select>
+                </div>
+                <div style="width: 200px; min-width: 150px;">
+                    <select id="resource-type-filter" onchange="filterResources()" style="width: 100%; padding: 10px 12px; border: 1px solid var(--border-color); border-radius: var(--border-radius-sm); background-color: var(--bg-input); color: var(--text-primary); font-family: var(--font-sans); font-size: 0.9rem; cursor: pointer;">
+                        <option value="all">Todos los tipos</option>
+                        <option value="acopio">Centros de Acopio</option>
+                        <option value="refugio">Refugios / Albergues</option>
+                    </select>
                 </div>
             </div>
+        </div>
 
-            <!-- Card 2: Centro Altamira (Quinta El Bejucal) -->
-            <div class="resource-detail-card">
-                <div class="card-icon-header" style="background-color: rgba(99, 102, 241, 0.08); color: var(--accent-primary);">
-                    <i class="fa-solid fa-box-open"></i>
-                </div>
-                <div class="card-content">
-                    <h3>Centro de Acopio Altamira (Quinta El Bejucal)</h3>
-                    <span class="city-tag">Caracas</span>
-                    <p class="address"><i class="fa-solid fa-location-dot"></i> 4ta avenida de Altamira, entre 9na y 10ma transversal, Caracas.</p>
-                    <p class="contact"><i class="fa-solid fa-clock"></i> Operación: Todos con VZLA (Lunes a Sábado, horario diurno)</p>
-                    <div class="receives-box">
-                        <strong>Recibe:</strong> Agua potable, alimentos no perecederos (enlatados, secos), ropa de abrigo y frazadas para damnificados.
-                    </div>
-                </div>
-            </div>
+        <!-- Indicador de Carga / Cantidad -->
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; padding: 0 0.25rem;">
+            <span id="resource-results-count" style="font-size: 0.85rem; font-weight: 600; color: var(--text-secondary);">Cargando directorio de ayuda...</span>
+        </div>
 
-            <!-- Card 3: Iglesia La Chiquinquirá -->
-            <div class="resource-detail-card">
-                <div class="card-icon-header" style="background-color: rgba(124, 58, 237, 0.08); color: var(--accent-secondary);">
-                    <i class="fa-solid fa-church"></i>
-                </div>
-                <div class="card-content">
-                    <h3>Iglesia La Chiquinquirá (La Florida)</h3>
-                    <span class="city-tag">Caracas</span>
-                    <p class="address"><i class="fa-solid fa-location-dot"></i> Iglesia La Chiquinquirá, Urb. La Florida, Caracas.</p>
-                    <p class="contact"><i class="fa-solid fa-clock"></i> Punto de acopio comunitario para afectados.</p>
-                    <div class="receives-box">
-                        <strong>Recibe:</strong> Alimentos secos listos para consumir, agua embotellada, insumos de higiene y primeros auxilios.
-                    </div>
-                </div>
-            </div>
+        <!-- Grilla de Centros y Oficinas (Renderizado Dinámico) -->
+        <div class="resources-tab-grid" id="resources-grid-container">
+            <!-- Las tarjetas se cargarán dinámicamente -->
+        </div>
 
-            <!-- Card 4: Complejo Cultural Los Salias -->
-            <div class="resource-detail-card">
-                <div class="card-icon-header" style="background-color: rgba(22, 163, 74, 0.08); color: #16a34a;">
-                    <i class="fa-solid fa-people-roof"></i>
-                </div>
-                <div class="card-content">
-                    <h3>Complejo Cultural Los Salias</h3>
-                    <span class="city-tag">San Antonio de los Altos, Miranda</span>
-                    <p class="address"><i class="fa-solid fa-location-dot"></i> Complejo Cultural Los Salias, San Antonio de los Altos.</p>
-                    <p class="contact"><i class="fa-solid fa-circle-question"></i> Organizado por la alcaldía municipal.</p>
-                    <div class="receives-box">
-                        <strong>Recibe:</strong> Ropa de abrigo, linternas, baterías de repuesto y agua embotellada.
-                    </div>
-                </div>
-            </div>
-
-            <!-- Card 5: Protección Civil (Emergencias) -->
-            <div class="resource-detail-card col-span-full" style="border-color: var(--state-missing); background: rgba(220, 38, 38, 0.01);">
-                <div class="card-icon-header" style="background-color: var(--state-missing-glow); color: var(--state-missing);">
-                    <i class="fa-solid fa-shield-halved"></i>
-                </div>
-                <div class="card-content">
-                    <h3>Oficina Nacional de Coordinación - Protección Civil Nacional</h3>
-                    <span class="city-tag" style="background-color: var(--state-missing); color: white;">Emergencia Nacional</span>
-                    <p class="address"><i class="fa-solid fa-location-dot"></i> Av. Rufino Blanco Fombona, Santa Mónica, Caracas, Venezuela.</p>
-                    <p class="contact"><i class="fa-solid fa-phone"></i> 0212-6627671 / 0800-7248451 (0800-PCIVIL1)</p>
-                    <div class="receives-box" style="border-left-color: var(--state-missing); background-color: var(--state-missing-glow);">
-                        <strong style="color: var(--state-missing);"><i class="fa-solid fa-phone-volume"></i> Línea de Emergencia Sísmica Directa: 911</strong><br>
-                        Utilice este número para reportar emergencias inmediatas, incidentes de infraestructura crítica o solicitar ambulancias/grupos de rescate.
-                    </div>
-                </div>
-            </div>
+        <!-- Botón Cargar Más -->
+        <div id="load-more-resources-container" style="display: none; justify-content: center; margin-top: 2rem; margin-bottom: 2rem;">
+            <button class="btn btn-secondary" onclick="loadMoreResources()" style="display: flex; align-items: center; gap: 8px; font-weight: 700; padding: 0.75rem 1.5rem; border-radius: var(--border-radius-md); cursor: pointer;">
+                <i class="fa-solid fa-angles-down"></i> Cargar más centros
+            </button>
         </div>
     </div>
 
@@ -464,8 +419,14 @@
         }
     </style>
 
-    <!-- Script de Cambio de Pestañas -->
+    <!-- Script de Cambio de Pestañas y Carga Dinámica de Recursos -->
     <script>
+        let allResources = [];
+        let filteredResources = [];
+        let displayedResourcesCount = 0;
+        const resourcesPerPage = 12;
+        let resourcesLoaded = false;
+
         function switchMainTab(tab) {
             const btnCases = document.querySelector('.main-tab-btn[onclick*="cases"]');
             const btnResources = document.querySelector('.main-tab-btn[onclick*="resources"]');
@@ -482,7 +443,178 @@
                 btnResources.classList.add('active');
                 contentCases.style.display = 'none';
                 contentResources.style.display = 'block';
+                
+                // Cargar datos dinámicos si no han sido cargados aún
+                if (!resourcesLoaded) {
+                    loadResourcesData();
+                }
             }
+        }
+
+        async function loadResourcesData() {
+            const countEl = document.getElementById('resource-results-count');
+            const gridEl = document.getElementById('resources-grid-container');
+            
+            gridEl.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 3rem 0; color: var(--text-secondary);"><div class="spinner" style="margin: 0 auto 1rem auto;"></div><p>Cargando centros de acopio y refugios oficiales...</p></div>';
+            
+            try {
+                const response = await fetch('/data/centros_venezuela.json');
+                if (!response.ok) throw new Error('Error al cargar datos');
+                allResources = await response.json();
+                resourcesLoaded = true;
+                
+                // Poblar select de ciudades
+                populateCitiesDropdown();
+                
+                // Filtrar e inicializar renderizado
+                filterResources();
+            } catch (err) {
+                console.error(err);
+                gridEl.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 3rem 0; color: var(--state-missing);"><i class="fa-solid fa-triangle-exclamation" style="font-size: 2.5rem; margin-bottom: 1rem;"></i><p>Hubo un problema al cargar el directorio de ayuda. Por favor reintente más tarde.</p></div>';
+                countEl.textContent = 'Error al cargar';
+            }
+        }
+
+        function populateCitiesDropdown() {
+            const select = document.getElementById('resource-city-filter');
+            const cities = new Set();
+            
+            allResources.forEach(r => {
+                if (r.city) {
+                    const normalized = r.city.trim();
+                    if (normalized) cities.add(normalized);
+                }
+            });
+            
+            // Ordenar alfabéticamente
+            const sortedCities = Array.from(cities).sort((a, b) => a.localeCompare(b, 'es', {sensitivity: 'base'}));
+            
+            sortedCities.forEach(city => {
+                const opt = document.createElement('option');
+                opt.value = city;
+                opt.textContent = city;
+                select.appendChild(opt);
+            });
+        }
+
+        function filterResources() {
+            const searchQuery = document.getElementById('resource-search-input').value.toLowerCase().trim();
+            const selectedCity = document.getElementById('resource-city-filter').value;
+            const selectedType = document.getElementById('resource-type-filter').value;
+            
+            filteredResources = allResources.filter(r => {
+                // Filtro texto
+                const matchesSearch = !searchQuery || 
+                    (r.name && r.name.toLowerCase().includes(searchQuery)) ||
+                    (r.address && r.address.toLowerCase().includes(searchQuery)) ||
+                    (r.city && r.city.toLowerCase().includes(searchQuery));
+                    
+                // Filtro ciudad
+                const matchesCity = !selectedCity || r.city === selectedCity;
+                
+                // Filtro tipo (acopio vs refugio)
+                const matchesType = selectedType === 'all' || r.type === selectedType;
+                
+                return matchesSearch && matchesCity && matchesType;
+            });
+            
+            displayedResourcesCount = 0;
+            const gridEl = document.getElementById('resources-grid-container');
+            gridEl.innerHTML = '';
+            
+            renderNextResources();
+        }
+
+        function renderNextResources() {
+            const gridEl = document.getElementById('resources-grid-container');
+            const countEl = document.getElementById('resource-results-count');
+            const loadMoreContainer = document.getElementById('load-more-resources-container');
+            
+            const start = displayedResourcesCount;
+            const end = Math.min(start + resourcesPerPage, filteredResources.length);
+            
+            if (filteredResources.length === 0) {
+                gridEl.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 4rem 0; color: var(--text-secondary);"><i class="fa-regular fa-face-frown" style="font-size: 3rem; margin-bottom: 1rem;"></i><h3>No se encontraron centros de ayuda</h3><p>Intenta cambiar los términos de búsqueda o los filtros.</p></div>';
+                countEl.textContent = '0 centros encontrados';
+                loadMoreContainer.style.display = 'none';
+                return;
+            }
+            
+            for (let i = start; i < end; i++) {
+                const r = filteredResources[i];
+                const card = createResourceCard(r);
+                gridEl.appendChild(card);
+            }
+            
+            displayedResourcesCount = end;
+            countEl.textContent = `Mostrando ${displayedResourcesCount} de ${filteredResources.length} centros y albergues`;
+            
+            if (displayedResourcesCount < filteredResources.length) {
+                loadMoreContainer.style.display = 'flex';
+            } else {
+                loadMoreContainer.style.display = 'none';
+            }
+        }
+
+        function loadMoreResources() {
+            renderNextResources();
+        }
+
+        function createResourceCard(r) {
+            const div = document.createElement('div');
+            div.className = 'resource-detail-card';
+            
+            // Icono e indicación de color según tipo
+            let icon = 'fa-box-open';
+            let iconBg = 'rgba(99, 102, 241, 0.08)';
+            let iconColor = 'var(--accent-primary)';
+            let typeLabel = 'Centro de Acopio';
+            
+            if (r.type === 'refugio') {
+                icon = 'fa-people-roof';
+                iconBg = 'rgba(22, 163, 74, 0.08)';
+                iconColor = '#16a34a';
+                typeLabel = 'Refugio / Albergue';
+            } else if (r.name && (r.name.toLowerCase().includes('cruz roja') || r.name.toLowerCase().includes('bomberos') || r.name.toLowerCase().includes('hospital'))) {
+                icon = 'fa-kit-medical';
+                iconBg = 'rgba(220, 38, 38, 0.08)';
+                iconColor = '#dc2626';
+            }
+            
+            // Render de donaciones aceptadas
+            let receivesHtml = '';
+            if (r.receives && r.receives.length > 0) {
+                const list = r.receives.map(item => item.charAt(0).toUpperCase() + item.slice(1)).join(', ');
+                receivesHtml = `
+                    <div class="receives-box" style="border-left-color: ${iconColor};">
+                        <strong>Recibe:</strong> ${list}
+                    </div>
+                `;
+            }
+            
+            // Contacto
+            let contactHtml = '';
+            if (r.contact) {
+                contactHtml = `<p class="contact"><i class="fa-solid fa-phone"></i> ${r.contact}</p>`;
+            }
+            
+            div.innerHTML = `
+                <div class="card-icon-header" style="background-color: ${iconBg}; color: ${iconColor};">
+                    <i class="fa-solid ${icon}"></i>
+                </div>
+                <div class="card-content">
+                    <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 0.5rem; flex-wrap: wrap;">
+                        <h3 style="font-size: 1rem; line-height: 1.35;">${r.name}</h3>
+                        <span class="city-tag" style="background-color: ${iconBg}; color: ${iconColor};">${r.city || 'Venezuela'}</span>
+                    </div>
+                    <span style="font-size: 0.7rem; font-weight: 700; text-transform: uppercase; color: var(--text-muted); display: block; margin-top: -0.25rem;">${typeLabel}</span>
+                    <p class="address"><i class="fa-solid fa-location-dot"></i> ${r.address || 'Dirección no especificada'}</p>
+                    ${contactHtml}
+                    ${receivesHtml}
+                </div>
+            `;
+            
+            return div;
         }
     </script>
 
