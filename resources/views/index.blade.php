@@ -65,55 +65,6 @@
         </div>
     </section>
 
-    <!-- Barra de Búsqueda y Filtros -->
-    <section class="search-section">
-        <div class="search-wrapper">
-            <i class="fa-solid fa-magnifying-glass search-icon"></i>
-            <input type="text" id="search-input" placeholder="Buscar por nombre, apellido, cédula de identidad..." autocomplete="off">
-            <div class="search-actions-inside">
-                <button class="clear-search-btn" id="clear-search" style="display: none;" title="Limpiar búsqueda">
-                    <i class="fa-solid fa-xmark"></i>
-                </button>
-                <button class="photo-search-trigger-btn" id="photo-search-trigger" onclick="openPhotoSearchModal()" title="Buscar por foto">
-                    <i class="fa-solid fa-camera"></i>
-                </button>
-            </div>
-        </div>
-
-        <!-- Banner de Búsqueda por Foto Activa -->
-        <div class="photo-search-banner" id="photo-search-banner" style="display: none;">
-            <div class="photo-search-banner-text">
-                <i class="fa-solid fa-images"></i>
-                <span>Búsqueda por Foto activa. Mostrando coincidencias visuales.</span>
-            </div>
-            <button class="btn btn-secondary btn-sm" onclick="clearPhotoSearch()">
-                <i class="fa-solid fa-rotate-left"></i> Quitar Foto
-            </button>
-        </div>
-
-        <div class="filters-wrapper">
-            <div class="filter-group">
-                <span class="filters-title">Estado:</span>
-                <div class="filter-tabs">
-                    <button class="filter-tab active" data-status="all" onclick="setStatusFilter('all')">Todos</button>
-                    <button class="filter-tab" data-status="missing" onclick="setStatusFilter('missing')">Desaparecidos</button>
-                    <button class="filter-tab" data-status="found" onclick="setStatusFilter('found')">Localizados</button>
-                    <button class="filter-tab" data-status="deceased" onclick="setStatusFilter('deceased')"><i class="fa-solid fa-skull-crossbones"></i> Fallecidos</button>
-                    <button class="filter-tab" data-status="hospitalized" onclick="setStatusFilter('hospitalized')"><i class="fa-solid fa-hospital"></i> En Hospitales</button>
-                </div>
-            </div>
-
-            <div class="filter-group">
-                <span class="filters-title">Foto:</span>
-                <div class="filter-tabs">
-                    <button class="filter-tab filter-tab-photo active" data-photo="all" onclick="setPhotoFilter('all')">Cualquiera</button>
-                    <button class="filter-tab filter-tab-photo" data-photo="yes" onclick="setPhotoFilter('yes')">Con Foto</button>
-                    <button class="filter-tab filter-tab-photo" data-photo="no" onclick="setPhotoFilter('no')">Sin Foto</button>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <!-- Navegación de Pestañas Principales -->
     <div class="main-tabs-nav">
         <button class="main-tab-btn active" onclick="switchMainTab('cases')">
