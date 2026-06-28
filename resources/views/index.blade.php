@@ -157,15 +157,23 @@
                     <h3><i class="fa-solid fa-hand-holding-heart"></i> Recursos de Emergencia</h3>
                 </div>
                 <div class="resource-card-body">
-                    <h4 class="resource-title"><i class="fa-solid fa-box-open" style="color: var(--accent-secondary);"></i> Centros de Acopio Autorizados</h4>
+                    <h4 class="resource-title"><i class="fa-solid fa-box-open" style="color: var(--accent-secondary);"></i> Centros de Acopio en Caracas y Miranda</h4>
                     <ul class="resource-list">
                         <li>
-                            <strong>Cruz Roja Candelaria:</strong> Av. Andrés Bello, Caracas.<br>
-                            <span class="resource-meta">(Recibe: Agua potable, insumos médicos y alimentos)</span>
+                            <strong>Cruz Roja Venezolana:</strong> Av. Andrés Bello, Urb. San Bernardino, Caracas. <span style="color: var(--text-muted);">Tlf: 0212-5714380</span><br>
+                            <span class="resource-meta">(Recibe: Agua, alimentos no perecederos, medicinas, pañales y herramientas de rescate)</span>
                         </li>
                         <li>
-                            <strong>Polideportivo Chacao:</strong> Av. Francisco de Miranda, Caracas.<br>
-                            <span class="resource-meta">(Recibe: Medicamentos y ropa de abrigo)</span>
+                            <strong>Centro Altamira (Quinta El Bejucal):</strong> 4ta Av. de Altamira, entre 9na y 10ma transversal, Caracas.<br>
+                            <span class="resource-meta">(Recibe: Agua potable, enlatados, ropa de abrigo y frazadas)</span>
+                        </li>
+                        <li>
+                            <strong>Iglesia La Chiquinquirá:</strong> Urbanización La Florida, Caracas.<br>
+                            <span class="resource-meta">(Recibe: Alimentos listos para consumo, agua embotellada e insumos de higiene)</span>
+                        </li>
+                        <li>
+                            <strong>Complejo Cultural Los Salias:</strong> San Antonio de los Altos, Miranda.<br>
+                            <span class="resource-meta">(Recibe: Ropa de abrigo, linternas, baterías y agua potable)</span>
                         </li>
                     </ul>
 

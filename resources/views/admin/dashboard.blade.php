@@ -337,15 +337,23 @@
         </div>
         <div class="panel-card-body" style="font-size: 0.85rem; line-height: 1.45; display: flex; flex-direction: column; gap: 1rem;">
             <div>
-                <h4 style="font-weight: 700; color: var(--text-primary); margin-bottom: 0.5rem; display: flex; align-items: center; gap: 6px;"><i class="fa-solid fa-box-open" style="color: var(--accent-secondary);"></i> Centros de Acopio Autorizados</h4>
+                <h4 style="font-weight: 700; color: var(--text-primary); margin-bottom: 0.5rem; display: flex; align-items: center; gap: 6px;"><i class="fa-solid fa-box-open" style="color: var(--accent-secondary);"></i> Centros de Acopio en Caracas y Miranda</h4>
                 <ul style="list-style: none; padding: 0; display: flex; flex-direction: column; gap: 0.5rem;">
                     <li style="border-bottom: 1px solid var(--border-color); padding-bottom: 0.4rem;">
-                        <strong>Cruz Roja Candelaria:</strong> Av. Andrés Bello, Caracas. <br>
-                        <span style="color: var(--text-muted); font-size: 0.75rem;">(Recibe: Agua embotellada, insumos médicos de primeros auxilios y alimentos no perecederos)</span>
+                        <strong>Cruz Roja Venezolana:</strong> Urb. San Bernardino, Caracas. <span style="color: var(--text-muted); font-size: 0.75rem;">(Tlf: 0212-5714380)</span><br>
+                        <span style="color: var(--text-muted); font-size: 0.75rem;">(Agua, alimentos, medicinas, pañales y herramientas de rescate)</span>
                     </li>
                     <li style="border-bottom: 1px solid var(--border-color); padding-bottom: 0.4rem;">
-                        <strong>Polideportivo Chacao:</strong> Av. Francisco de Miranda, Caracas. <br>
-                        <span style="color: var(--text-muted); font-size: 0.75rem;">(Recibe: Medicamentos pediátricos/de adultos y ropa de abrigo)</span>
+                        <strong>Centro Altamira (Quinta El Bejucal):</strong> 4ta Av. de Altamira, Caracas.<br>
+                        <span style="color: var(--text-muted); font-size: 0.75rem;">(Agua potable, alimentos no perecederos, ropa de abrigo y frazadas)</span>
+                    </li>
+                    <li style="border-bottom: 1px solid var(--border-color); padding-bottom: 0.4rem;">
+                        <strong>Iglesia La Chiquinquirá:</strong> La Florida, Caracas.<br>
+                        <span style="color: var(--text-muted); font-size: 0.75rem;">(Alimentos secos, agua embotellada e insumos de higiene)</span>
+                    </li>
+                    <li style="border-bottom: 1px solid var(--border-color); padding-bottom: 0.4rem;">
+                        <strong>Complejo Cultural Los Salias:</strong> San Antonio de los Altos, Miranda.<br>
+                        <span style="color: var(--text-muted); font-size: 0.75rem;">(Ropa de abrigo, linternas, baterías y agua potable)</span>
                     </li>
                 </ul>
             </div>
