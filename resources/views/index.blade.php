@@ -18,7 +18,7 @@
     </header>
 
     <!-- Banner Descriptivo SEO Terremoto / Sismo Venezuela -->
-    <div class="seo-banner-card" style="background-color: var(--accent-primary-glow); border: 1px solid rgba(37, 99, 235, 0.15); border-radius: var(--border-radius-md); padding: 1.25rem 1.5rem; margin-bottom: 2rem; display: flex; align-items: center; gap: 1rem;">
+    <div class="seo-banner-card">
         <i class="fa-solid fa-house-chimney-crack" style="font-size: 1.8rem; color: var(--accent-primary); flex-shrink: 0;"></i>
         <div>
             <h2 style="font-family: var(--font-heading); font-size: 1.1rem; font-weight: 700; color: var(--text-primary); margin-bottom: 0.25rem;">Búsqueda de Desaparecidos en Venezuela por Terremoto y Sismo</h2>
@@ -225,18 +225,18 @@
         </div>
 
         <!-- Filtros y Buscador para Recursos -->
-        <div class="resource-filters-box" style="display: flex; flex-direction: column; gap: 1rem; background-color: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--border-radius-md); padding: 1.25rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
-            <div style="display: flex; flex-wrap: wrap; gap: 1rem; width: 100%;">
-                <div style="flex: 1; min-width: 250px; position: relative;">
+        <div class="resource-filters-box" style="background-color: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--border-radius-md); padding: 1.25rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
+            <div class="resource-filters-wrapper">
+                <div class="resource-search-wrapper">
                     <i class="fa-solid fa-magnifying-glass" style="position: absolute; left: 12px; top: 13px; color: var(--text-muted);"></i>
                     <input type="text" id="resource-search-input" placeholder="Buscar por nombre del centro, dirección o ciudad..." oninput="filterResources()" style="width: 100%; padding: 10px 12px 10px 36px; border: 1px solid var(--border-color); border-radius: var(--border-radius-sm); background-color: var(--bg-input); color: var(--text-primary); font-family: var(--font-sans); font-size: 0.9rem;">
                 </div>
-                <div style="width: 200px; min-width: 150px;">
+                <div class="resource-select-wrapper">
                     <select id="resource-city-filter" onchange="filterResources()" style="width: 100%; padding: 10px 12px; border: 1px solid var(--border-color); border-radius: var(--border-radius-sm); background-color: var(--bg-input); color: var(--text-primary); font-family: var(--font-sans); font-size: 0.9rem; cursor: pointer;">
                         <option value="">Todas las ciudades</option>
                     </select>
                 </div>
-                <div style="width: 200px; min-width: 150px;">
+                <div class="resource-select-wrapper">
                     <select id="resource-type-filter" onchange="filterResources()" style="width: 100%; padding: 10px 12px; border: 1px solid var(--border-color); border-radius: var(--border-radius-sm); background-color: var(--bg-input); color: var(--text-primary); font-family: var(--font-sans); font-size: 0.9rem; cursor: pointer;">
                         <option value="all">Todos los tipos</option>
                         <option value="acopio">Centros de Acopio</option>
@@ -416,6 +416,92 @@
 
         .col-span-full {
             grid-column: 1 / -1;
+        }
+
+        /* SEO Banner Responsivo */
+        .seo-banner-card {
+            background-color: var(--accent-primary-glow);
+            border: 1px solid rgba(37, 99, 235, 0.15);
+            border-radius: var(--border-radius-md);
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 2rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        @media (max-width: 480px) {
+            .seo-banner-card {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 0.75rem;
+                padding: 1rem 1.25rem;
+            }
+        }
+
+        /* Soporte para Filtros de Recursos */
+        .resource-filters-wrapper {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            width: 100%;
+        }
+
+        .resource-search-wrapper {
+            flex: 1;
+            position: relative;
+        }
+
+        .resource-select-wrapper {
+            width: 100%;
+        }
+
+        @media (min-width: 768px) {
+            .resource-filters-wrapper {
+                flex-direction: row;
+            }
+            .resource-select-wrapper {
+                width: 200px;
+            }
+        }
+
+        /* Adaptabilidad de las Pestañas Principales en Móvil */
+        @media (max-width: 576px) {
+            .main-tabs-nav {
+                gap: 0.25rem;
+                margin: 1rem 0 1.5rem 0;
+            }
+
+            .main-tab-btn {
+                font-size: 0.85rem;
+                padding: 0.6rem 0.5rem;
+                flex: 1;
+                justify-content: center;
+                gap: 4px;
+                text-align: center;
+            }
+            
+            .main-tab-btn i {
+                font-size: 0.9rem;
+            }
+        }
+
+        /* Adaptabilidad de Tarjetas de Recursos en Móvil */
+        @media (max-width: 480px) {
+            .resource-detail-card {
+                flex-direction: column;
+                gap: 1rem;
+                align-items: flex-start;
+                padding: 1.25rem;
+            }
+            .card-icon-header {
+                width: 40px;
+                height: 40px;
+                font-size: 1.25rem;
+            }
+            .card-content h3 {
+                font-size: 0.95rem;
+            }
         }
     </style>
 
