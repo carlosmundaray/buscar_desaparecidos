@@ -114,8 +114,68 @@
         </div>
     </section>
 
-    <!-- Grilla de Resultados y Recursos Colaterales -->
-    <div class="main-layout-split">
+    <!-- Navegación de Pestañas Principales -->
+    <div class="main-tabs-nav">
+        <button class="main-tab-btn active" onclick="switchMainTab('cases')">
+            <i class="fa-solid fa-users"></i> Búsqueda de Personas
+        </button>
+        <button class="main-tab-btn" onclick="switchMainTab('resources')">
+            <i class="fa-solid fa-hand-holding-heart"></i> Centros de Acopio y Ayuda
+        </button>
+    </div>
+
+    <!-- Pestaña 1: Casos de Desaparecidos -->
+    <div id="tab-content-cases" class="main-tab-content">
+        <!-- Barra de Búsqueda y Filtros -->
+        <section class="search-section">
+            <div class="search-wrapper">
+                <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                <input type="text" id="search-input" placeholder="Buscar por nombre, apellido, cédula de identidad..." autocomplete="off">
+                <div class="search-actions-inside">
+                    <button class="clear-search-btn" id="clear-search" style="display: none;" title="Limpiar búsqueda">
+                        <i class="fa-solid fa-xmark"></i>
+                    </button>
+                    <button class="photo-search-trigger-btn" id="photo-search-trigger" onclick="openPhotoSearchModal()" title="Buscar por foto">
+                        <i class="fa-solid fa-camera"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Banner de Búsqueda por Foto Activa -->
+            <div class="photo-search-banner" id="photo-search-banner" style="display: none;">
+                <div class="photo-search-banner-text">
+                    <i class="fa-solid fa-images"></i>
+                    <span>Búsqueda por Foto activa. Mostrando coincidencias visuales.</span>
+                </div>
+                <button class="btn btn-secondary btn-sm" onclick="clearPhotoSearch()">
+                    <i class="fa-solid fa-rotate-left"></i> Quitar Foto
+                </button>
+            </div>
+
+            <div class="filters-wrapper">
+                <div class="filter-group">
+                    <span class="filters-title">Estado:</span>
+                    <div class="filter-tabs">
+                        <button class="filter-tab active" data-status="all" onclick="setStatusFilter('all')">Todos</button>
+                        <button class="filter-tab" data-status="missing" onclick="setStatusFilter('missing')">Desaparecidos</button>
+                        <button class="filter-tab" data-status="found" onclick="setStatusFilter('found')">Localizados</button>
+                        <button class="filter-tab" data-status="deceased" onclick="setStatusFilter('deceased')"><i class="fa-solid fa-skull-crossbones"></i> Fallecidos</button>
+                        <button class="filter-tab" data-status="hospitalized" onclick="setStatusFilter('hospitalized')"><i class="fa-solid fa-hospital"></i> En Hospitales</button>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <span class="filters-title">Foto:</span>
+                    <div class="filter-tabs">
+                        <button class="filter-tab filter-tab-photo active" data-photo="all" onclick="setPhotoFilter('all')">Cualquiera</button>
+                        <button class="filter-tab filter-tab-photo" data-photo="yes" onclick="setPhotoFilter('yes')">Con Foto</button>
+                        <button class="filter-tab filter-tab-photo" data-photo="no" onclick="setPhotoFilter('no')">Sin Foto</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Grilla de Resultados (Ancho Completo) -->
         <main class="results-container">
             <div class="grid-header">
                 <h2 id="results-title">Casos Recientes</h2>
@@ -149,175 +209,282 @@
                 </button>
             </div>
         </main>
+    </div>
 
-        <aside class="sidebar-resources">
-            <!-- Tarjeta de Recursos -->
-            <div class="resource-card">
-                <div class="resource-card-header">
-                    <h3><i class="fa-solid fa-hand-holding-heart"></i> Recursos de Emergencia</h3>
+    <!-- Pestaña 2: Directorio de Centros de Acopio y Oficinas -->
+    <div id="tab-content-resources" class="main-tab-content" style="display: none;">
+        <!-- Banner de Información -->
+        <div class="resource-info-banner" style="background-color: var(--accent-primary-glow); border: 1px solid rgba(37, 99, 235, 0.15); border-radius: var(--border-radius-md); padding: 1.5rem; margin-bottom: 2rem; display: flex; align-items: center; gap: 1.25rem;">
+            <i class="fa-solid fa-circle-info" style="font-size: 2.2rem; color: var(--accent-primary); flex-shrink: 0;"></i>
+            <div>
+                <h3 style="font-family: var(--font-heading); font-size: 1.15rem; font-weight: 700; color: var(--text-primary); margin-bottom: 0.25rem;">Directorio Oficial de Ayuda y Centros de Acopio en Venezuela</h3>
+                <p style="font-size: 0.85rem; color: var(--text-secondary); line-height: 1.45; margin: 0;">
+                    Si deseas colaborar con insumos, alimentos o medicinas, o requieres contactar a los organismos de atención ante emergencias sísmicas, utiliza este directorio actualizado directamente desde la plataforma solidaria.
+                </p>
+            </div>
+        </div>
+
+        <!-- Grilla de Centros y Oficinas -->
+        <div class="resources-tab-grid">
+            <!-- Card 1: Cruz Roja Venezolana -->
+            <div class="resource-detail-card">
+                <div class="card-icon-header" style="background-color: rgba(220, 38, 38, 0.08); color: #dc2626;">
+                    <i class="fa-solid fa-kit-medical"></i>
                 </div>
-                <div class="resource-card-body">
-                    <h4 class="resource-title"><i class="fa-solid fa-box-open" style="color: var(--accent-secondary);"></i> Centros de Acopio en Caracas y Miranda</h4>
-                    <ul class="resource-list">
-                        <li>
-                            <strong>Cruz Roja Venezolana:</strong> Av. Andrés Bello, Urb. San Bernardino, Caracas. <span style="color: var(--text-muted);">Tlf: 0212-5714380</span><br>
-                            <span class="resource-meta">(Recibe: Agua, alimentos no perecederos, medicinas, pañales y herramientas de rescate)</span>
-                        </li>
-                        <li>
-                            <strong>Centro Altamira (Quinta El Bejucal):</strong> 4ta Av. de Altamira, entre 9na y 10ma transversal, Caracas.<br>
-                            <span class="resource-meta">(Recibe: Agua potable, enlatados, ropa de abrigo y frazadas)</span>
-                        </li>
-                        <li>
-                            <strong>Iglesia La Chiquinquirá:</strong> Urbanización La Florida, Caracas.<br>
-                            <span class="resource-meta">(Recibe: Alimentos listos para consumo, agua embotellada e insumos de higiene)</span>
-                        </li>
-                        <li>
-                            <strong>Complejo Cultural Los Salias:</strong> San Antonio de los Altos, Miranda.<br>
-                            <span class="resource-meta">(Recibe: Ropa de abrigo, linternas, baterías y agua potable)</span>
-                        </li>
-                    </ul>
-
-                    <h4 class="resource-title"><i class="fa-solid fa-building-shield" style="color: var(--state-found);"></i> Oficina de Coordinación</h4>
-                    <div class="office-box">
-                        <strong>Protección Civil Nacional</strong><br>
-                        <span class="office-address">Av. Rufino Blanco Fombona, Santa Mónica, Caracas.</span>
-                        <span class="office-phone"><i class="fa-solid fa-phone"></i> 0212-6627671 / 0800-7248451</span>
-                        <span class="emergency-badge"><i class="fa-solid fa-phone-volume"></i> Emergencias Sismo: 911</span>
+                <div class="card-content">
+                    <h3>Cruz Roja Venezolana (San Bernardino)</h3>
+                    <span class="city-tag">Caracas</span>
+                    <p class="address"><i class="fa-solid fa-location-dot"></i> Av. Andrés Bello, Edif. Cruz Roja Venezolana N° 4, Urb. San Bernardino.</p>
+                    <p class="contact"><i class="fa-solid fa-phone"></i> +58 212-5714380 / caracas@cruzroja.ve</p>
+                    <div class="receives-box">
+                        <strong>Recibe:</strong> Agua potable, alimentos no perecederos, frazadas, medicamentos, insumos de higiene personal, pañales, artículos de bebé y herramientas.
                     </div>
                 </div>
             </div>
-        </aside>
+
+            <!-- Card 2: Centro Altamira (Quinta El Bejucal) -->
+            <div class="resource-detail-card">
+                <div class="card-icon-header" style="background-color: rgba(99, 102, 241, 0.08); color: var(--accent-primary);">
+                    <i class="fa-solid fa-box-open"></i>
+                </div>
+                <div class="card-content">
+                    <h3>Centro de Acopio Altamira (Quinta El Bejucal)</h3>
+                    <span class="city-tag">Caracas</span>
+                    <p class="address"><i class="fa-solid fa-location-dot"></i> 4ta avenida de Altamira, entre 9na y 10ma transversal, Caracas.</p>
+                    <p class="contact"><i class="fa-solid fa-clock"></i> Operación: Todos con VZLA (Lunes a Sábado, horario diurno)</p>
+                    <div class="receives-box">
+                        <strong>Recibe:</strong> Agua potable, alimentos no perecederos (enlatados, secos), ropa de abrigo y frazadas para damnificados.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 3: Iglesia La Chiquinquirá -->
+            <div class="resource-detail-card">
+                <div class="card-icon-header" style="background-color: rgba(124, 58, 237, 0.08); color: var(--accent-secondary);">
+                    <i class="fa-solid fa-church"></i>
+                </div>
+                <div class="card-content">
+                    <h3>Iglesia La Chiquinquirá (La Florida)</h3>
+                    <span class="city-tag">Caracas</span>
+                    <p class="address"><i class="fa-solid fa-location-dot"></i> Iglesia La Chiquinquirá, Urb. La Florida, Caracas.</p>
+                    <p class="contact"><i class="fa-solid fa-clock"></i> Punto de acopio comunitario para afectados.</p>
+                    <div class="receives-box">
+                        <strong>Recibe:</strong> Alimentos secos listos para consumir, agua embotellada, insumos de higiene y primeros auxilios.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 4: Complejo Cultural Los Salias -->
+            <div class="resource-detail-card">
+                <div class="card-icon-header" style="background-color: rgba(22, 163, 74, 0.08); color: #16a34a;">
+                    <i class="fa-solid fa-people-roof"></i>
+                </div>
+                <div class="card-content">
+                    <h3>Complejo Cultural Los Salias</h3>
+                    <span class="city-tag">San Antonio de los Altos, Miranda</span>
+                    <p class="address"><i class="fa-solid fa-location-dot"></i> Complejo Cultural Los Salias, San Antonio de los Altos.</p>
+                    <p class="contact"><i class="fa-solid fa-circle-question"></i> Organizado por la alcaldía municipal.</p>
+                    <div class="receives-box">
+                        <strong>Recibe:</strong> Ropa de abrigo, linternas, baterías de repuesto y agua embotellada.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 5: Protección Civil (Emergencias) -->
+            <div class="resource-detail-card col-span-full" style="border-color: var(--state-missing); background: rgba(220, 38, 38, 0.01);">
+                <div class="card-icon-header" style="background-color: var(--state-missing-glow); color: var(--state-missing);">
+                    <i class="fa-solid fa-shield-halved"></i>
+                </div>
+                <div class="card-content">
+                    <h3>Oficina Nacional de Coordinación - Protección Civil Nacional</h3>
+                    <span class="city-tag" style="background-color: var(--state-missing); color: white;">Emergencia Nacional</span>
+                    <p class="address"><i class="fa-solid fa-location-dot"></i> Av. Rufino Blanco Fombona, Santa Mónica, Caracas, Venezuela.</p>
+                    <p class="contact"><i class="fa-solid fa-phone"></i> 0212-6627671 / 0800-7248451 (0800-PCIVIL1)</p>
+                    <div class="receives-box" style="border-left-color: var(--state-missing); background-color: var(--state-missing-glow);">
+                        <strong style="color: var(--state-missing);"><i class="fa-solid fa-phone-volume"></i> Línea de Emergencia Sísmica Directa: 911</strong><br>
+                        Utilice este número para reportar emergencias inmediatas, incidentes de infraestructura crítica o solicitar ambulancias/grupos de rescate.
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
-    <!-- Estilos de Soporte para el Sidebar Responsivo -->
+    <!-- Estilos de Soporte para las Pestañas y Recursos -->
     <style>
-        .main-layout-split {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 2rem;
-            align-items: start;
+        /* Pestañas Principales */
+        .main-tabs-nav {
+            display: flex;
+            gap: 1rem;
+            margin: 1.5rem 0 2rem 0;
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 0.5rem;
         }
 
-        @media (min-width: 992px) {
-            .main-layout-split {
-                grid-template-columns: 2.8fr 1.2fr;
+        .main-tab-btn {
+            background: none;
+            border: none;
+            color: var(--text-muted);
+            font-size: 1.05rem;
+            font-weight: 700;
+            font-family: var(--font-heading);
+            padding: 0.75rem 1.25rem;
+            cursor: pointer;
+            position: relative;
+            transition: var(--transition-smooth);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-radius: var(--border-radius-sm);
+        }
+
+        .main-tab-btn:hover {
+            color: var(--text-primary);
+            background-color: var(--bg-input);
+        }
+
+        .main-tab-btn.active {
+            color: var(--accent-primary);
+        }
+
+        .main-tab-btn.active::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background-color: var(--accent-primary);
+            border-radius: 2px;
+        }
+
+        /* Contenido de Pestañas */
+        .main-tab-content {
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Grilla de Recursos */
+        .resources-tab-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
+
+        @media (min-width: 768px) {
+            .resources-tab-grid {
+                grid-template-columns: repeat(2, 1fr);
             }
         }
 
-        .sidebar-resources {
-            display: flex;
-            flex-direction: column;
-            gap: 1.5rem;
-        }
-
-        .resource-card {
+        .resource-detail-card {
             background-color: var(--bg-card);
             border: 1px solid var(--border-color);
             border-radius: var(--border-radius-md);
             box-shadow: var(--shadow-sm);
-            overflow: hidden;
+            padding: 1.5rem;
+            display: flex;
+            gap: 1.25rem;
+            transition: var(--transition-smooth);
         }
 
-        .resource-card-header {
-            padding: 1.25rem 1.5rem;
-            border-bottom: 1px solid var(--border-color);
-            background-color: rgba(37, 99, 235, 0.03);
+        .resource-detail-card:hover {
+            transform: translateY(-4px);
+            border-color: var(--accent-primary);
+            box-shadow: var(--shadow-md);
         }
 
-        .resource-card-header h3 {
+        .card-icon-header {
+            width: 50px;
+            height: 50px;
+            border-radius: var(--border-radius-sm);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            flex-shrink: 0;
+        }
+
+        .card-content {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            flex-grow: 1;
+        }
+
+        .card-content h3 {
             font-family: var(--font-heading);
             font-size: 1.1rem;
             font-weight: 700;
             color: var(--text-primary);
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
+            margin: 0;
         }
 
-        .resource-card-header h3 i {
+        .city-tag {
+            align-self: flex-start;
+            font-size: 0.75rem;
+            font-weight: 700;
+            padding: 3px 8px;
+            border-radius: var(--border-radius-sm);
+            background-color: var(--accent-primary-glow);
             color: var(--accent-primary);
         }
 
-        .resource-card-body {
-            padding: 1.5rem;
-            display: flex;
-            flex-direction: column;
-            gap: 1.25rem;
-        }
-
-        .resource-title {
-            font-size: 0.9rem;
-            font-weight: 700;
-            color: var(--text-primary);
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-
-        .resource-title i {
-            font-size: 0.95rem;
-        }
-
-        .resource-list {
-            list-style: none;
-            padding: 0;
+        .card-content p {
             margin: 0;
-            display: flex;
-            flex-direction: column;
-            gap: 0.75rem;
-        }
-
-        .resource-list li {
-            border-bottom: 1px solid var(--border-color);
-            padding-bottom: 0.6rem;
             font-size: 0.85rem;
             color: var(--text-secondary);
             line-height: 1.45;
         }
 
-        .resource-list li:last-child {
-            border-bottom: none;
-            padding-bottom: 0;
-        }
-
-        .resource-meta {
+        .card-content p i {
+            margin-right: 6px;
             color: var(--text-muted);
-            font-size: 0.75rem;
-            display: block;
-            margin-top: 0.2rem;
+            width: 14px;
+            text-align: center;
         }
 
-        .office-box {
+        .receives-box {
             background-color: var(--bg-input);
-            padding: 1rem;
+            padding: 0.75rem 1rem;
             border-radius: var(--border-radius-sm);
-            border: 1px solid var(--border-color);
-            font-size: 0.85rem;
-            line-height: 1.45;
+            border-left: 3px solid var(--accent-primary);
+            font-size: 0.8rem;
+            line-height: 1.4;
             color: var(--text-secondary);
-        }
-
-        .office-address {
-            font-size: 0.8rem;
-            display: block;
-            margin-top: 0.25rem;
-            margin-bottom: 0.25rem;
-        }
-
-        .office-phone {
-            font-size: 0.8rem;
-            color: var(--text-muted);
-            display: block;
-        }
-
-        .emergency-badge {
-            color: var(--state-missing);
-            font-weight: 700;
-            font-size: 0.8rem;
-            display: block;
             margin-top: 0.5rem;
         }
+
+        .col-span-full {
+            grid-column: 1 / -1;
+        }
     </style>
+
+    <!-- Script de Cambio de Pestañas -->
+    <script>
+        function switchMainTab(tab) {
+            const btnCases = document.querySelector('.main-tab-btn[onclick*="cases"]');
+            const btnResources = document.querySelector('.main-tab-btn[onclick*="resources"]');
+            const contentCases = document.getElementById('tab-content-cases');
+            const contentResources = document.getElementById('tab-content-resources');
+
+            if (tab === 'cases') {
+                btnCases.classList.add('active');
+                btnResources.classList.remove('active');
+                contentCases.style.display = 'block';
+                contentResources.style.display = 'none';
+            } else {
+                btnCases.classList.remove('active');
+                btnResources.classList.add('active');
+                contentCases.style.display = 'none';
+                contentResources.style.display = 'block';
+            }
+        }
+    </script>
 
     <!-- Footer -->
     <footer class="main-footer">
