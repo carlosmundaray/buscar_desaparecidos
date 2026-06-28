@@ -329,8 +329,39 @@
             </ul>
         </div>
     </div>
-</div>
 
+    <!-- Centros de Acopio y Oficinas de Emergencia -->
+    <div class="panel-card" style="height: fit-content; border-color: rgba(99, 102, 241, 0.15);">
+        <div class="panel-card-header" style="background-color: rgba(99, 102, 241, 0.05); border-bottom: 1px solid var(--border-color);">
+            <h3><i class="fa-solid fa-hand-holding-heart" style="color: var(--accent-primary);"></i> Recursos de Emergencia</h3>
+        </div>
+        <div class="panel-card-body" style="font-size: 0.85rem; line-height: 1.45; display: flex; flex-direction: column; gap: 1rem;">
+            <div>
+                <h4 style="font-weight: 700; color: var(--text-primary); margin-bottom: 0.5rem; display: flex; align-items: center; gap: 6px;"><i class="fa-solid fa-box-open" style="color: var(--accent-secondary);"></i> Centros de Acopio Autorizados</h4>
+                <ul style="list-style: none; padding: 0; display: flex; flex-direction: column; gap: 0.5rem;">
+                    <li style="border-bottom: 1px solid var(--border-color); padding-bottom: 0.4rem;">
+                        <strong>Cruz Roja Candelaria:</strong> Av. Andrés Bello, Caracas. <br>
+                        <span style="color: var(--text-muted); font-size: 0.75rem;">(Recibe: Agua embotellada, insumos médicos de primeros auxilios y alimentos no perecederos)</span>
+                    </li>
+                    <li style="border-bottom: 1px solid var(--border-color); padding-bottom: 0.4rem;">
+                        <strong>Polideportivo Chacao:</strong> Av. Francisco de Miranda, Caracas. <br>
+                        <span style="color: var(--text-muted); font-size: 0.75rem;">(Recibe: Medicamentos pediátricos/de adultos y ropa de abrigo)</span>
+                    </li>
+                </ul>
+            </div>
+
+            <div>
+                <h4 style="font-weight: 700; color: var(--text-primary); margin-bottom: 0.5rem; display: flex; align-items: center; gap: 6px;"><i class="fa-solid fa-building-shield" style="color: var(--state-found);"></i> Oficina de Coordinación Cercana</h4>
+                <div style="background-color: var(--bg-input); padding: 0.75rem; border-radius: var(--border-radius-sm); border: 1px solid var(--border-color);">
+                    <strong style="color: var(--text-primary);">Protección Civil Nacional</strong><br>
+                    <span style="color: var(--text-secondary); font-size: 0.8rem;">Av. Rufino Blanco Fombona, Santa Mónica, Caracas.</span><br>
+                    <span style="color: var(--text-muted); font-size: 0.8rem;"><i class="fa-solid fa-phone"></i> 0212-6627671 / 0800-7248451</span><br>
+                    <span style="color: var(--accent-primary); font-weight: 700; font-size: 0.8rem; display: block; margin-top: 4px;"><i class="fa-solid fa-phone-volume"></i> Emergencias Sismo: 911</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <!-- Sección Scraper Google Drive -->
 <div style="margin-top: 2rem;">
     <div class="panel-card">

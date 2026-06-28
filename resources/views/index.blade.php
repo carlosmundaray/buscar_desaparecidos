@@ -114,40 +114,202 @@
         </div>
     </section>
 
-    <!-- Grilla de Resultados -->
-    <main class="results-container">
-        <div class="grid-header">
-            <h2 id="results-title">Casos Recientes</h2>
-            <span class="results-count" id="results-count">Mostrando...</span>
-        </div>
+    <!-- Grilla de Resultados y Recursos Colaterales -->
+    <div class="main-layout-split">
+        <main class="results-container">
+            <div class="grid-header">
+                <h2 id="results-title">Casos Recientes</h2>
+                <span class="results-count" id="results-count">Mostrando...</span>
+            </div>
 
-        <div class="loading-overlay" id="loading-spinner" style="display: none;">
-            <div class="spinner"></div>
-            <p>Buscando en la base de datos...</p>
-        </div>
+            <div class="loading-overlay" id="loading-spinner" style="display: none;">
+                <div class="spinner"></div>
+                <p>Buscando en la base de datos...</p>
+            </div>
 
-        <div class="results-grid" id="results-grid">
-            <!-- Las tarjetas se cargarán dinámicamente con JavaScript -->
-        </div>
+            <div class="results-grid" id="results-grid">
+                <!-- Las tarjetas se cargarán dinámicamente con JavaScript -->
+            </div>
 
-        <!-- Sin Resultados -->
-        <div class="no-results" id="no-results" style="display: none;">
-            <i class="fa-regular fa-face-frown"></i>
-            <h3>No se encontraron resultados</h3>
-            <p>Intenta ajustar tus criterios de búsqueda o limpia los filtros.</p>
-        </div>
+            <!-- Sin Resultados -->
+            <div class="no-results" id="no-results" style="display: none;">
+                <i class="fa-regular fa-face-frown"></i>
+                <h3>No se encontraron resultados</h3>
+                <p>Intenta ajustar tus criterios de búsqueda o limpia los filtros.</p>
+            </div>
 
-        <!-- Paginación -->
-        <div class="pagination-area" id="pagination-area" style="display: none;">
-            <button class="btn btn-secondary btn-sm" id="prev-page-btn" onclick="changePage(-1)">
-                <i class="fa-solid fa-chevron-left"></i> Anterior
-            </button>
-            <span class="page-indicator" id="page-indicator">Página 1 de 1</span>
-            <button class="btn btn-secondary btn-sm" id="next-page-btn" onclick="changePage(1)">
-                Siguiente <i class="fa-solid fa-chevron-right"></i>
-            </button>
-        </div>
-    </main>
+            <!-- Paginación -->
+            <div class="pagination-area" id="pagination-area" style="display: none;">
+                <button class="btn btn-secondary btn-sm" id="prev-page-btn" onclick="changePage(-1)">
+                    <i class="fa-solid fa-chevron-left"></i> Anterior
+                </button>
+                <span class="page-indicator" id="page-indicator">Página 1 de 1</span>
+                <button class="btn btn-secondary btn-sm" id="next-page-btn" onclick="changePage(1)">
+                    Siguiente <i class="fa-solid fa-chevron-right"></i>
+                </button>
+            </div>
+        </main>
+
+        <aside class="sidebar-resources">
+            <!-- Tarjeta de Recursos -->
+            <div class="resource-card">
+                <div class="resource-card-header">
+                    <h3><i class="fa-solid fa-hand-holding-heart"></i> Recursos de Emergencia</h3>
+                </div>
+                <div class="resource-card-body">
+                    <h4 class="resource-title"><i class="fa-solid fa-box-open" style="color: var(--accent-secondary);"></i> Centros de Acopio Autorizados</h4>
+                    <ul class="resource-list">
+                        <li>
+                            <strong>Cruz Roja Candelaria:</strong> Av. Andrés Bello, Caracas.<br>
+                            <span class="resource-meta">(Recibe: Agua potable, insumos médicos y alimentos)</span>
+                        </li>
+                        <li>
+                            <strong>Polideportivo Chacao:</strong> Av. Francisco de Miranda, Caracas.<br>
+                            <span class="resource-meta">(Recibe: Medicamentos y ropa de abrigo)</span>
+                        </li>
+                    </ul>
+
+                    <h4 class="resource-title"><i class="fa-solid fa-building-shield" style="color: var(--state-found);"></i> Oficina de Coordinación</h4>
+                    <div class="office-box">
+                        <strong>Protección Civil Nacional</strong><br>
+                        <span class="office-address">Av. Rufino Blanco Fombona, Santa Mónica, Caracas.</span>
+                        <span class="office-phone"><i class="fa-solid fa-phone"></i> 0212-6627671 / 0800-7248451</span>
+                        <span class="emergency-badge"><i class="fa-solid fa-phone-volume"></i> Emergencias Sismo: 911</span>
+                    </div>
+                </div>
+            </div>
+        </aside>
+    </div>
+
+    <!-- Estilos de Soporte para el Sidebar Responsivo -->
+    <style>
+        .main-layout-split {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2rem;
+            align-items: start;
+        }
+
+        @media (min-width: 992px) {
+            .main-layout-split {
+                grid-template-columns: 2.8fr 1.2fr;
+            }
+        }
+
+        .sidebar-resources {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .resource-card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: var(--border-radius-md);
+            box-shadow: var(--shadow-sm);
+            overflow: hidden;
+        }
+
+        .resource-card-header {
+            padding: 1.25rem 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+            background-color: rgba(37, 99, 235, 0.03);
+        }
+
+        .resource-card-header h3 {
+            font-family: var(--font-heading);
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .resource-card-header h3 i {
+            color: var(--accent-primary);
+        }
+
+        .resource-card-body {
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1.25rem;
+        }
+
+        .resource-title {
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .resource-title i {
+            font-size: 0.95rem;
+        }
+
+        .resource-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .resource-list li {
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 0.6rem;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            line-height: 1.45;
+        }
+
+        .resource-list li:last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+
+        .resource-meta {
+            color: var(--text-muted);
+            font-size: 0.75rem;
+            display: block;
+            margin-top: 0.2rem;
+        }
+
+        .office-box {
+            background-color: var(--bg-input);
+            padding: 1rem;
+            border-radius: var(--border-radius-sm);
+            border: 1px solid var(--border-color);
+            font-size: 0.85rem;
+            line-height: 1.45;
+            color: var(--text-secondary);
+        }
+
+        .office-address {
+            font-size: 0.8rem;
+            display: block;
+            margin-top: 0.25rem;
+            margin-bottom: 0.25rem;
+        }
+
+        .office-phone {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            display: block;
+        }
+
+        .emergency-badge {
+            color: var(--state-missing);
+            font-weight: 700;
+            font-size: 0.8rem;
+            display: block;
+            margin-top: 0.5rem;
+        }
+    </style>
 
     <!-- Footer -->
     <footer class="main-footer">
